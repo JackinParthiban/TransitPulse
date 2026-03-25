@@ -1,0 +1,5001 @@
+route_id,hour_of_day,day_of_week,weather,actual_eta_minutes
+Route_ESP,13,6,Rain,15
+Route_B,15,3,Heavy Rain,34
+Route_B,10,4,Clear,26
+Route_ESP,8,6,Rain,24
+Route_A,16,4,Clear,18
+Route_B,14,3,Heavy Rain,45
+Route_A,6,2,Heavy Rain,34
+Route_ESP,7,5,Clear,5
+Route_A,19,3,Clear,15
+Route_ESP,22,4,Rain,16
+Route_ESP,9,3,Heavy Rain,43
+Route_B,10,5,Rain,22
+Route_A,8,2,Clear,32
+Route_ESP,18,5,Heavy Rain,31
+Route_B,13,2,Rain,29
+Route_A,7,1,Rain,20
+Route_ESP,17,6,Clear,16
+Route_A,21,4,Clear,15
+Route_A,9,0,Rain,25
+Route_ESP,6,5,Clear,7
+Route_A,17,2,Heavy Rain,39
+Route_ESP,11,4,Clear,10
+Route_B,17,0,Heavy Rain,50
+Route_ESP,9,4,Clear,19
+Route_B,20,6,Heavy Rain,43
+Route_ESP,10,3,Heavy Rain,30
+Route_A,13,4,Rain,17
+Route_A,21,3,Rain,15
+Route_B,22,5,Rain,26
+Route_B,7,2,Heavy Rain,41
+Route_B,6,4,Rain,30
+Route_ESP,8,5,Heavy Rain,33
+Route_ESP,8,3,Heavy Rain,38
+Route_A,20,4,Heavy Rain,33
+Route_ESP,12,6,Heavy Rain,22
+Route_A,16,3,Heavy Rain,31
+Route_A,13,1,Rain,23
+Route_ESP,21,0,Clear,8
+Route_A,18,0,Heavy Rain,45
+Route_ESP,9,4,Clear,23
+Route_B,14,4,Heavy Rain,43
+Route_B,16,5,Heavy Rain,39
+Route_B,9,4,Rain,36
+Route_ESP,7,5,Clear,11
+Route_ESP,20,4,Rain,13
+Route_B,21,5,Rain,27
+Route_ESP,6,5,Heavy Rain,26
+Route_ESP,20,1,Clear,12
+Route_A,15,6,Heavy Rain,27
+Route_A,12,6,Heavy Rain,22
+Route_A,16,1,Clear,16
+Route_B,10,3,Rain,30
+Route_ESP,13,2,Clear,12
+Route_A,9,5,Clear,23
+Route_ESP,13,1,Rain,14
+Route_ESP,6,3,Rain,17
+Route_B,7,4,Rain,30
+Route_ESP,10,1,Clear,12
+Route_ESP,14,0,Clear,12
+Route_A,11,2,Heavy Rain,29
+Route_ESP,10,4,Rain,13
+Route_A,7,3,Clear,13
+Route_B,9,5,Clear,29
+Route_ESP,11,4,Rain,14
+Route_ESP,18,2,Clear,14
+Route_A,20,5,Rain,17
+Route_A,11,2,Clear,16
+Route_ESP,22,4,Heavy Rain,22
+Route_A,22,6,Heavy Rain,30
+Route_ESP,8,3,Heavy Rain,28
+Route_B,6,4,Rain,27
+Route_B,11,4,Rain,30
+Route_B,13,1,Clear,28
+Route_B,22,6,Clear,28
+Route_A,7,0,Heavy Rain,29
+Route_A,11,3,Heavy Rain,30
+Route_B,21,0,Rain,26
+Route_ESP,7,2,Heavy Rain,28
+Route_A,20,3,Rain,18
+Route_B,15,2,Rain,27
+Route_A,10,3,Rain,18
+Route_ESP,13,1,Heavy Rain,32
+Route_ESP,13,3,Rain,12
+Route_B,11,6,Clear,19
+Route_ESP,18,6,Heavy Rain,29
+Route_ESP,10,4,Clear,10
+Route_A,16,1,Heavy Rain,25
+Route_B,20,0,Heavy Rain,41
+Route_B,19,2,Heavy Rain,38
+Route_A,7,6,Heavy Rain,22
+Route_B,21,2,Clear,26
+Route_ESP,7,0,Clear,12
+Route_ESP,17,3,Rain,30
+Route_B,20,3,Heavy Rain,46
+Route_B,8,5,Heavy Rain,47
+Route_A,17,4,Rain,30
+Route_A,10,5,Rain,16
+Route_B,17,3,Clear,36
+Route_A,19,5,Clear,15
+Route_A,13,4,Clear,16
+Route_B,9,1,Rain,34
+Route_A,12,3,Rain,18
+Route_ESP,16,5,Rain,15
+Route_A,12,2,Clear,13
+Route_B,21,0,Clear,25
+Route_A,18,4,Heavy Rain,42
+Route_B,13,2,Clear,24
+Route_A,22,0,Clear,18
+Route_A,10,0,Heavy Rain,30
+Route_A,13,4,Clear,16
+Route_ESP,14,6,Clear,5
+Route_B,8,0,Clear,33
+Route_A,17,4,Rain,32
+Route_A,13,3,Rain,18
+Route_A,21,0,Heavy Rain,36
+Route_ESP,18,5,Rain,23
+Route_A,20,3,Rain,17
+Route_A,18,2,Rain,32
+Route_A,18,1,Clear,24
+Route_ESP,10,4,Heavy Rain,30
+Route_B,22,5,Rain,26
+Route_ESP,11,0,Rain,13
+Route_A,10,1,Rain,22
+Route_B,13,6,Heavy Rain,44
+Route_ESP,7,2,Clear,10
+Route_A,12,1,Rain,18
+Route_A,6,3,Rain,17
+Route_ESP,8,2,Heavy Rain,33
+Route_ESP,19,5,Heavy Rain,24
+Route_A,21,3,Rain,23
+Route_B,15,3,Clear,28
+Route_ESP,14,4,Rain,12
+Route_B,17,2,Rain,42
+Route_A,7,3,Heavy Rain,32
+Route_A,16,4,Clear,17
+Route_B,18,2,Clear,32
+Route_B,16,4,Heavy Rain,41
+Route_A,16,2,Clear,18
+Route_B,7,1,Clear,25
+Route_ESP,10,0,Heavy Rain,28
+Route_B,22,6,Heavy Rain,41
+Route_B,17,2,Rain,36
+Route_B,13,1,Rain,30
+Route_B,13,6,Clear,26
+Route_B,7,6,Rain,25
+Route_B,13,1,Heavy Rain,45
+Route_B,17,2,Rain,37
+Route_ESP,19,0,Clear,11
+Route_ESP,17,1,Rain,21
+Route_B,16,0,Rain,29
+Route_A,16,5,Heavy Rain,28
+Route_ESP,6,3,Rain,13
+Route_ESP,15,0,Rain,13
+Route_B,8,4,Clear,35
+Route_A,14,1,Heavy Rain,35
+Route_A,22,6,Clear,15
+Route_ESP,15,5,Heavy Rain,22
+Route_ESP,19,0,Clear,11
+Route_A,7,3,Heavy Rain,31
+Route_ESP,10,4,Clear,12
+Route_B,9,1,Heavy Rain,42
+Route_ESP,18,5,Heavy Rain,33
+Route_A,13,4,Rain,17
+Route_B,15,6,Clear,24
+Route_B,11,4,Clear,23
+Route_ESP,16,3,Heavy Rain,26
+Route_B,15,3,Heavy Rain,45
+Route_ESP,15,1,Heavy Rain,24
+Route_B,21,2,Clear,23
+Route_ESP,20,4,Clear,9
+Route_A,6,0,Heavy Rain,31
+Route_ESP,6,5,Clear,12
+Route_ESP,19,0,Clear,13
+Route_ESP,6,5,Clear,7
+Route_ESP,9,3,Heavy Rain,39
+Route_A,17,0,Rain,25
+Route_ESP,15,6,Heavy Rain,26
+Route_B,21,6,Heavy Rain,37
+Route_A,21,6,Rain,20
+Route_A,6,0,Rain,22
+Route_A,22,1,Rain,17
+Route_ESP,19,6,Clear,6
+Route_B,12,2,Rain,29
+Route_ESP,16,3,Clear,8
+Route_ESP,10,5,Clear,12
+Route_A,6,5,Clear,11
+Route_B,10,0,Heavy Rain,41
+Route_ESP,16,6,Heavy Rain,14
+Route_B,21,0,Rain,31
+Route_ESP,20,5,Clear,6
+Route_ESP,19,6,Heavy Rain,23
+Route_ESP,12,3,Heavy Rain,31
+Route_ESP,21,3,Clear,10
+Route_A,22,2,Rain,20
+Route_ESP,20,2,Heavy Rain,20
+Route_A,22,3,Heavy Rain,32
+Route_A,12,4,Heavy Rain,33
+Route_ESP,13,5,Heavy Rain,19
+Route_B,22,6,Heavy Rain,35
+Route_A,16,6,Clear,14
+Route_B,6,2,Rain,27
+Route_B,21,2,Rain,27
+Route_A,14,5,Clear,14
+Route_A,10,3,Clear,15
+Route_B,9,2,Heavy Rain,54
+Route_B,18,5,Clear,36
+Route_A,16,4,Rain,22
+Route_ESP,6,6,Clear,7
+Route_B,18,6,Heavy Rain,46
+Route_ESP,8,3,Clear,19
+Route_ESP,12,2,Clear,8
+Route_A,8,3,Clear,23
+Route_B,21,5,Heavy Rain,36
+Route_A,16,6,Clear,12
+Route_B,12,3,Clear,23
+Route_A,22,6,Heavy Rain,25
+Route_ESP,7,4,Heavy Rain,21
+Route_B,20,2,Rain,28
+Route_B,7,6,Rain,23
+Route_B,8,2,Heavy Rain,55
+Route_ESP,18,4,Heavy Rain,32
+Route_B,10,5,Rain,32
+Route_ESP,6,1,Clear,11
+Route_ESP,10,0,Rain,16
+Route_A,21,5,Rain,14
+Route_B,17,5,Clear,39
+Route_B,21,0,Rain,28
+Route_A,22,6,Heavy Rain,20
+Route_B,16,1,Rain,27
+Route_ESP,11,6,Heavy Rain,23
+Route_A,22,4,Heavy Rain,29
+Route_ESP,22,4,Rain,11
+Route_A,17,5,Rain,26
+Route_A,16,5,Heavy Rain,27
+Route_ESP,16,5,Rain,11
+Route_B,22,0,Rain,29
+Route_A,10,0,Heavy Rain,37
+Route_ESP,20,2,Rain,15
+Route_B,9,0,Clear,42
+Route_A,12,3,Clear,16
+Route_B,17,0,Rain,41
+Route_A,19,1,Rain,19
+Route_B,11,0,Rain,27
+Route_ESP,10,6,Heavy Rain,20
+Route_ESP,14,2,Clear,11
+Route_A,20,3,Rain,19
+Route_A,13,4,Clear,18
+Route_B,12,4,Heavy Rain,40
+Route_ESP,11,4,Heavy Rain,26
+Route_B,6,2,Rain,30
+Route_ESP,14,0,Heavy Rain,25
+Route_B,10,5,Clear,24
+Route_A,10,6,Rain,19
+Route_B,22,2,Clear,25
+Route_ESP,7,1,Rain,13
+Route_B,12,5,Rain,25
+Route_A,18,1,Rain,30
+Route_B,22,3,Clear,25
+Route_ESP,16,2,Clear,13
+Route_ESP,11,0,Clear,13
+Route_ESP,11,6,Clear,12
+Route_A,20,3,Heavy Rain,30
+Route_B,14,0,Rain,32
+Route_B,7,5,Heavy Rain,36
+Route_A,19,0,Rain,17
+Route_B,10,1,Clear,28
+Route_B,21,6,Heavy Rain,33
+Route_ESP,6,5,Heavy Rain,25
+Route_ESP,8,6,Rain,21
+Route_ESP,19,4,Clear,11
+Route_ESP,18,0,Heavy Rain,41
+Route_B,19,4,Rain,32
+Route_ESP,21,3,Clear,9
+Route_ESP,15,0,Heavy Rain,20
+Route_B,17,4,Clear,38
+Route_ESP,14,1,Clear,9
+Route_A,11,6,Heavy Rain,33
+Route_A,22,1,Clear,13
+Route_B,22,4,Clear,23
+Route_B,16,5,Clear,20
+Route_A,18,0,Heavy Rain,46
+Route_B,16,1,Clear,28
+Route_B,12,2,Heavy Rain,38
+Route_B,7,1,Heavy Rain,43
+Route_B,9,2,Clear,37
+Route_A,11,2,Heavy Rain,36
+Route_B,14,0,Clear,26
+Route_ESP,18,3,Rain,30
+Route_ESP,9,3,Heavy Rain,39
+Route_B,18,5,Clear,40
+Route_A,20,0,Heavy Rain,31
+Route_ESP,20,1,Rain,10
+Route_B,10,0,Heavy Rain,37
+Route_ESP,15,0,Heavy Rain,21
+Route_ESP,8,2,Clear,25
+Route_A,6,3,Clear,16
+Route_B,17,2,Rain,33
+Route_ESP,22,5,Heavy Rain,20
+Route_B,19,1,Heavy Rain,36
+Route_B,19,6,Heavy Rain,40
+Route_B,9,3,Rain,36
+Route_ESP,12,6,Clear,7
+Route_B,14,5,Clear,23
+Route_ESP,7,6,Heavy Rain,19
+Route_B,7,4,Heavy Rain,42
+Route_B,7,1,Heavy Rain,47
+Route_B,13,0,Rain,30
+Route_ESP,18,0,Rain,18
+Route_A,7,3,Rain,20
+Route_B,13,1,Heavy Rain,38
+Route_ESP,20,1,Rain,10
+Route_A,12,1,Clear,15
+Route_B,7,2,Clear,26
+Route_B,20,4,Rain,29
+Route_ESP,17,2,Clear,17
+Route_A,16,3,Rain,18
+Route_A,17,5,Rain,27
+Route_ESP,7,5,Rain,14
+Route_B,9,2,Heavy Rain,47
+Route_A,6,2,Clear,18
+Route_ESP,21,6,Heavy Rain,29
+Route_ESP,19,2,Rain,13
+Route_A,12,1,Clear,18
+Route_A,8,6,Rain,34
+Route_ESP,8,6,Heavy Rain,37
+Route_A,15,4,Heavy Rain,36
+Route_A,9,4,Clear,29
+Route_B,22,4,Clear,24
+Route_A,18,1,Heavy Rain,41
+Route_B,8,5,Clear,30
+Route_ESP,18,5,Clear,17
+Route_ESP,8,1,Clear,22
+Route_ESP,12,6,Heavy Rain,30
+Route_B,10,5,Rain,27
+Route_B,7,6,Clear,24
+Route_ESP,14,4,Heavy Rain,29
+Route_B,10,0,Clear,25
+Route_A,6,4,Clear,13
+Route_A,21,5,Heavy Rain,28
+Route_B,21,4,Clear,25
+Route_A,18,2,Clear,25
+Route_A,16,0,Rain,18
+Route_ESP,11,2,Heavy Rain,23
+Route_A,19,3,Rain,17
+Route_ESP,12,6,Heavy Rain,26
+Route_B,12,0,Rain,31
+Route_B,9,2,Clear,35
+Route_A,17,3,Clear,30
+Route_B,7,5,Clear,20
+Route_ESP,18,3,Clear,22
+Route_ESP,12,1,Heavy Rain,25
+Route_B,15,5,Rain,29
+Route_ESP,9,2,Rain,27
+Route_A,7,4,Clear,18
+Route_ESP,8,4,Heavy Rain,41
+Route_A,7,4,Rain,19
+Route_ESP,14,5,Clear,8
+Route_ESP,22,0,Clear,9
+Route_ESP,9,6,Clear,24
+Route_B,13,2,Heavy Rain,40
+Route_B,19,3,Rain,32
+Route_ESP,14,1,Clear,12
+Route_A,17,3,Heavy Rain,44
+Route_B,18,1,Rain,35
+Route_B,6,1,Rain,32
+Route_ESP,12,1,Heavy Rain,29
+Route_B,6,1,Clear,26
+Route_ESP,20,0,Rain,11
+Route_A,14,6,Clear,14
+Route_A,6,0,Clear,16
+Route_A,6,2,Heavy Rain,37
+Route_ESP,8,3,Rain,24
+Route_A,12,4,Heavy Rain,32
+Route_A,21,4,Rain,20
+Route_B,6,3,Clear,27
+Route_A,12,0,Rain,16
+Route_A,14,4,Rain,21
+Route_B,9,4,Heavy Rain,54
+Route_A,7,2,Rain,21
+Route_A,18,1,Clear,29
+Route_A,22,4,Clear,18
+Route_B,21,1,Rain,27
+Route_ESP,13,4,Rain,16
+Route_ESP,21,1,Clear,9
+Route_B,11,2,Heavy Rain,36
+Route_B,9,5,Clear,30
+Route_B,8,1,Heavy Rain,40
+Route_A,6,1,Clear,18
+Route_ESP,15,0,Clear,12
+Route_B,8,2,Clear,36
+Route_A,9,3,Rain,34
+Route_ESP,12,5,Rain,14
+Route_B,12,1,Rain,31
+Route_ESP,21,3,Rain,16
+Route_B,18,4,Heavy Rain,54
+Route_ESP,16,1,Clear,12
+Route_A,12,2,Clear,18
+Route_A,13,4,Heavy Rain,34
+Route_ESP,19,1,Heavy Rain,26
+Route_ESP,12,1,Heavy Rain,23
+Route_A,12,0,Clear,14
+Route_B,6,0,Rain,30
+Route_B,21,4,Clear,26
+Route_A,9,3,Rain,26
+Route_ESP,17,3,Heavy Rain,30
+Route_A,6,0,Rain,21
+Route_B,6,2,Rain,29
+Route_ESP,12,6,Clear,8
+Route_B,12,5,Clear,24
+Route_B,15,4,Clear,25
+Route_ESP,6,6,Heavy Rain,22
+Route_B,19,1,Rain,29
+Route_B,18,0,Heavy Rain,41
+Route_B,11,5,Clear,23
+Route_ESP,22,5,Rain,12
+Route_ESP,10,4,Heavy Rain,23
+Route_B,10,5,Heavy Rain,38
+Route_ESP,12,0,Rain,10
+Route_B,16,3,Rain,29
+Route_ESP,15,5,Clear,7
+Route_B,9,5,Heavy Rain,51
+Route_A,19,2,Rain,18
+Route_ESP,16,2,Clear,12
+Route_ESP,9,3,Heavy Rain,36
+Route_A,22,1,Clear,16
+Route_B,9,1,Heavy Rain,44
+Route_ESP,13,2,Heavy Rain,23
+Route_B,6,4,Clear,25
+Route_A,20,1,Rain,16
+Route_ESP,19,0,Heavy Rain,21
+Route_B,14,1,Rain,32
+Route_A,6,1,Clear,16
+Route_A,14,4,Heavy Rain,35
+Route_A,10,4,Rain,21
+Route_ESP,21,1,Clear,10
+Route_A,10,2,Heavy Rain,30
+Route_B,16,0,Rain,30
+Route_B,13,0,Rain,26
+Route_ESP,17,0,Rain,21
+Route_ESP,12,1,Heavy Rain,27
+Route_A,10,4,Clear,14
+Route_B,13,0,Clear,25
+Route_ESP,18,1,Rain,21
+Route_B,12,2,Heavy Rain,42
+Route_B,15,3,Rain,32
+Route_B,7,3,Rain,31
+Route_B,7,3,Heavy Rain,42
+Route_A,14,1,Clear,17
+Route_B,19,2,Heavy Rain,42
+Route_ESP,17,1,Rain,23
+Route_ESP,22,0,Rain,13
+Route_B,20,4,Rain,27
+Route_B,10,4,Rain,29
+Route_A,9,6,Clear,18
+Route_B,6,0,Heavy Rain,35
+Route_A,20,3,Clear,18
+Route_B,15,6,Rain,24
+Route_ESP,12,4,Heavy Rain,24
+Route_A,22,2,Rain,17
+Route_ESP,6,0,Rain,14
+Route_B,22,5,Heavy Rain,44
+Route_B,9,2,Rain,37
+Route_ESP,22,0,Heavy Rain,25
+Route_ESP,8,0,Heavy Rain,33
+Route_B,19,6,Heavy Rain,34
+Route_A,7,6,Heavy Rain,30
+Route_B,21,3,Heavy Rain,42
+Route_A,10,4,Clear,15
+Route_A,10,3,Clear,16
+Route_B,22,5,Rain,28
+Route_A,20,6,Heavy Rain,27
+Route_ESP,19,5,Heavy Rain,17
+Route_A,10,6,Clear,11
+Route_ESP,21,6,Rain,8
+Route_A,14,1,Heavy Rain,32
+Route_ESP,12,4,Rain,14
+Route_B,8,6,Heavy Rain,51
+Route_B,14,0,Clear,26
+Route_A,18,6,Clear,18
+Route_B,21,5,Clear,23
+Route_A,9,2,Heavy Rain,45
+Route_B,17,0,Heavy Rain,60
+Route_B,9,4,Clear,38
+Route_A,17,0,Clear,23
+Route_B,13,2,Clear,27
+Route_B,18,2,Clear,32
+Route_ESP,6,6,Heavy Rain,28
+Route_ESP,9,2,Clear,22
+Route_A,15,4,Rain,22
+Route_ESP,13,6,Rain,12
+Route_ESP,8,1,Clear,25
+Route_ESP,9,2,Clear,17
+Route_A,9,1,Heavy Rain,38
+Route_A,13,4,Heavy Rain,35
+Route_B,15,2,Heavy Rain,38
+Route_A,12,1,Clear,16
+Route_A,10,1,Rain,20
+Route_A,13,2,Clear,14
+Route_A,8,2,Clear,20
+Route_B,15,3,Heavy Rain,42
+Route_ESP,17,6,Heavy Rain,29
+Route_B,8,5,Clear,30
+Route_B,11,0,Rain,30
+Route_B,13,4,Heavy Rain,40
+Route_A,7,5,Heavy Rain,24
+Route_ESP,19,0,Clear,10
+Route_A,18,4,Rain,27
+Route_A,17,3,Rain,26
+Route_A,21,5,Rain,13
+Route_ESP,21,6,Rain,16
+Route_B,18,4,Rain,40
+Route_B,20,5,Heavy Rain,31
+Route_ESP,7,3,Rain,17
+Route_A,9,3,Rain,22
+Route_ESP,7,1,Rain,10
+Route_A,13,1,Clear,13
+Route_ESP,8,1,Rain,24
+Route_A,13,3,Heavy Rain,29
+Route_B,20,0,Clear,27
+Route_A,6,1,Clear,14
+Route_ESP,8,6,Clear,18
+Route_B,13,5,Heavy Rain,37
+Route_A,21,1,Rain,19
+Route_ESP,10,5,Rain,12
+Route_A,15,2,Rain,22
+Route_B,6,0,Clear,27
+Route_ESP,19,5,Clear,4
+Route_ESP,9,1,Clear,15
+Route_B,22,6,Heavy Rain,45
+Route_ESP,17,2,Clear,25
+Route_A,7,4,Heavy Rain,26
+Route_ESP,10,2,Heavy Rain,24
+Route_B,21,6,Heavy Rain,41
+Route_ESP,11,2,Heavy Rain,28
+Route_ESP,14,4,Clear,10
+Route_A,11,6,Rain,14
+Route_ESP,16,2,Clear,10
+Route_A,21,3,Rain,17
+Route_B,21,4,Rain,26
+Route_B,11,6,Clear,22
+Route_ESP,11,1,Rain,15
+Route_B,19,4,Rain,31
+Route_A,17,2,Clear,24
+Route_B,6,2,Clear,23
+Route_ESP,8,5,Rain,18
+Route_B,21,6,Heavy Rain,38
+Route_A,6,2,Heavy Rain,38
+Route_B,7,0,Rain,28
+Route_ESP,10,3,Clear,10
+Route_A,12,6,Rain,19
+Route_ESP,14,5,Rain,11
+Route_A,11,1,Clear,13
+Route_A,11,0,Rain,18
+Route_B,18,1,Heavy Rain,50
+Route_B,21,3,Rain,32
+Route_ESP,15,4,Clear,8
+Route_B,19,6,Heavy Rain,43
+Route_B,20,5,Heavy Rain,37
+Route_A,21,4,Clear,14
+Route_ESP,22,5,Heavy Rain,21
+Route_ESP,17,4,Clear,21
+Route_A,8,1,Clear,30
+Route_A,15,0,Heavy Rain,29
+Route_A,16,6,Clear,16
+Route_ESP,9,5,Clear,21
+Route_ESP,19,5,Clear,10
+Route_ESP,7,0,Clear,13
+Route_B,21,2,Clear,27
+Route_B,21,2,Rain,28
+Route_A,8,4,Rain,30
+Route_B,20,5,Rain,27
+Route_B,13,3,Heavy Rain,40
+Route_A,15,1,Clear,18
+Route_B,21,1,Rain,27
+Route_ESP,16,0,Clear,10
+Route_B,13,6,Heavy Rain,32
+Route_B,7,0,Heavy Rain,47
+Route_B,12,2,Clear,27
+Route_A,6,1,Clear,15
+Route_ESP,21,3,Heavy Rain,28
+Route_ESP,7,1,Heavy Rain,32
+Route_A,11,2,Heavy Rain,34
+Route_B,14,4,Clear,28
+Route_B,9,4,Clear,38
+Route_B,19,2,Rain,29
+Route_ESP,18,4,Rain,23
+Route_ESP,7,5,Rain,14
+Route_B,13,0,Rain,29
+Route_A,7,5,Rain,15
+Route_ESP,15,3,Heavy Rain,27
+Route_A,19,5,Clear,10
+Route_ESP,8,1,Heavy Rain,38
+Route_A,16,0,Clear,14
+Route_B,11,4,Heavy Rain,44
+Route_A,18,1,Clear,25
+Route_ESP,10,1,Clear,13
+Route_ESP,13,4,Clear,8
+Route_B,11,5,Clear,23
+Route_A,19,1,Rain,19
+Route_B,11,3,Heavy Rain,36
+Route_ESP,8,0,Heavy Rain,30
+Route_ESP,19,4,Clear,13
+Route_B,14,4,Rain,27
+Route_ESP,12,6,Heavy Rain,29
+Route_A,12,1,Clear,17
+Route_ESP,21,5,Clear,5
+Route_A,8,5,Heavy Rain,32
+Route_ESP,12,6,Clear,6
+Route_ESP,22,4,Heavy Rain,26
+Route_B,8,0,Clear,31
+Route_ESP,7,3,Heavy Rain,31
+Route_ESP,11,5,Clear,9
+Route_ESP,21,6,Clear,7
+Route_A,9,1,Rain,24
+Route_B,9,1,Rain,35
+Route_ESP,8,2,Clear,21
+Route_ESP,18,4,Clear,25
+Route_ESP,22,2,Clear,9
+Route_A,8,6,Heavy Rain,40
+Route_A,10,6,Clear,17
+Route_ESP,16,4,Clear,10
+Route_A,9,5,Rain,22
+Route_ESP,22,5,Heavy Rain,19
+Route_B,18,6,Heavy Rain,53
+Route_B,11,2,Heavy Rain,45
+Route_ESP,15,4,Heavy Rain,30
+Route_A,15,2,Clear,18
+Route_A,13,1,Heavy Rain,33
+Route_B,8,6,Rain,39
+Route_ESP,14,1,Heavy Rain,26
+Route_B,6,6,Heavy Rain,37
+Route_B,22,2,Heavy Rain,38
+Route_B,19,0,Rain,27
+Route_ESP,14,4,Rain,16
+Route_ESP,21,6,Heavy Rain,20
+Route_ESP,18,0,Heavy Rain,39
+Route_A,22,4,Clear,15
+Route_B,14,5,Rain,23
+Route_ESP,14,6,Rain,10
+Route_B,14,3,Rain,30
+Route_ESP,14,6,Heavy Rain,27
+Route_B,9,2,Rain,40
+Route_B,10,6,Rain,28
+Route_A,13,5,Clear,13
+Route_ESP,15,1,Rain,14
+Route_A,20,5,Rain,18
+Route_B,6,3,Clear,28
+Route_A,16,1,Clear,17
+Route_ESP,14,6,Clear,6
+Route_ESP,11,6,Clear,10
+Route_A,12,6,Rain,21
+Route_ESP,15,3,Clear,10
+Route_ESP,15,0,Heavy Rain,25
+Route_A,7,0,Clear,16
+Route_ESP,20,2,Heavy Rain,31
+Route_B,7,1,Rain,28
+Route_B,6,3,Rain,29
+Route_A,19,5,Clear,9
+Route_ESP,11,6,Rain,9
+Route_B,8,1,Heavy Rain,54
+Route_ESP,8,5,Rain,22
+Route_B,15,5,Clear,24
+Route_B,9,6,Rain,31
+Route_A,15,1,Rain,19
+Route_A,18,3,Heavy Rain,40
+Route_A,10,4,Clear,17
+Route_ESP,18,6,Clear,13
+Route_B,12,0,Heavy Rain,36
+Route_B,6,0,Heavy Rain,41
+Route_B,21,2,Heavy Rain,44
+Route_B,13,0,Rain,31
+Route_ESP,18,0,Heavy Rain,36
+Route_B,9,3,Heavy Rain,53
+Route_ESP,19,6,Rain,17
+Route_A,10,1,Clear,18
+Route_ESP,14,0,Clear,13
+Route_A,13,2,Heavy Rain,34
+Route_A,17,6,Rain,28
+Route_ESP,18,6,Rain,23
+Route_B,12,2,Heavy Rain,43
+Route_B,14,6,Rain,22
+Route_B,12,0,Rain,30
+Route_A,18,6,Clear,19
+Route_B,15,0,Heavy Rain,43
+Route_ESP,22,4,Heavy Rain,26
+Route_B,22,0,Rain,28
+Route_ESP,10,5,Rain,8
+Route_B,7,6,Rain,23
+Route_B,13,6,Heavy Rain,42
+Route_A,12,4,Clear,14
+Route_B,14,0,Clear,23
+Route_A,17,5,Heavy Rain,41
+Route_A,8,0,Rain,26
+Route_A,7,6,Rain,17
+Route_A,22,3,Rain,15
+Route_B,13,3,Heavy Rain,37
+Route_ESP,9,2,Heavy Rain,36
+Route_B,11,2,Rain,32
+Route_ESP,8,4,Rain,25
+Route_ESP,19,6,Clear,11
+Route_ESP,8,4,Heavy Rain,35
+Route_ESP,14,0,Rain,14
+Route_A,17,6,Heavy Rain,36
+Route_B,6,5,Heavy Rain,38
+Route_A,20,2,Heavy Rain,27
+Route_B,19,0,Clear,26
+Route_B,16,6,Heavy Rain,35
+Route_ESP,20,4,Heavy Rain,26
+Route_B,16,4,Heavy Rain,36
+Route_B,22,2,Rain,30
+Route_A,22,3,Rain,21
+Route_A,15,3,Clear,14
+Route_A,16,0,Clear,16
+Route_A,18,6,Clear,14
+Route_A,15,5,Rain,16
+Route_ESP,11,2,Clear,11
+Route_B,15,2,Rain,28
+Route_B,12,4,Heavy Rain,42
+Route_ESP,19,3,Heavy Rain,27
+Route_B,12,0,Heavy Rain,38
+Route_B,12,0,Heavy Rain,36
+Route_B,12,5,Heavy Rain,46
+Route_B,8,1,Clear,34
+Route_ESP,17,5,Clear,15
+Route_A,18,1,Rain,27
+Route_A,20,3,Rain,15
+Route_B,17,0,Clear,35
+Route_ESP,17,0,Rain,20
+Route_A,7,0,Heavy Rain,27
+Route_B,9,0,Heavy Rain,49
+Route_B,9,2,Rain,33
+Route_B,9,6,Rain,37
+Route_ESP,19,3,Clear,13
+Route_ESP,19,1,Clear,9
+Route_A,22,3,Heavy Rain,26
+Route_B,22,1,Heavy Rain,39
+Route_B,6,5,Rain,26
+Route_B,13,5,Clear,26
+Route_ESP,11,2,Clear,11
+Route_ESP,7,5,Clear,12
+Route_A,10,0,Heavy Rain,32
+Route_A,14,1,Clear,16
+Route_ESP,11,6,Heavy Rain,21
+Route_ESP,12,2,Clear,8
+Route_B,19,5,Heavy Rain,44
+Route_ESP,7,5,Heavy Rain,19
+Route_A,10,3,Rain,19
+Route_B,19,3,Clear,28
+Route_ESP,12,1,Heavy Rain,25
+Route_B,21,6,Rain,28
+Route_A,6,1,Heavy Rain,29
+Route_ESP,15,2,Clear,13
+Route_A,15,1,Rain,18
+Route_B,13,0,Rain,28
+Route_ESP,18,3,Rain,29
+Route_A,6,4,Clear,14
+Route_A,7,0,Heavy Rain,28
+Route_ESP,16,3,Clear,9
+Route_A,19,0,Rain,18
+Route_ESP,10,6,Rain,12
+Route_A,15,4,Heavy Rain,30
+Route_ESP,16,2,Clear,8
+Route_A,17,5,Clear,27
+Route_ESP,6,5,Rain,11
+Route_A,14,0,Rain,15
+Route_A,17,2,Heavy Rain,42
+Route_B,22,3,Rain,28
+Route_B,9,0,Clear,40
+Route_A,14,1,Clear,14
+Route_B,9,0,Clear,41
+Route_ESP,18,4,Heavy Rain,34
+Route_ESP,16,3,Heavy Rain,25
+Route_B,8,4,Rain,35
+Route_A,13,1,Clear,14
+Route_A,14,3,Rain,16
+Route_ESP,9,1,Heavy Rain,36
+Route_A,18,0,Heavy Rain,42
+Route_ESP,12,1,Heavy Rain,29
+Route_ESP,14,4,Heavy Rain,29
+Route_B,7,2,Clear,24
+Route_B,10,6,Clear,23
+Route_B,19,0,Heavy Rain,38
+Route_ESP,15,5,Rain,13
+Route_B,20,6,Heavy Rain,34
+Route_ESP,11,2,Rain,16
+Route_B,19,0,Heavy Rain,40
+Route_B,18,2,Heavy Rain,44
+Route_A,19,0,Heavy Rain,28
+Route_B,18,0,Rain,38
+Route_B,15,2,Rain,31
+Route_B,13,5,Clear,21
+Route_ESP,22,4,Clear,11
+Route_B,21,4,Clear,27
+Route_B,9,0,Heavy Rain,42
+Route_B,11,1,Rain,30
+Route_A,21,3,Clear,16
+Route_ESP,10,3,Clear,8
+Route_A,15,1,Heavy Rain,30
+Route_A,15,1,Rain,21
+Route_A,8,2,Clear,24
+Route_A,19,5,Clear,11
+Route_B,22,4,Clear,27
+Route_B,16,6,Heavy Rain,34
+Route_B,17,2,Rain,42
+Route_A,18,0,Heavy Rain,36
+Route_ESP,8,1,Rain,20
+Route_ESP,9,1,Rain,20
+Route_ESP,12,3,Rain,11
+Route_ESP,10,0,Clear,13
+Route_ESP,19,0,Clear,12
+Route_A,13,0,Clear,15
+Route_B,6,1,Heavy Rain,42
+Route_A,12,6,Rain,16
+Route_ESP,18,4,Heavy Rain,31
+Route_B,20,4,Rain,26
+Route_ESP,13,5,Rain,16
+Route_ESP,15,1,Rain,12
+Route_B,15,1,Rain,29
+Route_ESP,6,2,Clear,10
+Route_A,13,5,Clear,10
+Route_ESP,22,6,Rain,13
+Route_ESP,12,3,Heavy Rain,25
+Route_A,8,2,Clear,27
+Route_B,20,1,Rain,28
+Route_ESP,15,2,Clear,10
+Route_ESP,22,5,Heavy Rain,25
+Route_A,18,3,Clear,30
+Route_B,13,0,Rain,29
+Route_A,19,3,Heavy Rain,34
+Route_ESP,10,4,Heavy Rain,22
+Route_ESP,16,2,Rain,15
+Route_ESP,21,5,Clear,4
+Route_ESP,12,1,Heavy Rain,23
+Route_B,19,0,Rain,29
+Route_ESP,19,6,Clear,7
+Route_B,12,3,Clear,24
+Route_B,11,1,Heavy Rain,39
+Route_B,22,4,Heavy Rain,39
+Route_B,17,1,Heavy Rain,46
+Route_ESP,14,4,Clear,12
+Route_ESP,6,3,Clear,10
+Route_ESP,9,4,Heavy Rain,36
+Route_ESP,7,2,Rain,16
+Route_B,13,4,Rain,32
+Route_ESP,16,3,Rain,13
+Route_ESP,18,4,Clear,20
+Route_ESP,12,4,Rain,15
+Route_B,12,2,Heavy Rain,43
+Route_ESP,6,1,Heavy Rain,32
+Route_A,19,1,Heavy Rain,28
+Route_ESP,11,6,Clear,10
+Route_B,13,4,Heavy Rain,40
+Route_A,9,1,Heavy Rain,43
+Route_A,9,6,Clear,22
+Route_A,14,2,Clear,14
+Route_ESP,20,2,Rain,15
+Route_A,17,2,Heavy Rain,36
+Route_B,21,3,Clear,26
+Route_A,9,3,Rain,29
+Route_ESP,21,4,Rain,12
+Route_B,9,1,Rain,39
+Route_A,21,1,Rain,20
+Route_ESP,9,0,Heavy Rain,29
+Route_A,6,6,Heavy Rain,35
+Route_B,11,6,Clear,19
+Route_ESP,6,5,Heavy Rain,22
+Route_A,14,6,Heavy Rain,34
+Route_A,19,4,Heavy Rain,31
+Route_B,8,0,Heavy Rain,48
+Route_A,10,5,Clear,18
+Route_B,13,2,Clear,27
+Route_ESP,13,3,Heavy Rain,24
+Route_B,20,2,Heavy Rain,38
+Route_ESP,21,0,Rain,14
+Route_A,9,3,Rain,28
+Route_A,19,2,Rain,19
+Route_B,11,6,Rain,26
+Route_B,10,4,Heavy Rain,44
+Route_A,19,4,Heavy Rain,34
+Route_A,15,6,Heavy Rain,30
+Route_A,6,1,Rain,19
+Route_ESP,11,3,Clear,11
+Route_A,12,6,Clear,13
+Route_ESP,22,6,Clear,9
+Route_A,10,4,Heavy Rain,26
+Route_A,6,6,Rain,17
+Route_B,14,1,Clear,27
+Route_B,13,3,Clear,28
+Route_A,10,2,Rain,19
+Route_A,17,0,Heavy Rain,47
+Route_B,7,5,Clear,22
+Route_ESP,13,3,Rain,16
+Route_B,17,0,Clear,37
+Route_ESP,7,3,Clear,10
+Route_B,8,0,Heavy Rain,50
+Route_ESP,12,5,Rain,10
+Route_ESP,15,1,Rain,16
+Route_A,7,4,Clear,13
+Route_A,16,5,Rain,18
+Route_B,14,1,Heavy Rain,44
+Route_B,12,0,Clear,25
+Route_ESP,22,3,Rain,18
+Route_B,18,2,Rain,45
+Route_A,17,3,Rain,25
+Route_B,21,1,Clear,27
+Route_B,15,6,Rain,28
+Route_ESP,8,2,Rain,24
+Route_B,12,6,Rain,22
+Route_B,18,6,Clear,29
+Route_ESP,21,3,Heavy Rain,26
+Route_B,13,0,Rain,32
+Route_ESP,7,1,Clear,12
+Route_B,21,3,Clear,26
+Route_A,9,0,Rain,28
+Route_A,16,5,Clear,12
+Route_B,13,2,Rain,30
+Route_ESP,10,0,Heavy Rain,23
+Route_B,19,1,Rain,27
+Route_A,11,3,Clear,15
+Route_B,7,5,Clear,24
+Route_A,15,3,Heavy Rain,29
+Route_A,8,5,Heavy Rain,33
+Route_ESP,13,6,Heavy Rain,14
+Route_ESP,15,0,Clear,8
+Route_B,16,2,Heavy Rain,38
+Route_ESP,11,2,Rain,11
+Route_A,16,3,Clear,13
+Route_A,19,4,Rain,17
+Route_B,20,6,Rain,25
+Route_A,22,3,Rain,22
+Route_A,7,6,Heavy Rain,34
+Route_B,13,6,Heavy Rain,34
+Route_ESP,15,0,Clear,8
+Route_ESP,18,4,Heavy Rain,47
+Route_B,22,0,Clear,24
+Route_ESP,8,4,Clear,22
+Route_A,11,1,Heavy Rain,32
+Route_ESP,7,0,Rain,17
+Route_B,6,6,Rain,26
+Route_B,11,1,Heavy Rain,43
+Route_ESP,8,4,Heavy Rain,28
+Route_A,16,3,Clear,18
+Route_ESP,11,5,Heavy Rain,23
+Route_ESP,10,3,Heavy Rain,21
+Route_ESP,14,4,Rain,14
+Route_B,13,0,Rain,28
+Route_B,21,5,Rain,27
+Route_B,22,4,Rain,31
+Route_B,18,6,Rain,35
+Route_A,6,4,Clear,18
+Route_B,16,4,Clear,27
+Route_ESP,11,0,Clear,10
+Route_A,6,4,Rain,20
+Route_ESP,10,1,Rain,16
+Route_B,8,5,Clear,41
+Route_B,15,1,Clear,27
+Route_A,9,6,Heavy Rain,40
+Route_B,16,3,Rain,26
+Route_B,18,5,Heavy Rain,42
+Route_A,11,5,Clear,12
+Route_A,20,2,Heavy Rain,26
+Route_A,17,1,Heavy Rain,42
+Route_B,15,6,Rain,26
+Route_ESP,19,6,Clear,4
+Route_A,20,5,Rain,16
+Route_ESP,14,5,Rain,10
+Route_ESP,15,6,Rain,10
+Route_B,20,6,Heavy Rain,47
+Route_B,9,4,Rain,37
+Route_ESP,7,3,Heavy Rain,23
+Route_ESP,9,5,Heavy Rain,37
+Route_A,10,6,Heavy Rain,30
+Route_ESP,18,2,Rain,20
+Route_B,19,3,Clear,28
+Route_B,19,5,Rain,28
+Route_A,17,5,Clear,27
+Route_B,17,2,Clear,30
+Route_A,9,0,Clear,22
+Route_ESP,6,3,Heavy Rain,27
+Route_A,15,3,Clear,18
+Route_ESP,6,6,Rain,16
+Route_ESP,17,5,Rain,25
+Route_A,12,6,Heavy Rain,31
+Route_A,14,6,Heavy Rain,29
+Route_B,15,5,Rain,25
+Route_A,22,0,Rain,21
+Route_B,20,3,Heavy Rain,41
+Route_B,19,5,Rain,24
+Route_ESP,6,2,Rain,10
+Route_ESP,8,1,Rain,21
+Route_ESP,19,2,Heavy Rain,20
+Route_B,16,3,Heavy Rain,41
+Route_A,13,1,Rain,19
+Route_A,20,0,Heavy Rain,27
+Route_ESP,19,5,Clear,9
+Route_A,12,5,Clear,14
+Route_A,6,1,Rain,21
+Route_B,6,1,Rain,29
+Route_A,17,1,Clear,25
+Route_A,15,3,Rain,19
+Route_ESP,10,5,Heavy Rain,21
+Route_ESP,7,6,Rain,15
+Route_A,10,3,Heavy Rain,26
+Route_B,13,0,Clear,26
+Route_B,11,6,Rain,25
+Route_A,18,1,Clear,26
+Route_ESP,21,1,Rain,15
+Route_A,22,1,Heavy Rain,35
+Route_B,19,5,Rain,30
+Route_B,7,2,Clear,24
+Route_A,14,6,Heavy Rain,31
+Route_A,6,0,Clear,14
+Route_A,6,2,Clear,17
+Route_B,7,1,Clear,28
+Route_A,12,4,Heavy Rain,30
+Route_A,15,3,Rain,16
+Route_A,17,3,Heavy Rain,44
+Route_ESP,12,4,Rain,13
+Route_B,22,4,Heavy Rain,39
+Route_ESP,13,4,Heavy Rain,28
+Route_A,8,5,Clear,26
+Route_A,21,6,Heavy Rain,28
+Route_ESP,13,3,Heavy Rain,18
+Route_B,12,2,Heavy Rain,36
+Route_A,8,0,Heavy Rain,39
+Route_ESP,20,3,Rain,12
+Route_B,10,4,Rain,32
+Route_ESP,9,5,Clear,17
+Route_A,15,2,Heavy Rain,25
+Route_B,9,1,Rain,43
+Route_B,22,6,Clear,20
+Route_A,19,0,Clear,17
+Route_A,20,2,Rain,15
+Route_ESP,11,6,Heavy Rain,22
+Route_B,6,4,Heavy Rain,39
+Route_A,14,4,Heavy Rain,24
+Route_ESP,15,0,Rain,14
+Route_B,8,1,Rain,38
+Route_ESP,19,0,Clear,12
+Route_A,9,2,Clear,23
+Route_B,7,4,Heavy Rain,34
+Route_ESP,16,6,Clear,10
+Route_B,8,4,Clear,35
+Route_B,11,4,Rain,28
+Route_B,22,3,Heavy Rain,41
+Route_B,11,0,Heavy Rain,42
+Route_B,16,1,Heavy Rain,36
+Route_ESP,20,3,Heavy Rain,31
+Route_ESP,8,4,Rain,28
+Route_B,6,1,Rain,32
+Route_B,12,3,Clear,27
+Route_ESP,13,0,Clear,10
+Route_ESP,8,0,Clear,26
+Route_ESP,22,3,Clear,13
+Route_B,16,1,Rain,27
+Route_B,21,5,Clear,23
+Route_A,15,0,Rain,20
+Route_A,15,5,Heavy Rain,31
+Route_ESP,9,6,Clear,20
+Route_ESP,19,3,Rain,13
+Route_B,10,2,Rain,31
+Route_A,7,0,Rain,21
+Route_A,18,5,Rain,31
+Route_A,6,3,Clear,18
+Route_A,22,0,Heavy Rain,28
+Route_A,18,4,Heavy Rain,39
+Route_A,21,1,Heavy Rain,27
+Route_ESP,22,0,Rain,16
+Route_ESP,16,0,Heavy Rain,23
+Route_B,19,5,Heavy Rain,32
+Route_B,11,5,Heavy Rain,37
+Route_A,14,1,Heavy Rain,30
+Route_ESP,14,2,Rain,12
+Route_ESP,16,4,Rain,17
+Route_ESP,18,3,Clear,23
+Route_ESP,10,5,Rain,16
+Route_A,10,5,Clear,10
+Route_ESP,8,6,Rain,18
+Route_ESP,20,4,Heavy Rain,23
+Route_A,6,0,Rain,20
+Route_B,20,6,Heavy Rain,36
+Route_A,6,0,Rain,22
+Route_B,11,6,Clear,23
+Route_B,22,5,Clear,20
+Route_B,7,2,Heavy Rain,44
+Route_ESP,16,2,Heavy Rain,30
+Route_ESP,11,5,Heavy Rain,16
+Route_ESP,17,0,Clear,24
+Route_ESP,21,1,Heavy Rain,24
+Route_B,15,2,Heavy Rain,44
+Route_ESP,6,6,Heavy Rain,22
+Route_ESP,6,3,Rain,17
+Route_ESP,21,1,Heavy Rain,30
+Route_ESP,11,4,Rain,12
+Route_ESP,9,4,Heavy Rain,33
+Route_A,17,2,Clear,30
+Route_A,7,3,Clear,17
+Route_ESP,9,5,Clear,16
+Route_ESP,11,4,Clear,9
+Route_B,22,6,Heavy Rain,43
+Route_A,6,5,Clear,15
+Route_ESP,14,5,Rain,14
+Route_B,14,4,Rain,26
+Route_ESP,16,2,Clear,10
+Route_ESP,15,5,Clear,9
+Route_B,14,2,Rain,30
+Route_ESP,10,0,Clear,12
+Route_A,7,4,Heavy Rain,27
+Route_A,16,4,Rain,22
+Route_B,16,3,Heavy Rain,42
+Route_ESP,20,1,Heavy Rain,25
+Route_B,15,1,Clear,24
+Route_ESP,18,4,Heavy Rain,39
+Route_A,7,2,Heavy Rain,27
+Route_ESP,8,6,Heavy Rain,27
+Route_ESP,19,1,Clear,8
+Route_B,16,4,Clear,28
+Route_A,12,0,Heavy Rain,30
+Route_ESP,7,0,Rain,14
+Route_B,10,3,Heavy Rain,40
+Route_ESP,21,5,Rain,9
+Route_A,15,5,Rain,18
+Route_ESP,10,2,Heavy Rain,24
+Route_ESP,20,3,Heavy Rain,28
+Route_B,8,3,Heavy Rain,48
+Route_B,14,2,Clear,28
+Route_ESP,8,2,Heavy Rain,33
+Route_A,17,5,Rain,21
+Route_ESP,7,0,Clear,13
+Route_ESP,19,0,Clear,8
+Route_B,8,2,Clear,39
+Route_B,13,4,Clear,27
+Route_A,15,2,Clear,18
+Route_ESP,15,2,Heavy Rain,24
+Route_B,20,5,Clear,25
+Route_ESP,21,1,Clear,10
+Route_B,15,0,Rain,33
+Route_A,22,4,Clear,15
+Route_ESP,6,5,Heavy Rain,27
+Route_B,18,0,Rain,44
+Route_A,6,3,Rain,15
+Route_A,13,4,Heavy Rain,32
+Route_A,12,2,Rain,21
+Route_A,11,1,Heavy Rain,36
+Route_A,9,6,Clear,28
+Route_A,20,4,Rain,22
+Route_ESP,8,3,Heavy Rain,40
+Route_B,9,3,Clear,32
+Route_B,18,4,Heavy Rain,53
+Route_A,22,0,Heavy Rain,35
+Route_A,8,5,Heavy Rain,30
+Route_A,9,3,Heavy Rain,33
+Route_ESP,6,2,Heavy Rain,28
+Route_B,10,4,Heavy Rain,38
+Route_A,16,2,Heavy Rain,27
+Route_ESP,6,5,Heavy Rain,18
+Route_A,15,0,Rain,22
+Route_A,16,6,Rain,13
+Route_ESP,18,2,Rain,20
+Route_A,17,0,Heavy Rain,40
+Route_ESP,16,4,Heavy Rain,23
+Route_B,14,0,Rain,32
+Route_B,21,0,Heavy Rain,41
+Route_A,14,3,Rain,16
+Route_ESP,21,4,Heavy Rain,20
+Route_B,22,2,Rain,27
+Route_B,18,1,Heavy Rain,52
+Route_A,22,6,Clear,12
+Route_B,17,6,Heavy Rain,49
+Route_B,15,5,Heavy Rain,32
+Route_A,19,5,Rain,20
+Route_B,6,3,Heavy Rain,43
+Route_ESP,22,4,Clear,12
+Route_B,7,6,Rain,24
+Route_B,10,0,Clear,26
+Route_A,19,5,Clear,15
+Route_ESP,19,1,Rain,14
+Route_ESP,6,6,Clear,7
+Route_A,17,1,Rain,30
+Route_B,16,0,Clear,26
+Route_ESP,21,6,Rain,12
+Route_ESP,15,2,Rain,18
+Route_ESP,18,6,Heavy Rain,28
+Route_ESP,18,1,Rain,20
+Route_B,7,3,Rain,28
+Route_ESP,18,3,Clear,21
+Route_B,12,1,Rain,28
+Route_B,18,5,Heavy Rain,38
+Route_ESP,22,1,Heavy Rain,28
+Route_A,21,4,Clear,16
+Route_B,11,0,Rain,26
+Route_ESP,7,3,Rain,13
+Route_A,15,1,Clear,17
+Route_ESP,6,3,Rain,10
+Route_ESP,16,5,Clear,6
+Route_B,22,6,Clear,26
+Route_B,20,4,Heavy Rain,46
+Route_ESP,12,1,Heavy Rain,27
+Route_A,22,0,Rain,19
+Route_ESP,17,0,Heavy Rain,31
+Route_ESP,20,5,Clear,8
+Route_A,17,4,Clear,28
+Route_A,17,5,Clear,24
+Route_B,12,1,Heavy Rain,40
+Route_A,21,4,Rain,17
+Route_A,19,3,Rain,15
+Route_A,14,2,Heavy Rain,31
+Route_ESP,21,0,Rain,15
+Route_B,20,6,Heavy Rain,37
+Route_B,20,6,Clear,22
+Route_B,18,5,Rain,36
+Route_B,19,4,Clear,28
+Route_A,22,0,Heavy Rain,37
+Route_A,14,1,Clear,15
+Route_A,16,0,Heavy Rain,24
+Route_B,9,5,Clear,26
+Route_ESP,14,3,Rain,14
+Route_A,9,4,Clear,23
+Route_ESP,12,0,Heavy Rain,28
+Route_B,18,3,Rain,36
+Route_A,20,0,Clear,13
+Route_B,18,2,Clear,32
+Route_A,7,6,Clear,15
+Route_ESP,20,4,Clear,11
+Route_ESP,16,3,Rain,15
+Route_ESP,8,3,Rain,19
+Route_A,18,6,Clear,20
+Route_A,15,4,Clear,14
+Route_A,10,0,Heavy Rain,28
+Route_ESP,8,2,Rain,33
+Route_ESP,22,6,Heavy Rain,18
+Route_A,13,4,Heavy Rain,30
+Route_ESP,17,1,Clear,26
+Route_ESP,8,3,Rain,23
+Route_B,16,2,Clear,23
+Route_A,20,0,Heavy Rain,30
+Route_A,19,3,Clear,15
+Route_ESP,16,1,Clear,11
+Route_A,20,3,Heavy Rain,24
+Route_B,18,1,Rain,41
+Route_ESP,19,0,Clear,12
+Route_A,19,6,Rain,16
+Route_B,10,0,Heavy Rain,48
+Route_B,12,2,Clear,27
+Route_A,17,6,Rain,27
+Route_A,17,5,Heavy Rain,33
+Route_A,19,4,Rain,18
+Route_ESP,19,1,Clear,11
+Route_B,12,4,Heavy Rain,45
+Route_B,22,2,Clear,23
+Route_ESP,7,5,Heavy Rain,19
+Route_ESP,22,6,Clear,7
+Route_B,8,1,Clear,37
+Route_B,22,1,Clear,26
+Route_ESP,10,3,Rain,15
+Route_B,19,4,Clear,27
+Route_A,8,4,Heavy Rain,52
+Route_B,13,0,Heavy Rain,43
+Route_A,16,5,Heavy Rain,28
+Route_ESP,9,4,Heavy Rain,28
+Route_ESP,14,5,Clear,9
+Route_ESP,8,2,Clear,16
+Route_ESP,16,3,Clear,9
+Route_B,21,3,Heavy Rain,42
+Route_B,21,4,Clear,23
+Route_A,8,0,Rain,30
+Route_A,22,1,Clear,14
+Route_ESP,10,0,Heavy Rain,32
+Route_ESP,22,6,Clear,5
+Route_A,16,5,Heavy Rain,28
+Route_A,14,1,Clear,16
+Route_ESP,21,3,Heavy Rain,27
+Route_ESP,7,2,Clear,10
+Route_A,10,2,Heavy Rain,32
+Route_B,13,5,Heavy Rain,34
+Route_A,12,0,Rain,16
+Route_A,17,6,Clear,26
+Route_ESP,17,0,Heavy Rain,44
+Route_ESP,22,2,Heavy Rain,31
+Route_A,15,5,Clear,15
+Route_B,13,2,Heavy Rain,35
+Route_B,19,5,Rain,27
+Route_B,12,4,Rain,29
+Route_A,20,6,Rain,19
+Route_A,22,4,Heavy Rain,30
+Route_B,20,1,Rain,27
+Route_ESP,12,6,Rain,10
+Route_ESP,11,5,Clear,5
+Route_A,10,0,Clear,16
+Route_B,18,0,Heavy Rain,52
+Route_A,11,0,Rain,17
+Route_B,18,2,Heavy Rain,49
+Route_A,17,0,Clear,27
+Route_ESP,9,3,Rain,22
+Route_A,17,3,Clear,18
+Route_B,8,0,Heavy Rain,54
+Route_B,6,1,Heavy Rain,42
+Route_A,16,1,Clear,16
+Route_A,22,5,Clear,13
+Route_A,13,6,Clear,16
+Route_ESP,22,4,Rain,15
+Route_B,8,3,Clear,38
+Route_A,17,4,Heavy Rain,43
+Route_ESP,11,1,Heavy Rain,31
+Route_B,13,6,Heavy Rain,42
+Route_B,7,4,Rain,27
+Route_B,19,0,Clear,24
+Route_A,21,3,Rain,19
+Route_ESP,12,2,Clear,13
+Route_A,9,2,Rain,28
+Route_A,12,4,Rain,17
+Route_A,19,4,Clear,18
+Route_A,7,4,Rain,18
+Route_ESP,11,2,Rain,12
+Route_A,17,3,Heavy Rain,35
+Route_A,16,3,Clear,15
+Route_A,7,4,Clear,17
+Route_B,7,3,Clear,27
+Route_B,14,6,Rain,26
+Route_B,12,4,Heavy Rain,38
+Route_ESP,15,6,Rain,14
+Route_A,10,0,Clear,15
+Route_ESP,6,2,Heavy Rain,25
+Route_B,18,4,Heavy Rain,50
+Route_A,12,0,Heavy Rain,27
+Route_ESP,13,2,Heavy Rain,25
+Route_ESP,8,0,Heavy Rain,36
+Route_ESP,7,1,Clear,12
+Route_A,9,3,Heavy Rain,38
+Route_B,8,6,Rain,30
+Route_ESP,9,1,Heavy Rain,30
+Route_ESP,10,1,Clear,9
+Route_A,14,3,Rain,19
+Route_A,15,4,Clear,17
+Route_B,6,6,Clear,23
+Route_B,10,0,Rain,29
+Route_B,18,4,Rain,39
+Route_B,20,1,Clear,28
+Route_A,22,1,Clear,18
+Route_B,10,5,Heavy Rain,33
+Route_B,8,1,Rain,32
+Route_B,14,0,Heavy Rain,44
+Route_B,12,4,Rain,27
+Route_B,14,5,Heavy Rain,36
+Route_A,8,5,Clear,19
+Route_B,19,6,Rain,25
+Route_B,21,3,Heavy Rain,34
+Route_ESP,10,0,Rain,17
+Route_A,15,3,Heavy Rain,24
+Route_ESP,17,3,Heavy Rain,34
+Route_ESP,15,3,Clear,13
+Route_A,9,6,Rain,30
+Route_B,11,5,Clear,26
+Route_ESP,22,6,Rain,12
+Route_B,17,2,Rain,43
+Route_ESP,15,4,Rain,13
+Route_A,20,2,Heavy Rain,31
+Route_A,17,5,Rain,30
+Route_B,14,4,Rain,32
+Route_B,9,1,Rain,42
+Route_ESP,8,1,Rain,23
+Route_A,10,6,Rain,15
+Route_ESP,11,0,Clear,12
+Route_A,19,3,Heavy Rain,38
+Route_A,21,0,Rain,15
+Route_ESP,20,4,Rain,11
+Route_A,14,3,Clear,15
+Route_ESP,20,1,Clear,12
+Route_ESP,12,4,Rain,14
+Route_A,7,6,Clear,11
+Route_B,11,2,Rain,28
+Route_ESP,6,2,Clear,12
+Route_B,22,6,Clear,23
+Route_B,14,5,Heavy Rain,30
+Route_A,9,5,Rain,29
+Route_ESP,6,3,Heavy Rain,23
+Route_B,18,6,Heavy Rain,47
+Route_A,8,1,Heavy Rain,38
+Route_A,22,5,Rain,21
+Route_ESP,6,0,Rain,18
+Route_B,13,6,Rain,29
+Route_B,7,2,Clear,24
+Route_ESP,20,1,Heavy Rain,23
+Route_ESP,21,6,Heavy Rain,29
+Route_ESP,21,1,Clear,12
+Route_ESP,12,6,Clear,9
+Route_ESP,11,4,Rain,14
+Route_B,16,3,Rain,31
+Route_B,12,4,Clear,24
+Route_ESP,11,0,Heavy Rain,27
+Route_B,7,6,Rain,30
+Route_ESP,10,0,Heavy Rain,26
+Route_A,7,2,Heavy Rain,26
+Route_B,19,2,Heavy Rain,43
+Route_B,14,0,Clear,23
+Route_B,10,4,Heavy Rain,39
+Route_ESP,22,5,Rain,7
+Route_B,9,1,Clear,29
+Route_ESP,17,2,Heavy Rain,30
+Route_B,12,3,Heavy Rain,43
+Route_B,22,2,Heavy Rain,38
+Route_A,7,6,Heavy Rain,34
+Route_B,9,1,Heavy Rain,45
+Route_A,15,1,Heavy Rain,29
+Route_ESP,16,1,Heavy Rain,26
+Route_ESP,21,2,Heavy Rain,22
+Route_A,12,1,Heavy Rain,32
+Route_B,11,0,Clear,24
+Route_ESP,11,3,Rain,16
+Route_ESP,22,3,Rain,13
+Route_ESP,21,2,Heavy Rain,28
+Route_B,14,3,Clear,28
+Route_ESP,12,4,Heavy Rain,21
+Route_B,15,5,Clear,26
+Route_A,18,2,Heavy Rain,36
+Route_A,6,0,Rain,21
+Route_ESP,21,1,Clear,10
+Route_A,6,2,Clear,16
+Route_A,21,3,Clear,14
+Route_ESP,16,0,Clear,13
+Route_A,16,3,Rain,15
+Route_A,12,1,Heavy Rain,33
+Route_ESP,22,1,Heavy Rain,30
+Route_A,19,0,Clear,15
+Route_B,22,2,Clear,28
+Route_ESP,22,4,Heavy Rain,24
+Route_B,6,1,Rain,26
+Route_A,7,2,Heavy Rain,28
+Route_ESP,20,3,Rain,14
+Route_ESP,16,3,Heavy Rain,27
+Route_ESP,17,2,Rain,32
+Route_ESP,17,5,Rain,28
+Route_A,18,4,Rain,26
+Route_A,8,1,Rain,34
+Route_A,10,0,Clear,15
+Route_A,15,5,Clear,14
+Route_A,6,3,Heavy Rain,24
+Route_A,9,2,Heavy Rain,48
+Route_B,18,2,Rain,41
+Route_ESP,12,6,Rain,10
+Route_B,19,4,Rain,28
+Route_A,16,4,Clear,13
+Route_B,9,1,Clear,36
+Route_A,17,2,Rain,24
+Route_A,19,0,Rain,15
+Route_A,14,3,Heavy Rain,35
+Route_ESP,17,2,Clear,21
+Route_ESP,13,6,Rain,17
+Route_B,7,5,Rain,28
+Route_ESP,12,0,Heavy Rain,27
+Route_B,6,0,Rain,32
+Route_A,8,1,Heavy Rain,35
+Route_A,20,1,Heavy Rain,31
+Route_ESP,15,4,Rain,15
+Route_B,13,4,Clear,24
+Route_ESP,19,6,Rain,12
+Route_A,21,6,Rain,17
+Route_B,20,2,Rain,31
+Route_ESP,6,1,Clear,11
+Route_ESP,8,3,Heavy Rain,40
+Route_B,6,1,Clear,24
+Route_ESP,21,3,Rain,13
+Route_B,20,5,Rain,25
+Route_B,17,2,Rain,36
+Route_B,18,4,Rain,42
+Route_A,9,6,Rain,27
+Route_A,10,2,Rain,17
+Route_A,8,6,Clear,29
+Route_ESP,18,6,Clear,18
+Route_ESP,7,3,Heavy Rain,30
+Route_A,9,3,Rain,28
+Route_B,13,1,Rain,28
+Route_ESP,20,4,Heavy Rain,26
+Route_ESP,7,6,Heavy Rain,21
+Route_ESP,15,5,Heavy Rain,25
+Route_A,15,3,Rain,18
+Route_ESP,18,6,Rain,17
+Route_ESP,22,6,Clear,3
+Route_ESP,9,2,Clear,22
+Route_A,7,4,Rain,22
+Route_B,13,2,Rain,31
+Route_ESP,16,1,Clear,10
+Route_A,17,0,Heavy Rain,40
+Route_B,18,3,Rain,32
+Route_ESP,14,4,Clear,9
+Route_ESP,18,3,Rain,22
+Route_A,12,0,Heavy Rain,28
+Route_B,22,1,Clear,28
+Route_A,8,3,Heavy Rain,45
+Route_ESP,7,1,Heavy Rain,20
+Route_ESP,20,3,Heavy Rain,24
+Route_B,19,1,Rain,29
+Route_A,18,5,Clear,25
+Route_A,22,1,Heavy Rain,36
+Route_A,10,0,Rain,16
+Route_B,9,6,Rain,32
+Route_ESP,18,4,Clear,20
+Route_ESP,11,1,Rain,14
+Route_ESP,15,6,Rain,11
+Route_B,21,6,Heavy Rain,40
+Route_ESP,18,2,Rain,23
+Route_ESP,11,6,Rain,8
+Route_ESP,9,3,Heavy Rain,28
+Route_ESP,8,2,Rain,25
+Route_A,6,1,Heavy Rain,28
+Route_ESP,8,5,Rain,24
+Route_ESP,17,5,Rain,22
+Route_ESP,21,6,Clear,4
+Route_ESP,11,6,Rain,13
+Route_A,7,6,Heavy Rain,29
+Route_A,7,3,Heavy Rain,34
+Route_ESP,9,0,Clear,19
+Route_ESP,12,0,Heavy Rain,25
+Route_A,17,0,Heavy Rain,39
+Route_ESP,12,0,Heavy Rain,22
+Route_ESP,13,5,Rain,10
+Route_A,8,3,Heavy Rain,45
+Route_ESP,15,2,Rain,18
+Route_ESP,19,5,Rain,11
+Route_A,8,5,Heavy Rain,29
+Route_A,6,4,Rain,15
+Route_A,6,4,Heavy Rain,26
+Route_B,22,5,Rain,24
+Route_B,17,5,Heavy Rain,51
+Route_B,15,1,Clear,25
+Route_ESP,21,6,Clear,5
+Route_A,9,4,Clear,29
+Route_B,18,3,Heavy Rain,54
+Route_ESP,9,5,Clear,17
+Route_B,7,4,Clear,25
+Route_ESP,20,3,Heavy Rain,23
+Route_ESP,14,6,Clear,3
+Route_ESP,19,5,Clear,7
+Route_B,19,6,Clear,23
+Route_ESP,14,6,Clear,4
+Route_A,15,2,Rain,23
+Route_A,14,0,Rain,21
+Route_B,12,6,Heavy Rain,41
+Route_B,22,6,Rain,26
+Route_A,6,3,Rain,19
+Route_A,21,1,Clear,14
+Route_A,17,5,Heavy Rain,36
+Route_ESP,7,2,Rain,15
+Route_B,21,3,Clear,23
+Route_A,15,5,Clear,13
+Route_ESP,16,5,Clear,13
+Route_A,7,2,Heavy Rain,29
+Route_A,8,3,Clear,22
+Route_ESP,11,3,Rain,15
+Route_A,9,2,Heavy Rain,40
+Route_ESP,21,5,Rain,9
+Route_A,13,2,Rain,16
+Route_B,6,1,Rain,29
+Route_B,22,3,Rain,28
+Route_B,11,1,Heavy Rain,46
+Route_B,10,6,Rain,31
+Route_ESP,15,1,Clear,12
+Route_ESP,18,0,Clear,24
+Route_A,12,1,Clear,13
+Route_A,7,5,Clear,9
+Route_ESP,14,6,Clear,12
+Route_A,9,5,Clear,22
+Route_ESP,8,3,Clear,21
+Route_B,7,6,Rain,27
+Route_B,7,3,Rain,27
+Route_ESP,8,6,Clear,24
+Route_ESP,14,6,Clear,8
+Route_B,10,0,Clear,27
+Route_A,13,2,Heavy Rain,27
+Route_ESP,11,2,Clear,12
+Route_B,15,2,Heavy Rain,48
+Route_ESP,9,6,Heavy Rain,36
+Route_ESP,8,3,Rain,27
+Route_A,6,0,Clear,16
+Route_ESP,8,1,Rain,27
+Route_A,19,4,Heavy Rain,35
+Route_B,10,6,Rain,31
+Route_B,16,0,Clear,27
+Route_ESP,14,2,Rain,15
+Route_ESP,8,4,Clear,21
+Route_B,8,3,Rain,37
+Route_A,16,4,Clear,13
+Route_B,20,0,Heavy Rain,40
+Route_B,21,2,Clear,28
+Route_A,21,4,Clear,16
+Route_B,11,4,Clear,23
+Route_B,22,4,Clear,28
+Route_ESP,6,0,Heavy Rain,27
+Route_ESP,8,3,Rain,29
+Route_ESP,14,0,Rain,11
+Route_B,20,2,Rain,30
+Route_B,15,3,Clear,28
+Route_ESP,7,3,Rain,17
+Route_A,16,1,Clear,14
+Route_B,9,5,Clear,30
+Route_A,6,0,Heavy Rain,30
+Route_A,14,0,Heavy Rain,30
+Route_B,12,5,Clear,21
+Route_A,22,0,Rain,19
+Route_ESP,8,4,Heavy Rain,29
+Route_B,18,3,Rain,41
+Route_A,19,5,Heavy Rain,28
+Route_A,13,4,Heavy Rain,36
+Route_A,15,1,Rain,22
+Route_ESP,18,4,Clear,18
+Route_ESP,16,4,Heavy Rain,26
+Route_B,6,3,Clear,25
+Route_ESP,19,6,Rain,15
+Route_B,12,2,Heavy Rain,42
+Route_ESP,19,1,Clear,13
+Route_B,22,0,Clear,26
+Route_A,10,6,Clear,17
+Route_A,11,2,Heavy Rain,30
+Route_ESP,10,6,Rain,15
+Route_ESP,15,2,Clear,8
+Route_B,12,5,Heavy Rain,28
+Route_A,11,2,Heavy Rain,34
+Route_A,11,0,Rain,22
+Route_ESP,11,0,Clear,11
+Route_ESP,15,5,Heavy Rain,26
+Route_ESP,16,6,Clear,5
+Route_B,14,6,Rain,32
+Route_B,7,2,Clear,24
+Route_B,6,4,Rain,30
+Route_ESP,6,4,Rain,10
+Route_B,13,4,Rain,27
+Route_A,6,0,Rain,20
+Route_A,12,4,Heavy Rain,28
+Route_ESP,17,6,Heavy Rain,33
+Route_A,17,0,Rain,27
+Route_B,19,2,Clear,27
+Route_ESP,7,3,Rain,14
+Route_A,17,2,Rain,30
+Route_A,13,1,Clear,17
+Route_A,10,4,Rain,20
+Route_A,8,1,Clear,21
+Route_A,10,4,Clear,17
+Route_A,16,5,Heavy Rain,28
+Route_ESP,6,3,Clear,9
+Route_ESP,21,5,Rain,10
+Route_ESP,21,3,Heavy Rain,24
+Route_B,12,4,Heavy Rain,46
+Route_A,17,5,Heavy Rain,47
+Route_A,12,3,Clear,18
+Route_B,12,0,Clear,27
+Route_ESP,8,4,Clear,15
+Route_A,16,0,Rain,21
+Route_ESP,9,6,Heavy Rain,33
+Route_B,8,1,Rain,34
+Route_A,22,2,Heavy Rain,31
+Route_B,20,4,Clear,26
+Route_A,18,2,Clear,28
+Route_A,18,5,Heavy Rain,39
+Route_B,9,3,Rain,41
+Route_A,21,1,Heavy Rain,32
+Route_A,20,1,Clear,13
+Route_A,11,4,Rain,20
+Route_ESP,10,6,Rain,12
+Route_B,19,4,Clear,25
+Route_ESP,20,6,Rain,10
+Route_B,14,0,Rain,28
+Route_ESP,8,2,Rain,27
+Route_A,16,2,Clear,16
+Route_A,20,5,Rain,14
+Route_B,7,1,Rain,32
+Route_A,21,2,Heavy Rain,27
+Route_B,21,2,Clear,25
+Route_B,10,3,Rain,32
+Route_ESP,8,6,Rain,20
+Route_A,14,5,Rain,14
+Route_ESP,17,3,Heavy Rain,32
+Route_B,12,5,Clear,22
+Route_ESP,12,6,Clear,6
+Route_A,6,1,Clear,18
+Route_ESP,11,5,Clear,5
+Route_B,10,5,Clear,27
+Route_ESP,13,1,Clear,10
+Route_ESP,16,0,Heavy Rain,22
+Route_B,17,3,Clear,38
+Route_B,22,3,Clear,24
+Route_B,11,2,Rain,33
+Route_ESP,7,5,Heavy Rain,20
+Route_B,13,2,Heavy Rain,38
+Route_A,8,1,Clear,21
+Route_ESP,8,4,Clear,19
+Route_B,14,4,Heavy Rain,40
+Route_B,15,0,Clear,24
+Route_B,20,5,Clear,25
+Route_ESP,6,2,Heavy Rain,26
+Route_B,18,0,Heavy Rain,51
+Route_ESP,16,2,Clear,13
+Route_ESP,21,1,Clear,8
+Route_A,18,0,Heavy Rain,35
+Route_A,7,6,Rain,15
+Route_ESP,12,4,Clear,11
+Route_ESP,6,1,Clear,9
+Route_B,15,3,Clear,23
+Route_B,21,0,Clear,26
+Route_B,15,2,Rain,25
+Route_A,8,1,Clear,29
+Route_ESP,18,4,Heavy Rain,31
+Route_B,16,1,Clear,26
+Route_A,22,5,Heavy Rain,28
+Route_A,12,6,Heavy Rain,26
+Route_A,19,3,Rain,17
+Route_A,18,0,Clear,33
+Route_ESP,20,3,Clear,11
+Route_A,6,2,Clear,15
+Route_B,18,1,Heavy Rain,46
+Route_B,10,6,Rain,32
+Route_ESP,12,1,Rain,16
+Route_ESP,7,0,Clear,9
+Route_ESP,19,3,Rain,15
+Route_B,12,5,Heavy Rain,35
+Route_A,15,1,Heavy Rain,25
+Route_A,17,0,Rain,33
+Route_B,20,4,Clear,26
+Route_A,17,3,Clear,29
+Route_ESP,17,3,Rain,26
+Route_B,13,5,Heavy Rain,33
+Route_A,21,1,Clear,15
+Route_B,21,2,Rain,28
+Route_A,7,3,Heavy Rain,30
+Route_A,20,2,Rain,20
+Route_B,19,6,Clear,21
+Route_ESP,17,4,Heavy Rain,35
+Route_ESP,14,4,Heavy Rain,27
+Route_ESP,12,6,Heavy Rain,27
+Route_B,21,3,Rain,30
+Route_B,9,2,Clear,31
+Route_A,14,4,Rain,16
+Route_B,12,6,Heavy Rain,35
+Route_A,22,2,Heavy Rain,28
+Route_A,11,3,Rain,20
+Route_B,17,1,Clear,32
+Route_A,16,5,Clear,14
+Route_B,8,1,Clear,31
+Route_ESP,22,0,Rain,11
+Route_B,19,4,Heavy Rain,37
+Route_B,21,4,Heavy Rain,44
+Route_ESP,7,4,Rain,14
+Route_ESP,20,5,Heavy Rain,28
+Route_B,12,4,Clear,28
+Route_A,7,1,Clear,16
+Route_B,8,5,Clear,29
+Route_A,16,6,Rain,19
+Route_ESP,19,0,Rain,15
+Route_B,20,1,Heavy Rain,34
+Route_A,17,5,Rain,32
+Route_ESP,15,5,Clear,7
+Route_ESP,9,3,Rain,26
+Route_ESP,13,5,Clear,9
+Route_ESP,17,2,Heavy Rain,39
+Route_ESP,20,0,Clear,8
+Route_ESP,21,0,Clear,11
+Route_A,19,6,Heavy Rain,25
+Route_A,17,0,Rain,26
+Route_A,17,1,Rain,22
+Route_A,9,1,Clear,26
+Route_A,9,3,Rain,33
+Route_ESP,6,3,Heavy Rain,28
+Route_A,6,5,Heavy Rain,28
+Route_B,17,1,Rain,45
+Route_ESP,21,1,Rain,16
+Route_ESP,10,6,Rain,12
+Route_ESP,18,2,Rain,24
+Route_ESP,6,6,Clear,8
+Route_ESP,7,4,Clear,8
+Route_ESP,22,5,Clear,9
+Route_A,13,6,Heavy Rain,28
+Route_ESP,19,0,Clear,9
+Route_A,9,1,Heavy Rain,47
+Route_B,14,2,Clear,25
+Route_ESP,22,4,Heavy Rain,19
+Route_ESP,9,5,Heavy Rain,27
+Route_B,14,5,Heavy Rain,45
+Route_A,8,1,Heavy Rain,37
+Route_A,8,4,Rain,30
+Route_ESP,11,3,Heavy Rain,31
+Route_A,17,6,Clear,23
+Route_B,16,0,Clear,27
+Route_ESP,14,6,Clear,13
+Route_A,17,6,Clear,26
+Route_B,18,4,Heavy Rain,54
+Route_ESP,13,1,Rain,11
+Route_A,12,3,Heavy Rain,32
+Route_A,10,3,Rain,20
+Route_A,8,2,Heavy Rain,38
+Route_A,20,1,Heavy Rain,34
+Route_A,18,1,Clear,22
+Route_A,17,6,Clear,20
+Route_B,11,6,Clear,28
+Route_B,21,6,Clear,18
+Route_ESP,16,5,Rain,11
+Route_ESP,21,3,Heavy Rain,23
+Route_B,7,5,Rain,26
+Route_A,18,3,Heavy Rain,47
+Route_A,13,1,Rain,18
+Route_B,7,5,Clear,20
+Route_A,9,2,Clear,29
+Route_A,6,6,Rain,20
+Route_A,16,0,Clear,18
+Route_ESP,18,2,Heavy Rain,37
+Route_B,7,6,Rain,25
+Route_B,8,3,Clear,35
+Route_ESP,21,0,Heavy Rain,18
+Route_ESP,9,1,Rain,22
+Route_ESP,9,3,Heavy Rain,36
+Route_B,20,6,Clear,20
+Route_A,12,1,Heavy Rain,38
+Route_ESP,17,5,Heavy Rain,30
+Route_ESP,19,5,Heavy Rain,21
+Route_ESP,12,1,Heavy Rain,22
+Route_ESP,13,6,Rain,10
+Route_A,14,1,Rain,22
+Route_ESP,7,3,Clear,10
+Route_B,7,2,Rain,33
+Route_A,7,5,Heavy Rain,32
+Route_B,17,6,Rain,37
+Route_A,11,1,Heavy Rain,38
+Route_ESP,12,1,Clear,9
+Route_B,19,0,Heavy Rain,42
+Route_B,22,0,Clear,27
+Route_B,11,5,Rain,26
+Route_A,9,3,Clear,28
+Route_B,7,6,Heavy Rain,32
+Route_B,9,6,Clear,36
+Route_B,22,0,Rain,30
+Route_B,8,3,Rain,36
+Route_A,16,6,Clear,16
+Route_A,16,4,Heavy Rain,30
+Route_ESP,16,3,Rain,14
+Route_B,13,2,Heavy Rain,39
+Route_ESP,7,6,Rain,14
+Route_B,20,6,Clear,21
+Route_ESP,11,2,Clear,8
+Route_ESP,15,4,Rain,13
+Route_B,11,0,Rain,31
+Route_B,11,4,Rain,29
+Route_B,7,6,Rain,24
+Route_B,14,2,Rain,27
+Route_A,8,4,Heavy Rain,33
+Route_ESP,12,4,Heavy Rain,28
+Route_A,8,5,Heavy Rain,36
+Route_B,22,3,Rain,27
+Route_ESP,16,1,Heavy Rain,31
+Route_B,22,6,Rain,24
+Route_A,6,5,Heavy Rain,29
+Route_A,16,1,Rain,19
+Route_B,14,1,Heavy Rain,37
+Route_ESP,14,6,Clear,9
+Route_B,16,0,Clear,28
+Route_ESP,7,1,Rain,16
+Route_A,14,5,Rain,20
+Route_B,20,5,Rain,26
+Route_B,7,4,Clear,24
+Route_A,9,3,Clear,24
+Route_A,19,4,Clear,18
+Route_A,17,6,Rain,25
+Route_A,17,5,Clear,21
+Route_B,17,2,Clear,37
+Route_A,22,1,Clear,13
+Route_A,13,4,Clear,17
+Route_A,9,4,Clear,29
+Route_ESP,12,2,Clear,9
+Route_B,6,6,Rain,28
+Route_A,14,1,Heavy Rain,29
+Route_ESP,6,5,Heavy Rain,21
+Route_ESP,15,0,Rain,12
+Route_A,16,0,Clear,16
+Route_ESP,9,6,Clear,17
+Route_ESP,12,3,Heavy Rain,24
+Route_ESP,19,3,Clear,12
+Route_ESP,21,4,Rain,15
+Route_ESP,21,6,Heavy Rain,26
+Route_ESP,10,0,Rain,14
+Route_A,17,6,Rain,29
+Route_ESP,22,6,Clear,12
+Route_A,16,1,Clear,14
+Route_B,14,5,Heavy Rain,39
+Route_B,20,4,Rain,28
+Route_ESP,18,4,Rain,25
+Route_ESP,11,2,Clear,11
+Route_ESP,8,0,Clear,22
+Route_A,13,5,Heavy Rain,28
+Route_B,6,0,Rain,27
+Route_B,19,0,Clear,25
+Route_ESP,17,5,Heavy Rain,27
+Route_A,20,0,Rain,22
+Route_A,16,0,Rain,19
+Route_ESP,7,6,Rain,12
+Route_A,21,3,Rain,15
+Route_A,19,2,Clear,17
+Route_B,8,3,Clear,35
+Route_A,9,6,Clear,26
+Route_ESP,14,3,Clear,10
+Route_A,14,5,Clear,15
+Route_ESP,19,1,Clear,11
+Route_A,16,4,Clear,18
+Route_B,7,4,Heavy Rain,39
+Route_ESP,15,0,Heavy Rain,24
+Route_A,8,4,Rain,23
+Route_B,17,2,Heavy Rain,46
+Route_A,9,6,Clear,23
+Route_ESP,17,3,Rain,29
+Route_B,20,5,Rain,24
+Route_B,11,2,Heavy Rain,42
+Route_B,13,2,Clear,24
+Route_ESP,20,3,Rain,17
+Route_A,20,1,Rain,19
+Route_A,13,4,Clear,16
+Route_ESP,21,5,Clear,9
+Route_ESP,21,3,Rain,13
+Route_ESP,21,6,Rain,12
+Route_B,18,6,Clear,29
+Route_A,13,5,Rain,14
+Route_A,15,1,Rain,21
+Route_A,22,0,Rain,20
+Route_A,15,5,Rain,16
+Route_A,14,1,Rain,18
+Route_ESP,21,1,Heavy Rain,27
+Route_ESP,16,6,Heavy Rain,23
+Route_A,9,2,Clear,27
+Route_ESP,9,6,Clear,22
+Route_ESP,9,4,Rain,26
+Route_ESP,17,5,Rain,32
+Route_ESP,7,0,Clear,10
+Route_B,16,2,Rain,30
+Route_ESP,18,0,Clear,26
+Route_ESP,14,1,Rain,13
+Route_B,7,3,Heavy Rain,37
+Route_B,13,0,Rain,31
+Route_ESP,7,6,Heavy Rain,28
+Route_A,6,3,Rain,19
+Route_B,11,3,Rain,31
+Route_A,20,6,Rain,20
+Route_A,17,2,Rain,29
+Route_ESP,8,2,Heavy Rain,33
+Route_A,20,2,Clear,18
+Route_ESP,7,2,Rain,11
+Route_ESP,6,1,Clear,9
+Route_A,8,4,Clear,24
+Route_B,6,5,Heavy Rain,32
+Route_ESP,20,6,Rain,11
+Route_ESP,20,1,Heavy Rain,24
+Route_A,22,6,Heavy Rain,23
+Route_A,17,1,Clear,27
+Route_A,10,5,Clear,13
+Route_B,12,0,Rain,33
+Route_A,6,6,Heavy Rain,29
+Route_ESP,18,1,Clear,19
+Route_B,11,4,Rain,29
+Route_B,7,0,Rain,31
+Route_B,20,6,Clear,24
+Route_ESP,16,1,Rain,11
+Route_B,6,0,Heavy Rain,37
+Route_B,6,0,Heavy Rain,42
+Route_ESP,16,1,Rain,16
+Route_A,11,0,Rain,17
+Route_ESP,21,6,Rain,14
+Route_B,12,3,Heavy Rain,43
+Route_ESP,22,4,Rain,17
+Route_A,6,6,Clear,9
+Route_B,7,1,Rain,32
+Route_ESP,12,1,Heavy Rain,23
+Route_ESP,8,4,Rain,19
+Route_A,17,6,Rain,25
+Route_A,6,3,Clear,13
+Route_ESP,17,0,Clear,16
+Route_ESP,22,5,Rain,12
+Route_A,20,5,Clear,11
+Route_B,13,1,Clear,25
+Route_ESP,17,1,Heavy Rain,44
+Route_B,21,3,Rain,27
+Route_ESP,13,4,Rain,18
+Route_ESP,7,1,Clear,13
+Route_B,8,2,Clear,33
+Route_ESP,12,5,Heavy Rain,23
+Route_B,9,4,Clear,34
+Route_A,21,0,Heavy Rain,27
+Route_B,6,0,Clear,23
+Route_ESP,9,6,Clear,17
+Route_A,18,3,Heavy Rain,36
+Route_A,18,0,Rain,27
+Route_B,15,5,Clear,23
+Route_A,14,4,Heavy Rain,30
+Route_A,12,1,Clear,14
+Route_A,22,6,Heavy Rain,20
+Route_A,13,6,Heavy Rain,27
+Route_B,8,4,Clear,33
+Route_B,18,1,Clear,31
+Route_B,12,2,Heavy Rain,41
+Route_B,20,4,Rain,31
+Route_A,14,6,Rain,22
+Route_ESP,10,5,Clear,6
+Route_ESP,13,2,Rain,13
+Route_A,6,4,Clear,15
+Route_B,14,0,Rain,29
+Route_A,15,3,Clear,13
+Route_B,10,4,Rain,28
+Route_A,9,1,Rain,31
+Route_B,15,3,Heavy Rain,36
+Route_B,15,0,Clear,23
+Route_ESP,12,3,Clear,10
+Route_ESP,20,1,Rain,14
+Route_ESP,22,4,Heavy Rain,20
+Route_A,6,2,Heavy Rain,37
+Route_B,16,4,Rain,27
+Route_A,16,2,Heavy Rain,25
+Route_ESP,21,1,Heavy Rain,26
+Route_B,22,3,Rain,31
+Route_ESP,21,4,Rain,12
+Route_A,7,0,Clear,15
+Route_B,9,0,Heavy Rain,44
+Route_ESP,10,0,Clear,8
+Route_A,18,5,Rain,24
+Route_ESP,21,1,Clear,11
+Route_ESP,16,0,Rain,11
+Route_A,6,1,Clear,18
+Route_ESP,18,0,Rain,30
+Route_A,13,3,Rain,18
+Route_ESP,7,2,Rain,13
+Route_B,18,5,Heavy Rain,49
+Route_A,6,4,Clear,17
+Route_B,21,4,Clear,24
+Route_B,14,0,Clear,27
+Route_A,18,1,Clear,28
+Route_ESP,18,3,Clear,22
+Route_ESP,15,0,Heavy Rain,25
+Route_A,20,0,Rain,22
+Route_B,6,2,Heavy Rain,46
+Route_ESP,9,2,Heavy Rain,35
+Route_B,21,5,Clear,21
+Route_ESP,11,6,Clear,8
+Route_A,21,4,Clear,13
+Route_A,15,0,Rain,22
+Route_B,18,4,Rain,36
+Route_ESP,19,4,Rain,13
+Route_ESP,12,4,Rain,10
+Route_A,8,3,Rain,32
+Route_A,11,5,Rain,14
+Route_A,13,2,Clear,15
+Route_B,14,2,Heavy Rain,42
+Route_B,9,6,Clear,33
+Route_ESP,7,5,Heavy Rain,24
+Route_A,8,2,Clear,30
+Route_A,11,1,Heavy Rain,35
+Route_ESP,11,6,Clear,10
+Route_B,13,3,Heavy Rain,39
+Route_ESP,13,5,Clear,6
+Route_ESP,9,0,Clear,22
+Route_A,18,4,Heavy Rain,33
+Route_B,8,5,Rain,41
+Route_ESP,17,2,Heavy Rain,34
+Route_B,6,3,Clear,28
+Route_ESP,18,0,Clear,22
+Route_B,15,4,Clear,27
+Route_ESP,7,2,Clear,10
+Route_A,18,3,Clear,24
+Route_A,19,3,Heavy Rain,29
+Route_A,15,5,Heavy Rain,25
+Route_ESP,21,3,Clear,9
+Route_B,15,2,Clear,25
+Route_ESP,6,1,Heavy Rain,25
+Route_ESP,8,3,Heavy Rain,37
+Route_A,15,6,Heavy Rain,21
+Route_A,17,2,Clear,19
+Route_ESP,9,3,Heavy Rain,42
+Route_ESP,19,3,Rain,14
+Route_A,12,0,Rain,20
+Route_A,16,0,Rain,20
+Route_ESP,16,5,Heavy Rain,30
+Route_A,15,4,Rain,18
+Route_ESP,10,4,Rain,13
+Route_B,22,2,Clear,26
+Route_A,17,1,Clear,28
+Route_A,14,5,Clear,14
+Route_A,16,4,Clear,16
+Route_A,6,0,Clear,18
+Route_B,6,1,Rain,32
+Route_ESP,10,5,Rain,11
+Route_A,11,6,Clear,13
+Route_B,10,4,Rain,30
+Route_ESP,9,1,Rain,15
+Route_A,12,6,Clear,14
+Route_A,19,1,Heavy Rain,29
+Route_A,20,0,Clear,18
+Route_B,6,2,Heavy Rain,38
+Route_B,16,6,Rain,24
+Route_B,19,6,Clear,23
+Route_A,12,1,Rain,21
+Route_B,22,1,Rain,28
+Route_A,19,5,Rain,17
+Route_B,10,6,Clear,19
+Route_A,12,6,Heavy Rain,30
+Route_B,19,3,Clear,27
+Route_B,7,0,Clear,24
+Route_ESP,17,6,Heavy Rain,38
+Route_ESP,21,3,Heavy Rain,28
+Route_A,7,6,Rain,17
+Route_B,9,1,Rain,40
+Route_B,15,5,Rain,27
+Route_B,21,3,Heavy Rain,42
+Route_ESP,16,5,Rain,14
+Route_B,20,5,Rain,26
+Route_A,11,2,Clear,14
+Route_ESP,12,6,Clear,7
+Route_ESP,11,1,Rain,16
+Route_A,21,2,Heavy Rain,30
+Route_B,12,2,Heavy Rain,33
+Route_A,13,1,Clear,16
+Route_A,17,5,Heavy Rain,49
+Route_A,9,3,Clear,28
+Route_B,8,3,Rain,39
+Route_B,15,4,Heavy Rain,38
+Route_A,22,1,Rain,17
+Route_ESP,11,3,Heavy Rain,19
+Route_A,22,3,Clear,13
+Route_B,16,1,Heavy Rain,36
+Route_ESP,9,0,Heavy Rain,32
+Route_ESP,14,3,Heavy Rain,25
+Route_A,9,5,Heavy Rain,42
+Route_A,22,6,Clear,17
+Route_A,15,1,Clear,16
+Route_ESP,19,0,Rain,15
+Route_A,11,3,Clear,18
+Route_ESP,9,2,Clear,22
+Route_ESP,22,1,Clear,9
+Route_B,21,1,Clear,26
+Route_B,15,5,Heavy Rain,41
+Route_B,15,2,Clear,27
+Route_A,18,0,Rain,24
+Route_ESP,16,4,Clear,9
+Route_B,22,5,Clear,21
+Route_B,19,0,Rain,30
+Route_B,11,6,Clear,24
+Route_B,21,4,Heavy Rain,42
+Route_A,11,4,Heavy Rain,28
+Route_ESP,20,6,Clear,7
+Route_ESP,19,3,Rain,13
+Route_A,20,3,Clear,16
+Route_ESP,12,1,Rain,13
+Route_A,19,0,Clear,18
+Route_A,10,5,Clear,14
+Route_A,13,4,Heavy Rain,33
+Route_A,13,3,Heavy Rain,28
+Route_A,16,3,Heavy Rain,36
+Route_B,22,1,Clear,24
+Route_A,20,5,Heavy Rain,28
+Route_B,18,3,Heavy Rain,55
+Route_B,6,0,Rain,28
+Route_ESP,19,2,Clear,8
+Route_ESP,18,1,Heavy Rain,33
+Route_A,12,2,Heavy Rain,29
+Route_B,21,2,Clear,27
+Route_B,11,6,Clear,21
+Route_ESP,12,1,Heavy Rain,25
+Route_ESP,11,3,Clear,12
+Route_A,8,4,Clear,26
+Route_ESP,14,0,Clear,11
+Route_B,19,0,Clear,23
+Route_B,14,4,Heavy Rain,43
+Route_A,7,6,Rain,18
+Route_B,8,2,Rain,42
+Route_B,8,5,Clear,33
+Route_B,16,2,Heavy Rain,43
+Route_B,21,1,Clear,24
+Route_ESP,22,4,Rain,15
+Route_B,19,5,Heavy Rain,43
+Route_A,10,2,Heavy Rain,25
+Route_ESP,6,1,Clear,10
+Route_A,17,6,Clear,26
+Route_A,17,2,Heavy Rain,45
+Route_B,8,6,Heavy Rain,50
+Route_ESP,21,4,Clear,10
+Route_A,16,2,Heavy Rain,35
+Route_ESP,9,5,Heavy Rain,33
+Route_ESP,18,6,Rain,19
+Route_ESP,11,3,Heavy Rain,18
+Route_ESP,13,6,Rain,11
+Route_B,14,0,Heavy Rain,43
+Route_A,19,5,Clear,16
+Route_B,9,1,Rain,41
+Route_A,6,3,Rain,22
+Route_ESP,7,0,Heavy Rain,25
+Route_B,10,1,Rain,28
+Route_B,6,4,Rain,28
+Route_B,14,0,Clear,25
+Route_ESP,13,3,Heavy Rain,27
+Route_ESP,7,4,Clear,8
+Route_A,17,1,Clear,24
+Route_B,16,3,Clear,26
+Route_B,14,3,Heavy Rain,42
+Route_ESP,20,2,Rain,12
+Route_ESP,17,2,Rain,32
+Route_B,19,0,Heavy Rain,38
+Route_ESP,6,2,Rain,12
+Route_ESP,11,6,Rain,10
+Route_A,10,4,Rain,18
+Route_B,14,3,Heavy Rain,35
+Route_ESP,13,3,Rain,11
+Route_B,22,2,Clear,25
+Route_B,22,3,Heavy Rain,38
+Route_B,11,0,Clear,24
+Route_B,7,4,Clear,25
+Route_B,20,0,Clear,26
+Route_B,15,1,Rain,33
+Route_A,10,1,Clear,14
+Route_B,17,1,Clear,33
+Route_A,15,0,Heavy Rain,24
+Route_ESP,15,4,Clear,12
+Route_ESP,16,3,Clear,12
+Route_ESP,22,5,Clear,8
+Route_B,11,4,Clear,26
+Route_B,11,5,Heavy Rain,36
+Route_A,14,3,Clear,14
+Route_ESP,22,3,Rain,17
+Route_A,11,5,Rain,16
+Route_A,19,0,Heavy Rain,29
+Route_A,18,0,Clear,23
+Route_ESP,16,0,Heavy Rain,31
+Route_ESP,17,0,Rain,26
+Route_A,9,2,Heavy Rain,48
+Route_ESP,14,5,Heavy Rain,27
+Route_A,12,0,Heavy Rain,24
+Route_A,20,1,Clear,14
+Route_ESP,12,1,Rain,15
+Route_A,10,4,Rain,19
+Route_ESP,16,4,Rain,13
+Route_A,6,4,Heavy Rain,32
+Route_A,12,4,Clear,15
+Route_ESP,21,1,Heavy Rain,25
+Route_A,14,4,Heavy Rain,33
+Route_A,7,5,Rain,18
+Route_ESP,7,1,Rain,10
+Route_B,6,4,Clear,27
+Route_ESP,6,0,Clear,8
+Route_A,9,2,Heavy Rain,33
+Route_ESP,10,0,Rain,13
+Route_ESP,7,4,Clear,13
+Route_A,19,3,Heavy Rain,33
+Route_B,12,6,Rain,28
+Route_A,21,0,Heavy Rain,29
+Route_ESP,6,5,Rain,9
+Route_ESP,21,0,Rain,15
+Route_B,7,4,Heavy Rain,42
+Route_B,16,0,Heavy Rain,34
+Route_A,20,5,Rain,21
+Route_ESP,22,5,Rain,15
+Route_ESP,12,6,Clear,7
+Route_B,20,2,Clear,28
+Route_ESP,22,2,Heavy Rain,21
+Route_B,7,5,Clear,24
+Route_ESP,22,2,Rain,16
+Route_B,10,5,Clear,23
+Route_B,10,2,Heavy Rain,42
+Route_A,7,1,Rain,20
+Route_A,18,0,Rain,36
+Route_B,14,6,Heavy Rain,30
+Route_B,6,4,Clear,25
+Route_ESP,19,0,Heavy Rain,31
+Route_ESP,10,0,Rain,12
+Route_A,16,1,Clear,15
+Route_ESP,7,1,Heavy Rain,30
+Route_A,10,0,Rain,22
+Route_ESP,6,4,Rain,12
+Route_ESP,11,5,Rain,13
+Route_B,17,0,Rain,34
+Route_B,8,6,Clear,33
+Route_ESP,15,1,Heavy Rain,29
+Route_B,17,6,Clear,37
+Route_A,14,0,Heavy Rain,36
+Route_B,22,5,Rain,23
+Route_A,17,6,Clear,15
+Route_B,14,1,Clear,26
+Route_B,16,0,Rain,32
+Route_A,17,3,Rain,32
+Route_ESP,8,6,Clear,14
+Route_B,19,4,Clear,25
+Route_A,20,3,Heavy Rain,28
+Route_A,14,2,Clear,15
+Route_A,7,1,Clear,16
+Route_ESP,13,1,Rain,15
+Route_ESP,18,3,Clear,24
+Route_B,15,6,Rain,27
+Route_B,9,0,Rain,38
+Route_ESP,6,5,Clear,3
+Route_ESP,8,4,Heavy Rain,33
+Route_ESP,10,6,Clear,8
+Route_B,22,6,Rain,24
+Route_ESP,8,0,Heavy Rain,34
+Route_B,18,1,Rain,40
+Route_A,11,1,Heavy Rain,31
+Route_B,20,0,Clear,25
+Route_A,18,3,Heavy Rain,37
+Route_ESP,16,6,Heavy Rain,21
+Route_B,10,2,Clear,28
+Route_B,10,4,Heavy Rain,39
+Route_B,20,5,Clear,23
+Route_A,13,1,Clear,16
+Route_ESP,9,0,Rain,30
+Route_ESP,18,1,Rain,19
+Route_A,17,3,Rain,26
+Route_A,8,6,Rain,25
+Route_A,21,3,Clear,13
+Route_ESP,17,5,Rain,27
+Route_B,15,5,Clear,21
+Route_ESP,6,5,Heavy Rain,18
+Route_A,6,3,Heavy Rain,32
+Route_ESP,17,6,Rain,24
+Route_B,21,1,Clear,24
+Route_A,7,5,Clear,9
+Route_B,7,2,Rain,32
+Route_B,9,1,Clear,35
+Route_ESP,22,6,Rain,11
+Route_B,12,5,Clear,21
+Route_A,13,2,Rain,19
+Route_A,15,0,Clear,18
+Route_B,16,1,Rain,27
+Route_ESP,12,0,Rain,15
+Route_B,11,2,Clear,28
+Route_ESP,19,1,Clear,13
+Route_A,21,3,Clear,13
+Route_ESP,10,6,Heavy Rain,20
+Route_A,16,4,Rain,21
+Route_B,11,3,Heavy Rain,36
+Route_ESP,7,0,Rain,13
+Route_ESP,18,5,Rain,28
+Route_B,16,6,Heavy Rain,38
+Route_B,20,5,Heavy Rain,33
+Route_B,22,1,Clear,23
+Route_A,20,5,Rain,16
+Route_ESP,12,6,Clear,5
+Route_B,11,6,Rain,25
+Route_A,6,5,Heavy Rain,25
+Route_ESP,22,5,Clear,4
+Route_A,16,6,Heavy Rain,35
+Route_ESP,10,1,Clear,13
+Route_A,8,1,Heavy Rain,43
+Route_ESP,22,5,Heavy Rain,27
+Route_A,18,3,Clear,21
+Route_ESP,9,6,Clear,22
+Route_B,13,1,Heavy Rain,41
+Route_A,16,0,Heavy Rain,28
+Route_B,14,3,Clear,23
+Route_B,15,0,Clear,24
+Route_B,13,1,Rain,29
+Route_B,15,5,Rain,26
+Route_ESP,14,5,Clear,8
+Route_ESP,9,4,Rain,25
+Route_B,15,4,Heavy Rain,41
+Route_ESP,10,3,Rain,16
+Route_A,20,0,Heavy Rain,34
+Route_ESP,12,4,Heavy Rain,31
+Route_B,17,3,Heavy Rain,46
+Route_ESP,21,4,Clear,9
+Route_A,10,0,Rain,21
+Route_B,14,1,Clear,28
+Route_A,6,4,Rain,17
+Route_B,14,0,Rain,28
+Route_ESP,20,5,Rain,13
+Route_A,12,6,Clear,8
+Route_A,21,3,Clear,18
+Route_A,19,4,Heavy Rain,30
+Route_A,12,1,Clear,14
+Route_A,11,1,Rain,18
+Route_A,11,1,Clear,16
+Route_A,18,3,Heavy Rain,43
+Route_B,11,3,Clear,24
+Route_ESP,18,1,Rain,20
+Route_ESP,10,4,Rain,17
+Route_A,17,6,Clear,24
+Route_ESP,18,4,Clear,22
+Route_B,7,3,Heavy Rain,44
+Route_B,18,4,Heavy Rain,46
+Route_A,18,3,Rain,31
+Route_ESP,17,3,Rain,30
+Route_A,12,0,Clear,17
+Route_B,12,0,Rain,26
+Route_B,14,4,Rain,27
+Route_A,12,2,Heavy Rain,30
+Route_A,20,6,Rain,10
+Route_A,21,5,Clear,11
+Route_B,10,0,Clear,26
+Route_ESP,12,6,Clear,9
+Route_ESP,15,3,Heavy Rain,31
+Route_ESP,19,2,Heavy Rain,19
+Route_ESP,7,6,Clear,5
+Route_ESP,7,4,Clear,9
+Route_B,21,0,Rain,31
+Route_ESP,19,0,Rain,12
+Route_ESP,18,3,Heavy Rain,25
+Route_ESP,10,3,Clear,10
+Route_B,8,5,Heavy Rain,45
+Route_A,15,1,Heavy Rain,30
+Route_ESP,14,2,Clear,12
+Route_A,8,1,Heavy Rain,36
+Route_A,7,2,Clear,15
+Route_B,10,2,Heavy Rain,38
+Route_A,8,6,Clear,17
+Route_ESP,19,3,Rain,12
+Route_B,20,5,Clear,21
+Route_A,11,0,Rain,23
+Route_A,14,1,Heavy Rain,29
+Route_ESP,7,6,Clear,9
+Route_A,8,4,Rain,28
+Route_B,21,0,Heavy Rain,37
+Route_A,15,5,Heavy Rain,34
+Route_ESP,9,1,Heavy Rain,28
+Route_B,21,6,Rain,29
+Route_B,13,3,Heavy Rain,38
+Route_A,22,4,Heavy Rain,26
+Route_B,13,0,Heavy Rain,47
+Route_A,14,2,Rain,18
+Route_B,13,2,Rain,29
+Route_B,10,2,Clear,27
+Route_B,16,6,Rain,24
+Route_A,21,3,Clear,14
+Route_B,16,0,Rain,30
+Route_B,22,1,Heavy Rain,36
+Route_ESP,19,5,Clear,8
+Route_ESP,6,6,Clear,5
+Route_B,17,0,Heavy Rain,48
+Route_A,21,6,Rain,15
+Route_A,20,5,Clear,15
+Route_ESP,21,0,Clear,8
+Route_ESP,14,6,Clear,12
+Route_B,10,0,Clear,24
+Route_A,13,6,Rain,19
+Route_B,20,4,Rain,27
+Route_B,14,1,Rain,31
+Route_B,6,3,Clear,28
+Route_ESP,20,0,Clear,12
+Route_B,22,3,Clear,24
+Route_B,11,4,Clear,26
+Route_ESP,14,6,Clear,7
+Route_B,18,4,Clear,34
+Route_A,19,2,Clear,13
+Route_B,10,0,Clear,26
+Route_ESP,19,3,Heavy Rain,29
+Route_A,20,0,Clear,17
+Route_A,14,4,Heavy Rain,26
+Route_ESP,12,1,Heavy Rain,23
+Route_A,22,4,Clear,18
+Route_B,9,2,Heavy Rain,57
+Route_ESP,10,1,Rain,13
+Route_A,14,3,Heavy Rain,37
+Route_ESP,18,5,Clear,20
+Route_ESP,8,4,Clear,16
+Route_B,19,2,Heavy Rain,36
+Route_A,9,1,Rain,27
+Route_A,12,4,Rain,18
+Route_ESP,22,5,Clear,9
+Route_A,21,3,Rain,23
+Route_B,17,2,Heavy Rain,48
+Route_A,19,4,Clear,18
+Route_A,11,4,Clear,18
+Route_B,14,2,Rain,29
+Route_ESP,8,1,Clear,17
+Route_A,22,4,Rain,18
+Route_B,12,2,Rain,28
+Route_ESP,11,5,Heavy Rain,22
+Route_ESP,13,5,Clear,5
+Route_ESP,7,5,Clear,9
+Route_ESP,7,1,Clear,8
+Route_A,16,4,Heavy Rain,36
+Route_A,21,3,Heavy Rain,26
+Route_A,22,0,Rain,15
+Route_B,17,6,Heavy Rain,51
+Route_ESP,9,5,Clear,24
+Route_B,14,6,Heavy Rain,37
+Route_B,15,1,Heavy Rain,42
+Route_ESP,9,1,Heavy Rain,44
+Route_ESP,10,4,Heavy Rain,28
+Route_ESP,8,5,Heavy Rain,39
+Route_ESP,20,5,Heavy Rain,28
+Route_B,16,2,Rain,28
+Route_A,20,3,Clear,13
+Route_B,21,0,Heavy Rain,37
+Route_A,19,0,Clear,16
+Route_A,15,5,Rain,22
+Route_A,16,4,Clear,15
+Route_B,9,6,Rain,42
+Route_ESP,6,5,Clear,10
+Route_B,18,6,Heavy Rain,46
+Route_ESP,21,4,Heavy Rain,21
+Route_ESP,19,6,Heavy Rain,17
+Route_ESP,18,5,Rain,15
+Route_B,17,4,Clear,33
+Route_B,22,2,Rain,27
+Route_A,8,5,Clear,26
+Route_ESP,13,6,Heavy Rain,27
+Route_ESP,15,1,Rain,17
+Route_ESP,8,4,Rain,24
+Route_A,12,4,Heavy Rain,33
+Route_B,8,0,Clear,35
+Route_A,8,4,Rain,37
+Route_ESP,19,4,Rain,12
+Route_ESP,21,6,Clear,5
+Route_B,18,6,Clear,30
+Route_ESP,15,5,Heavy Rain,23
+Route_A,19,2,Heavy Rain,28
+Route_B,18,4,Rain,41
+Route_ESP,13,4,Rain,12
+Route_A,15,4,Clear,13
+Route_A,14,2,Heavy Rain,32
+Route_A,12,4,Clear,14
+Route_A,16,0,Clear,14
+Route_A,12,1,Clear,18
+Route_A,6,6,Heavy Rain,35
+Route_ESP,20,1,Heavy Rain,26
+Route_ESP,13,6,Clear,4
+Route_B,17,6,Heavy Rain,45
+Route_A,20,0,Heavy Rain,34
+Route_ESP,20,0,Heavy Rain,33
+Route_ESP,21,5,Heavy Rain,23
+Route_ESP,7,1,Rain,11
+Route_B,7,2,Clear,27
+Route_ESP,12,3,Heavy Rain,28
+Route_B,14,5,Clear,22
+Route_B,15,6,Rain,29
+Route_ESP,7,0,Heavy Rain,29
+Route_B,7,5,Clear,23
+Route_B,21,1,Heavy Rain,44
+Route_A,17,3,Rain,29
+Route_A,10,3,Clear,16
+Route_A,9,4,Heavy Rain,42
+Route_A,8,3,Clear,25
+Route_B,8,5,Rain,40
+Route_A,11,6,Heavy Rain,27
+Route_A,15,5,Clear,14
+Route_ESP,16,6,Clear,10
+Route_A,18,5,Clear,22
+Route_B,21,1,Heavy Rain,41
+Route_ESP,8,2,Heavy Rain,25
+Route_B,18,3,Clear,38
+Route_A,20,4,Heavy Rain,27
+Route_A,10,4,Rain,18
+Route_ESP,11,6,Rain,13
+Route_B,8,2,Rain,37
+Route_B,19,5,Clear,21
+Route_B,18,4,Clear,36
+Route_B,9,0,Rain,35
+Route_ESP,8,3,Clear,22
+Route_B,7,4,Rain,29
+Route_B,6,6,Heavy Rain,34
+Route_A,11,4,Heavy Rain,26
+Route_A,12,5,Heavy Rain,24
+Route_A,22,0,Rain,21
+Route_ESP,16,1,Rain,13
+Route_ESP,16,1,Heavy Rain,21
+Route_A,17,0,Rain,36
+Route_ESP,8,5,Clear,11
+Route_B,7,6,Clear,23
+Route_B,9,3,Heavy Rain,53
+Route_A,12,1,Rain,21
+Route_ESP,7,1,Clear,8
+Route_ESP,7,1,Heavy Rain,24
+Route_A,10,6,Clear,15
+Route_A,16,6,Heavy Rain,27
+Route_ESP,19,2,Rain,12
+Route_ESP,16,4,Heavy Rain,26
+Route_ESP,22,5,Clear,10
+Route_B,9,6,Rain,39
+Route_ESP,17,1,Clear,16
+Route_ESP,17,4,Rain,28
+Route_ESP,9,1,Clear,18
+Route_ESP,18,1,Heavy Rain,36
+Route_A,10,0,Rain,18
+Route_B,21,4,Rain,26
+Route_B,20,1,Heavy Rain,47
+Route_B,14,0,Clear,27
+Route_ESP,18,0,Heavy Rain,28
+Route_ESP,12,6,Heavy Rain,27
+Route_ESP,21,3,Heavy Rain,30
+Route_ESP,16,5,Rain,14
+Route_ESP,6,3,Clear,8
+Route_A,16,2,Clear,17
+Route_A,14,5,Clear,9
+Route_B,22,3,Heavy Rain,37
+Route_ESP,14,6,Heavy Rain,18
+Route_B,16,3,Rain,28
+Route_ESP,9,1,Rain,25
+Route_B,9,3,Heavy Rain,49
+Route_A,10,4,Clear,18
+Route_A,12,0,Heavy Rain,28
+Route_A,8,6,Rain,35
+Route_A,20,4,Heavy Rain,23
+Route_ESP,16,2,Clear,10
+Route_A,16,6,Clear,13
+Route_ESP,20,4,Heavy Rain,25
+Route_ESP,18,0,Heavy Rain,38
+Route_A,7,4,Clear,17
+Route_ESP,17,5,Heavy Rain,40
+Route_B,14,4,Heavy Rain,40
+Route_A,17,5,Rain,23
+Route_A,16,6,Heavy Rain,29
+Route_A,22,5,Rain,17
+Route_ESP,16,5,Clear,8
+Route_ESP,12,1,Heavy Rain,26
+Route_A,12,1,Clear,17
+Route_B,20,5,Clear,23
+Route_A,8,2,Heavy Rain,34
+Route_ESP,21,5,Rain,12
+Route_B,20,6,Rain,25
+Route_ESP,12,4,Heavy Rain,29
+Route_ESP,16,5,Heavy Rain,21
+Route_ESP,16,6,Rain,15
+Route_A,9,6,Heavy Rain,44
+Route_B,20,1,Rain,32
+Route_B,19,0,Clear,28
+Route_ESP,14,4,Rain,18
+Route_B,16,3,Rain,28
+Route_B,15,6,Heavy Rain,37
+Route_A,15,4,Heavy Rain,30
+Route_A,8,5,Heavy Rain,48
+Route_A,9,3,Clear,21
+Route_B,14,5,Rain,29
+Route_ESP,19,3,Heavy Rain,30
+Route_A,15,6,Rain,20
+Route_ESP,20,2,Clear,8
+Route_A,11,6,Clear,8
+Route_B,16,0,Rain,33
+Route_ESP,18,1,Rain,18
+Route_B,11,0,Clear,28
+Route_A,15,5,Heavy Rain,29
+Route_ESP,12,5,Heavy Rain,19
+Route_ESP,10,2,Rain,10
+Route_B,15,1,Clear,25
+Route_A,16,3,Rain,21
+Route_ESP,9,6,Rain,22
+Route_A,11,6,Heavy Rain,26
+Route_B,20,4,Clear,25
+Route_A,21,4,Heavy Rain,27
+Route_B,22,2,Clear,26
+Route_B,10,5,Clear,21
+Route_B,19,5,Clear,27
+Route_B,6,5,Clear,19
+Route_A,6,5,Heavy Rain,35
+Route_A,17,0,Clear,28
+Route_A,22,3,Rain,21
+Route_A,17,1,Clear,26
+Route_B,11,2,Clear,28
+Route_B,10,3,Clear,28
+Route_ESP,11,2,Rain,14
+Route_ESP,17,1,Clear,22
+Route_ESP,18,5,Heavy Rain,34
+Route_ESP,8,1,Clear,15
+Route_ESP,17,6,Heavy Rain,32
+Route_A,9,1,Heavy Rain,37
+Route_B,11,3,Clear,27
+Route_ESP,18,3,Clear,24
+Route_A,19,3,Clear,15
+Route_A,22,4,Rain,15
+Route_B,22,4,Clear,26
+Route_ESP,12,6,Heavy Rain,28
+Route_ESP,11,5,Rain,8
+Route_ESP,13,1,Heavy Rain,25
+Route_A,7,3,Rain,20
+Route_B,21,3,Heavy Rain,45
+Route_A,9,4,Rain,32
+Route_B,6,5,Rain,20
+Route_ESP,9,3,Clear,24
+Route_B,13,3,Rain,32
+Route_B,21,5,Clear,24
+Route_B,10,3,Rain,26
+Route_A,13,6,Heavy Rain,27
+Route_A,10,4,Rain,19
+Route_A,17,4,Rain,29
+Route_A,7,0,Heavy Rain,30
+Route_B,13,2,Rain,31
+Route_B,7,5,Clear,22
+Route_ESP,18,1,Rain,18
+Route_A,6,1,Heavy Rain,36
+Route_A,16,2,Heavy Rain,29
+Route_A,20,2,Clear,18
+Route_B,20,6,Heavy Rain,47
+Route_A,13,3,Rain,18
+Route_B,13,6,Clear,24
+Route_B,11,0,Heavy Rain,41
+Route_B,17,6,Heavy Rain,48
+Route_A,13,1,Clear,16
+Route_A,6,1,Heavy Rain,34
+Route_ESP,11,6,Heavy Rain,25
+Route_ESP,18,3,Clear,22
+Route_ESP,14,3,Clear,13
+Route_ESP,13,4,Rain,15
+Route_A,16,3,Clear,17
+Route_ESP,14,2,Rain,13
+Route_B,9,1,Clear,40
+Route_ESP,10,1,Rain,13
+Route_A,20,6,Heavy Rain,30
+Route_A,14,3,Clear,18
+Route_ESP,14,6,Heavy Rain,23
+Route_A,17,3,Heavy Rain,40
+Route_A,12,4,Heavy Rain,36
+Route_A,11,5,Clear,15
+Route_A,18,0,Rain,23
+Route_A,9,2,Heavy Rain,37
+Route_ESP,13,4,Heavy Rain,20
+Route_A,9,5,Rain,25
+Route_B,9,5,Clear,28
+Route_B,15,0,Heavy Rain,34
+Route_ESP,8,5,Clear,26
+Route_B,21,3,Rain,27
+Route_A,13,1,Rain,19
+Route_B,20,5,Clear,26
+Route_B,21,2,Heavy Rain,46
+Route_B,9,4,Clear,34
+Route_A,7,2,Heavy Rain,28
+Route_ESP,7,0,Clear,11
+Route_B,7,3,Heavy Rain,39
+Route_B,13,2,Clear,25
+Route_ESP,13,4,Clear,11
+Route_ESP,20,1,Clear,10
+Route_ESP,17,4,Heavy Rain,41
+Route_A,10,5,Clear,12
+Route_B,19,6,Rain,25
+Route_A,10,6,Heavy Rain,27
+Route_B,13,2,Clear,24
+Route_B,7,6,Heavy Rain,32
+Route_A,17,0,Rain,34
+Route_ESP,19,2,Rain,16
+Route_A,10,6,Rain,22
+Route_ESP,20,6,Clear,5
+Route_B,12,1,Clear,28
+Route_A,6,3,Heavy Rain,29
+Route_A,16,0,Rain,21
+Route_A,6,2,Clear,14
+Route_B,12,3,Rain,30
+Route_ESP,17,0,Heavy Rain,38
+Route_A,17,1,Rain,28
+Route_ESP,7,2,Rain,14
+Route_A,11,2,Heavy Rain,26
+Route_ESP,20,5,Heavy Rain,24
+Route_ESP,15,1,Clear,13
+Route_ESP,6,0,Rain,15
+Route_B,20,6,Clear,28
+Route_A,21,3,Clear,14
+Route_ESP,21,3,Clear,11
+Route_A,11,3,Heavy Rain,33
+Route_A,14,6,Clear,10
+Route_ESP,18,5,Clear,19
+Route_ESP,15,0,Clear,13
+Route_B,21,0,Heavy Rain,35
+Route_B,8,5,Rain,42
+Route_ESP,18,4,Heavy Rain,46
+Route_ESP,10,1,Rain,12
+Route_B,17,0,Rain,40
+Route_B,18,0,Heavy Rain,45
+Route_ESP,15,0,Heavy Rain,27
+Route_B,11,2,Heavy Rain,47
+Route_A,12,1,Rain,18
+Route_A,22,1,Heavy Rain,35
+Route_A,21,4,Heavy Rain,32
+Route_ESP,18,4,Clear,25
+Route_ESP,21,6,Heavy Rain,23
+Route_A,12,6,Rain,16
+Route_A,19,6,Heavy Rain,30
+Route_B,18,6,Rain,38
+Route_ESP,15,4,Clear,9
+Route_B,16,1,Clear,26
+Route_A,17,0,Rain,33
+Route_ESP,9,2,Clear,28
+Route_A,15,0,Clear,18
+Route_B,20,6,Heavy Rain,35
+Route_B,22,4,Clear,23
+Route_ESP,22,4,Heavy Rain,22
+Route_ESP,13,6,Rain,12
+Route_B,20,4,Clear,26
+Route_A,11,3,Rain,17
+Route_ESP,20,4,Rain,17
+Route_B,13,0,Clear,25
+Route_ESP,20,4,Heavy Rain,30
+Route_ESP,13,4,Heavy Rain,23
+Route_B,7,3,Clear,23
+Route_A,16,6,Rain,19
+Route_A,16,0,Rain,19
+Route_A,15,2,Heavy Rain,30
+Route_ESP,16,5,Heavy Rain,19
+Route_ESP,15,1,Heavy Rain,24
+Route_A,8,6,Heavy Rain,36
+Route_A,15,0,Heavy Rain,36
+Route_B,10,2,Clear,27
+Route_B,6,5,Clear,23
+Route_A,20,6,Rain,13
+Route_B,20,4,Heavy Rain,43
+Route_A,15,3,Rain,20
+Route_A,13,2,Rain,20
+Route_ESP,11,2,Clear,11
+Route_B,11,6,Clear,22
+Route_A,6,2,Clear,14
+Route_ESP,6,0,Clear,9
+Route_B,17,0,Clear,35
+Route_ESP,17,6,Heavy Rain,30
+Route_B,7,2,Rain,30
+Route_B,20,0,Heavy Rain,43
+Route_A,19,3,Rain,19
+Route_A,11,5,Rain,12
+Route_ESP,6,5,Clear,8
+Route_B,8,1,Rain,38
+Route_A,8,0,Heavy Rain,43
+Route_A,7,4,Rain,17
+Route_A,13,3,Heavy Rain,35
+Route_A,11,6,Heavy Rain,24
+Route_B,11,3,Heavy Rain,37
+Route_B,12,5,Clear,21
+Route_B,17,0,Clear,33
+Route_ESP,17,3,Rain,30
+Route_ESP,8,4,Heavy Rain,34
+Route_ESP,19,0,Clear,13
+Route_A,13,4,Heavy Rain,31
+Route_B,6,6,Rain,22
+Route_ESP,10,0,Rain,14
+Route_A,9,0,Clear,26
+Route_ESP,14,0,Clear,8
+Route_A,19,4,Clear,16
+Route_ESP,22,3,Clear,10
+Route_ESP,19,4,Heavy Rain,23
+Route_ESP,9,5,Heavy Rain,36
+Route_A,16,0,Heavy Rain,33
+Route_ESP,16,2,Heavy Rain,28
+Route_B,17,1,Heavy Rain,56
+Route_ESP,11,4,Heavy Rain,26
+Route_A,10,6,Clear,17
+Route_B,12,4,Clear,23
+Route_B,12,3,Clear,23
+Route_A,15,3,Clear,16
+Route_A,11,6,Heavy Rain,24
+Route_B,11,2,Heavy Rain,36
+Route_ESP,21,3,Heavy Rain,30
+Route_B,8,4,Heavy Rain,47
+Route_A,16,1,Heavy Rain,26
+Route_B,8,3,Rain,40
+Route_B,15,6,Heavy Rain,36
+Route_ESP,22,1,Rain,13
+Route_A,12,0,Heavy Rain,30
+Route_ESP,15,2,Rain,15
+Route_A,6,0,Rain,22
+Route_B,21,6,Heavy Rain,45
+Route_A,18,3,Rain,30
+Route_B,20,3,Rain,28
+Route_ESP,14,5,Rain,14
+Route_A,7,6,Clear,18
+Route_B,9,6,Rain,29
+Route_B,12,0,Clear,27
+Route_A,10,2,Heavy Rain,32
+Route_A,12,0,Rain,20
+Route_ESP,16,3,Rain,15
+Route_B,7,0,Heavy Rain,43
+Route_A,18,3,Clear,26
+Route_B,10,5,Rain,27
+Route_A,20,6,Clear,9
+Route_A,18,1,Rain,29
+Route_B,10,3,Rain,29
+Route_A,6,4,Heavy Rain,31
+Route_B,20,4,Rain,32
+Route_ESP,10,6,Rain,10
+Route_ESP,20,4,Heavy Rain,24
+Route_A,11,4,Clear,14
+Route_ESP,22,4,Clear,13
+Route_A,21,6,Clear,11
+Route_A,9,0,Heavy Rain,47
+Route_A,9,4,Heavy Rain,38
+Route_A,16,5,Heavy Rain,27
+Route_ESP,21,0,Rain,17
+Route_A,15,6,Heavy Rain,31
+Route_B,13,4,Heavy Rain,40
+Route_B,20,6,Heavy Rain,45
+Route_B,13,6,Clear,23
+Route_ESP,10,6,Clear,4
+Route_B,7,2,Rain,30
+Route_B,12,1,Rain,29
+Route_A,22,1,Clear,18
+Route_ESP,12,4,Heavy Rain,26
+Route_ESP,8,0,Clear,22
+Route_B,9,4,Rain,42
+Route_B,21,4,Heavy Rain,46
+Route_B,19,5,Clear,20
+Route_A,6,6,Clear,9
+Route_B,22,6,Clear,20
+Route_ESP,19,5,Rain,16
+Route_A,13,3,Rain,20
+Route_B,21,2,Clear,27
+Route_B,8,0,Heavy Rain,58
+Route_A,9,1,Heavy Rain,31
+Route_B,8,2,Rain,37
+Route_ESP,7,6,Clear,13
+Route_B,15,5,Rain,28
+Route_ESP,15,4,Heavy Rain,23
+Route_A,22,3,Rain,17
+Route_A,11,4,Clear,15
+Route_B,21,2,Heavy Rain,43
+Route_ESP,16,5,Heavy Rain,26
+Route_ESP,15,0,Heavy Rain,23
+Route_A,17,3,Clear,32
+Route_B,7,2,Clear,28
+Route_B,11,0,Heavy Rain,37
+Route_ESP,9,1,Heavy Rain,38
+Route_A,18,3,Rain,27
+Route_ESP,22,2,Heavy Rain,30
+Route_ESP,18,5,Rain,16
+Route_ESP,10,2,Rain,11
+Route_A,9,2,Heavy Rain,32
+Route_ESP,13,1,Clear,11
+Route_ESP,8,4,Clear,21
+Route_ESP,15,3,Heavy Rain,25
+Route_ESP,8,5,Rain,25
+Route_B,9,1,Heavy Rain,48
+Route_ESP,19,0,Clear,11
+Route_ESP,22,6,Clear,10
+Route_A,6,5,Rain,20
+Route_ESP,9,1,Clear,18
+Route_ESP,22,1,Rain,15
+Route_B,20,1,Heavy Rain,46
+Route_A,20,1,Rain,19
+Route_B,10,3,Clear,27
+Route_B,15,1,Rain,28
+Route_A,7,0,Clear,16
+Route_ESP,21,4,Heavy Rain,29
+Route_ESP,21,5,Clear,5
+Route_B,16,0,Heavy Rain,36
+Route_B,21,1,Rain,26
+Route_B,9,6,Clear,32
+Route_A,21,1,Heavy Rain,33
+Route_B,13,3,Rain,29
+Route_B,21,5,Heavy Rain,31
+Route_ESP,8,2,Heavy Rain,38
+Route_B,13,0,Rain,28
+Route_ESP,18,6,Rain,24
+Route_A,11,4,Rain,16
+Route_A,15,3,Clear,13
+Route_A,18,5,Clear,25
+Route_B,17,6,Heavy Rain,42
+Route_A,17,2,Heavy Rain,33
+Route_B,13,0,Clear,24
+Route_A,21,0,Clear,14
+Route_ESP,6,1,Clear,8
+Route_B,12,2,Clear,27
+Route_A,17,3,Clear,27
+Route_A,9,6,Rain,29
+Route_A,11,5,Rain,17
+Route_B,10,6,Heavy Rain,37
+Route_B,9,0,Rain,36
+Route_ESP,15,2,Rain,11
+Route_B,14,5,Clear,24
+Route_B,22,1,Rain,27
+Route_A,16,1,Heavy Rain,34
+Route_A,9,6,Clear,21
+Route_ESP,15,6,Clear,4
+Route_A,13,5,Clear,13
+Route_ESP,13,5,Clear,13
+Route_A,16,6,Clear,13
+Route_ESP,21,1,Rain,12
+Route_B,10,4,Rain,29
+Route_ESP,12,2,Rain,13
+Route_B,11,0,Rain,28
+Route_ESP,22,0,Rain,16
+Route_ESP,21,1,Rain,14
+Route_ESP,14,4,Rain,15
+Route_B,14,3,Rain,26
+Route_A,11,2,Rain,17
+Route_ESP,9,6,Rain,20
+Route_A,9,1,Rain,24
+Route_B,18,6,Heavy Rain,57
+Route_ESP,22,5,Heavy Rain,27
+Route_A,9,6,Clear,25
+Route_B,9,4,Clear,41
+Route_A,16,3,Rain,21
+Route_B,20,4,Rain,30
+Route_A,8,4,Rain,26
+Route_ESP,9,4,Rain,26
+Route_ESP,12,0,Rain,15
+Route_A,11,4,Rain,20
+Route_A,13,5,Heavy Rain,27
+Route_B,17,0,Heavy Rain,48
+Route_B,22,4,Rain,30
+Route_A,19,2,Heavy Rain,34
+Route_A,12,0,Heavy Rain,31
+Route_ESP,16,0,Heavy Rain,18
+Route_A,8,0,Rain,31
+Route_ESP,13,2,Heavy Rain,21
+Route_ESP,8,1,Clear,19
+Route_A,9,0,Rain,30
+Route_A,19,1,Clear,14
+Route_A,17,2,Clear,30
+Route_B,19,5,Heavy Rain,35
+Route_ESP,15,6,Rain,8
+Route_A,12,2,Clear,13
+Route_B,14,6,Heavy Rain,46
+Route_ESP,21,0,Heavy Rain,31
+Route_A,12,5,Heavy Rain,27
+Route_B,8,0,Heavy Rain,58
+Route_A,13,0,Heavy Rain,34
+Route_ESP,7,6,Clear,9
+Route_A,7,2,Heavy Rain,30
+Route_B,15,1,Clear,28
+Route_B,13,4,Clear,26
+Route_ESP,8,1,Rain,21
+Route_A,10,1,Heavy Rain,29
+Route_B,14,2,Heavy Rain,47
+Route_ESP,20,4,Rain,13
+Route_B,17,5,Clear,30
+Route_A,20,6,Rain,18
+Route_ESP,6,6,Rain,13
+Route_ESP,22,1,Heavy Rain,23
+Route_B,18,3,Clear,37
+Route_ESP,7,6,Rain,14
+Route_ESP,7,4,Rain,10
+Route_ESP,6,1,Clear,9
+Route_ESP,19,5,Clear,9
+Route_A,14,4,Rain,17
+Route_ESP,19,1,Rain,13
+Route_ESP,15,3,Rain,12
+Route_ESP,17,6,Clear,13
+Route_A,13,0,Rain,20
+Route_A,20,3,Rain,21
+Route_ESP,15,5,Heavy Rain,21
+Route_ESP,7,4,Clear,10
+Route_A,12,3,Clear,18
+Route_A,8,6,Clear,25
+Route_ESP,14,0,Rain,14
+Route_ESP,18,2,Rain,29
+Route_A,14,5,Rain,15
+Route_B,19,4,Rain,31
+Route_B,21,6,Rain,31
+Route_ESP,14,6,Rain,5
+Route_ESP,14,3,Clear,8
+Route_ESP,13,6,Rain,12
+Route_ESP,11,2,Heavy Rain,27
+Route_B,9,0,Heavy Rain,42
+Route_A,8,4,Heavy Rain,41
+Route_B,21,3,Clear,24
+Route_ESP,9,5,Clear,10
+Route_A,16,4,Rain,18
+Route_ESP,14,6,Rain,8
+Route_ESP,6,2,Clear,8
+Route_B,9,0,Heavy Rain,44
+Route_ESP,22,2,Rain,15
+Route_ESP,9,2,Rain,23
+Route_A,12,1,Clear,14
+Route_B,18,3,Rain,33
+Route_B,18,6,Rain,39
+Route_A,13,5,Clear,11
+Route_ESP,19,5,Clear,11
+Route_ESP,9,1,Heavy Rain,43
+Route_A,18,1,Clear,22
+Route_B,15,4,Heavy Rain,36
+Route_B,9,3,Clear,32
+Route_ESP,22,3,Heavy Rain,27
+Route_A,13,5,Heavy Rain,24
+Route_ESP,7,5,Clear,10
+Route_B,20,5,Heavy Rain,39
+Route_A,21,5,Heavy Rain,29
+Route_ESP,7,3,Rain,13
+Route_B,15,6,Rain,28
+Route_ESP,22,3,Rain,13
+Route_ESP,7,0,Heavy Rain,21
+Route_A,14,4,Rain,20
+Route_B,18,3,Clear,30
+Route_A,16,4,Rain,19
+Route_B,18,6,Clear,32
+Route_B,18,5,Clear,28
+Route_A,19,5,Rain,14
+Route_B,6,5,Heavy Rain,43
+Route_B,17,5,Clear,39
+Route_A,17,5,Rain,25
+Route_B,20,1,Clear,24
+Route_B,9,5,Rain,37
+Route_A,22,4,Clear,18
+Route_A,7,2,Clear,17
+Route_B,15,4,Rain,31
+Route_ESP,18,6,Heavy Rain,26
+Route_B,18,1,Heavy Rain,44
+Route_ESP,15,4,Clear,13
+Route_A,17,6,Heavy Rain,49
+Route_B,17,1,Heavy Rain,51
+Route_B,12,1,Clear,25
+Route_A,15,2,Clear,15
+Route_A,20,2,Rain,22
+Route_A,22,4,Rain,16
+Route_ESP,21,1,Rain,10
+Route_ESP,19,3,Clear,13
+Route_ESP,22,5,Heavy Rain,25
+Route_B,13,5,Clear,20
+Route_A,17,0,Heavy Rain,38
+Route_B,16,1,Heavy Rain,37
+Route_ESP,16,1,Heavy Rain,21
+Route_A,11,2,Clear,17
+Route_B,11,6,Clear,24
+Route_B,11,3,Heavy Rain,47
+Route_ESP,18,0,Heavy Rain,40
+Route_A,19,2,Rain,19
+Route_A,15,2,Rain,20
+Route_A,6,6,Clear,16
+Route_B,20,6,Rain,26
+Route_A,11,3,Heavy Rain,37
+Route_ESP,11,5,Heavy Rain,23
+Route_ESP,18,0,Heavy Rain,33
+Route_ESP,10,4,Rain,17
+Route_B,10,2,Clear,24
+Route_ESP,7,1,Rain,14
+Route_ESP,13,6,Rain,17
+Route_ESP,17,6,Clear,16
+Route_B,15,1,Clear,23
+Route_B,14,3,Heavy Rain,44
+Route_A,19,1,Clear,16
+Route_A,11,4,Heavy Rain,33
+Route_A,20,4,Heavy Rain,29
+Route_ESP,18,1,Rain,30
+Route_ESP,11,2,Clear,9
+Route_ESP,12,6,Heavy Rain,16
+Route_ESP,21,4,Clear,13
+Route_A,16,4,Rain,17
+Route_B,9,2,Rain,40
+Route_B,20,4,Clear,26
+Route_A,21,3,Clear,13
+Route_A,10,5,Heavy Rain,25
+Route_B,16,4,Clear,26
+Route_ESP,13,0,Heavy Rain,28
+Route_B,15,1,Clear,24
+Route_ESP,18,0,Heavy Rain,31
+Route_A,13,4,Clear,18
+Route_B,11,3,Rain,26
+Route_ESP,12,0,Heavy Rain,26
+Route_B,11,0,Rain,30
+Route_ESP,14,4,Heavy Rain,25
+Route_ESP,22,0,Rain,12
+Route_A,17,0,Clear,26
+Route_A,17,5,Clear,17
+Route_A,20,5,Clear,17
+Route_A,19,6,Heavy Rain,34
+Route_ESP,16,2,Clear,12
+Route_ESP,6,2,Heavy Rain,18
+Route_ESP,22,0,Clear,8
+Route_ESP,14,0,Heavy Rain,28
+Route_B,8,1,Heavy Rain,52
+Route_A,13,4,Clear,16
+Route_ESP,9,2,Rain,27
+Route_ESP,17,1,Rain,29
+Route_A,7,5,Heavy Rain,26
+Route_B,8,2,Rain,34
+Route_B,12,1,Rain,30
+Route_ESP,9,6,Clear,12
+Route_B,16,2,Clear,27
+Route_ESP,16,6,Rain,11
+Route_ESP,9,4,Heavy Rain,30
+Route_ESP,19,1,Heavy Rain,23
+Route_A,16,2,Rain,22
+Route_A,16,4,Heavy Rain,25
+Route_ESP,15,5,Heavy Rain,29
+Route_ESP,19,6,Rain,9
+Route_A,16,6,Clear,13
+Route_A,13,4,Rain,16
+Route_ESP,16,0,Rain,12
+Route_A,7,5,Clear,17
+Route_A,22,5,Clear,13
+Route_A,16,2,Heavy Rain,27
+Route_B,20,2,Heavy Rain,38
+Route_B,15,4,Clear,26
+Route_A,16,4,Rain,20
+Route_B,9,2,Clear,39
+Route_A,12,1,Heavy Rain,30
+Route_A,20,3,Clear,18
+Route_A,20,2,Rain,17
+Route_ESP,14,4,Clear,9
+Route_ESP,15,6,Heavy Rain,29
+Route_B,22,6,Clear,21
+Route_A,11,5,Clear,14
+Route_ESP,19,5,Clear,8
+Route_B,8,6,Heavy Rain,48
+Route_A,11,0,Clear,14
+Route_B,22,2,Rain,29
+Route_ESP,19,4,Heavy Rain,29
+Route_ESP,11,0,Clear,13
+Route_A,15,3,Heavy Rain,29
+Route_ESP,10,3,Clear,10
+Route_A,15,4,Clear,15
+Route_ESP,15,4,Clear,10
+Route_A,12,3,Clear,16
+Route_ESP,12,3,Heavy Rain,24
+Route_A,21,1,Rain,18
+Route_A,15,1,Heavy Rain,30
+Route_A,14,6,Heavy Rain,22
+Route_B,8,2,Heavy Rain,48
+Route_B,17,5,Clear,30
+Route_B,9,5,Rain,33
+Route_A,15,2,Clear,13
+Route_B,10,0,Rain,28
+Route_A,11,0,Clear,18
+Route_ESP,8,3,Heavy Rain,29
+Route_ESP,11,5,Heavy Rain,27
+Route_A,21,6,Rain,14
+Route_B,21,3,Rain,31
+Route_ESP,6,5,Rain,9
+Route_A,11,6,Clear,12
+Route_ESP,6,1,Rain,17
+Route_ESP,15,3,Heavy Rain,25
+Route_ESP,11,6,Heavy Rain,24
+Route_A,10,6,Heavy Rain,24
+Route_A,22,4,Rain,17
+Route_A,17,2,Clear,33
+Route_B,10,6,Clear,25
+Route_B,14,6,Clear,26
+Route_ESP,10,0,Heavy Rain,20
+Route_ESP,19,5,Rain,11
+Route_A,12,6,Clear,15
+Route_B,12,2,Clear,28
+Route_A,20,3,Clear,16
+Route_A,17,6,Heavy Rain,31
+Route_A,11,1,Rain,15
+Route_B,9,3,Heavy Rain,48
+Route_ESP,11,3,Clear,8
+Route_B,11,0,Clear,27
+Route_ESP,14,4,Heavy Rain,30
+Route_A,15,1,Clear,14
+Route_ESP,12,0,Rain,14
+Route_A,16,6,Rain,18
+Route_A,9,1,Heavy Rain,50
+Route_B,10,2,Heavy Rain,40
+Route_ESP,12,6,Rain,17
+Route_ESP,13,1,Clear,8
+Route_B,22,3,Rain,26
+Route_A,11,5,Heavy Rain,29
+Route_B,18,5,Heavy Rain,54
+Route_ESP,7,3,Rain,14
+Route_ESP,21,3,Heavy Rain,23
+Route_A,22,3,Rain,22
+Route_B,22,1,Heavy Rain,43
+Route_A,13,3,Clear,16
+Route_B,17,6,Heavy Rain,49
+Route_A,22,6,Clear,10
+Route_B,13,0,Rain,27
+Route_B,21,3,Heavy Rain,48
+Route_ESP,9,6,Rain,19
+Route_B,9,0,Heavy Rain,55
+Route_B,8,1,Clear,38
+Route_A,14,0,Heavy Rain,29
+Route_A,19,0,Clear,14
+Route_B,21,6,Heavy Rain,30
+Route_A,21,2,Rain,20
+Route_B,14,2,Rain,27
+Route_B,12,3,Clear,27
+Route_B,6,2,Rain,25
+Route_B,13,0,Rain,29
+Route_ESP,6,4,Rain,14
+Route_ESP,13,2,Heavy Rain,23
+Route_ESP,9,5,Clear,21
+Route_ESP,21,6,Rain,8
+Route_B,11,1,Clear,28
+Route_B,11,4,Rain,31
+Route_A,6,2,Heavy Rain,31
+Route_ESP,21,3,Heavy Rain,28
+Route_ESP,19,1,Clear,12
+Route_A,6,3,Clear,16
+Route_A,19,0,Clear,13
+Route_A,15,2,Heavy Rain,33
+Route_ESP,15,0,Clear,11
+Route_B,14,0,Heavy Rain,44
+Route_A,22,1,Heavy Rain,24
+Route_B,16,5,Rain,28
+Route_B,19,3,Clear,25
+Route_B,6,1,Heavy Rain,44
+Route_ESP,22,1,Rain,12
+Route_ESP,19,5,Clear,11
+Route_ESP,10,2,Rain,14
+Route_ESP,13,2,Rain,16
+Route_A,16,2,Clear,18
+Route_B,18,0,Clear,38
+Route_B,7,6,Heavy Rain,33
+Route_A,21,4,Rain,18
+Route_ESP,11,6,Heavy Rain,18
+Route_A,19,4,Heavy Rain,36
+Route_ESP,22,6,Rain,12
+Route_ESP,18,3,Rain,18
+Route_A,22,6,Clear,12
+Route_ESP,21,2,Rain,14
+Route_ESP,7,5,Clear,9
+Route_A,19,3,Clear,18
+Route_B,21,6,Rain,25
+Route_ESP,12,5,Heavy Rain,22
+Route_ESP,17,4,Clear,18
+Route_B,21,5,Heavy Rain,34
+Route_ESP,7,5,Heavy Rain,21
+Route_A,17,2,Heavy Rain,39
+Route_A,7,0,Heavy Rain,30
+Route_B,17,0,Clear,36
+Route_A,16,2,Heavy Rain,29
+Route_B,19,1,Rain,25
+Route_A,21,4,Clear,16
+Route_A,6,6,Heavy Rain,25
+Route_A,21,4,Rain,16
+Route_A,7,2,Heavy Rain,27
+Route_A,13,1,Clear,13
+Route_ESP,15,1,Heavy Rain,28
+Route_B,17,0,Clear,37
+Route_ESP,8,0,Rain,27
+Route_ESP,22,1,Heavy Rain,24
+Route_ESP,7,3,Rain,14
+Route_ESP,8,0,Clear,26
+Route_A,22,5,Heavy Rain,24
+Route_A,11,1,Rain,15
+Route_B,19,2,Heavy Rain,39
+Route_A,11,1,Heavy Rain,26
+Route_B,17,5,Clear,30
+Route_ESP,22,6,Clear,3
+Route_ESP,18,4,Heavy Rain,35
+Route_ESP,11,0,Heavy Rain,22
+Route_A,7,5,Rain,15
+Route_B,9,5,Clear,34
+Route_A,19,1,Clear,14
+Route_B,8,3,Rain,38
+Route_ESP,18,3,Rain,19
+Route_B,21,1,Rain,27
+Route_ESP,21,4,Heavy Rain,29
+Route_A,20,2,Heavy Rain,30
+Route_ESP,9,5,Clear,24
+Route_A,11,2,Heavy Rain,31
+Route_ESP,12,5,Clear,10
+Route_A,16,3,Clear,15
+Route_A,12,4,Heavy Rain,30
+Route_B,13,2,Heavy Rain,42
+Route_A,14,4,Heavy Rain,29
+Route_B,18,0,Heavy Rain,60
+Route_A,15,5,Heavy Rain,24
+Route_B,7,0,Heavy Rain,36
+Route_ESP,6,4,Heavy Rain,31
+Route_A,18,2,Clear,18
+Route_A,17,3,Heavy Rain,41
+Route_B,19,4,Heavy Rain,39
+Route_B,7,0,Rain,28
+Route_ESP,9,2,Rain,23
+Route_ESP,6,6,Heavy Rain,22
+Route_ESP,20,3,Rain,14
+Route_B,16,2,Heavy Rain,41
+Route_B,22,0,Heavy Rain,45
+Route_ESP,10,4,Heavy Rain,23
+Route_A,14,2,Rain,20
+Route_A,12,6,Heavy Rain,25
+Route_A,11,5,Clear,9
+Route_B,19,2,Clear,23
+Route_ESP,17,0,Clear,18
+Route_B,8,0,Heavy Rain,58
+Route_B,10,4,Rain,31
+Route_A,6,1,Clear,18
+Route_ESP,22,2,Heavy Rain,24
+Route_A,16,4,Clear,17
+Route_B,6,3,Heavy Rain,42
+Route_B,10,4,Clear,26
+Route_A,11,6,Clear,15
+Route_A,6,3,Heavy Rain,33
+Route_A,20,1,Heavy Rain,34
+Route_B,19,0,Heavy Rain,41
+Route_A,17,4,Heavy Rain,35
+Route_A,13,5,Clear,13
+Route_ESP,7,0,Clear,12
+Route_ESP,8,5,Heavy Rain,36
+Route_ESP,21,6,Heavy Rain,29
+Route_ESP,11,2,Heavy Rain,21
+Route_B,18,6,Clear,41
+Route_ESP,10,3,Rain,15
+Route_B,7,5,Heavy Rain,38
+Route_B,21,2,Rain,29
+Route_B,18,3,Rain,36
+Route_B,14,2,Rain,27
+Route_ESP,10,5,Clear,9
+Route_B,16,3,Clear,25
+Route_A,22,6,Heavy Rain,25
+Route_ESP,12,0,Heavy Rain,23
+Route_B,7,5,Rain,28
+Route_A,20,5,Heavy Rain,30
+Route_B,20,3,Heavy Rain,42
+Route_ESP,6,4,Clear,8
+Route_B,20,3,Rain,29
+Route_ESP,22,3,Clear,11
+Route_A,14,1,Rain,22
+Route_A,11,5,Clear,16
+Route_ESP,15,2,Heavy Rain,24
+Route_A,14,3,Rain,22
+Route_ESP,12,1,Clear,11
+Route_B,6,4,Heavy Rain,38
+Route_B,15,2,Clear,25
+Route_A,8,5,Heavy Rain,41
+Route_ESP,13,2,Clear,8
+Route_B,12,4,Heavy Rain,37
+Route_ESP,17,0,Rain,24
+Route_ESP,10,6,Clear,8
+Route_B,17,0,Heavy Rain,47
+Route_ESP,12,1,Rain,17
+Route_ESP,8,4,Rain,26
+Route_B,15,6,Heavy Rain,37
+Route_ESP,22,4,Rain,11
+Route_B,7,2,Clear,25
+Route_B,16,6,Heavy Rain,34
+Route_A,16,6,Clear,14
+Route_A,19,1,Clear,18
+Route_B,10,3,Clear,25
+Route_B,9,0,Clear,35
+Route_A,8,1,Rain,31
+Route_A,17,0,Rain,29
+Route_B,9,3,Heavy Rain,47
+Route_B,10,0,Rain,31
+Route_ESP,13,3,Clear,13
+Route_ESP,12,5,Rain,9
+Route_ESP,16,6,Rain,16
+Route_A,8,2,Heavy Rain,47
+Route_B,17,5,Clear,27
+Route_ESP,6,5,Heavy Rain,24
+Route_A,17,4,Heavy Rain,40
+Route_B,15,0,Clear,23
+Route_A,9,2,Rain,26
+Route_B,21,2,Clear,28
+Route_A,21,5,Heavy Rain,26
+Route_A,13,4,Rain,20
+Route_B,21,1,Clear,28
+Route_A,14,5,Clear,16
+Route_ESP,21,4,Rain,12
+Route_ESP,6,5,Heavy Rain,30
+Route_B,13,5,Rain,27
+Route_A,10,6,Heavy Rain,27
+Route_A,14,3,Heavy Rain,35
+Route_B,7,6,Clear,24
+Route_B,11,1,Rain,30
+Route_ESP,12,6,Clear,9
+Route_ESP,16,5,Rain,11
+Route_B,15,1,Rain,29
+Route_ESP,21,6,Clear,9
+Route_ESP,20,4,Heavy Rain,27
+Route_ESP,21,3,Rain,16
+Route_A,18,6,Clear,19
+Route_ESP,16,5,Rain,12
+Route_B,18,2,Clear,36
+Route_A,12,3,Clear,14
+Route_A,7,3,Rain,16
+Route_A,21,4,Rain,19
+Route_B,15,3,Clear,25
+Route_B,19,3,Heavy Rain,36
+Route_B,17,3,Heavy Rain,49
+Route_A,7,2,Clear,13
+Route_ESP,22,3,Rain,11
+Route_A,20,5,Clear,17
+Route_A,10,6,Rain,17
+Route_ESP,11,1,Rain,13
+Route_A,19,4,Rain,20
+Route_B,19,3,Heavy Rain,38
+Route_B,9,1,Rain,38
+Route_B,15,3,Rain,29
+Route_A,21,4,Clear,17
+Route_A,16,0,Clear,17
+Route_A,6,2,Rain,16
+Route_A,16,0,Clear,15
+Route_B,13,4,Heavy Rain,45
+Route_B,6,0,Clear,24
+Route_ESP,6,2,Rain,13
+Route_B,14,2,Clear,23
+Route_B,11,0,Rain,28
+Route_B,7,4,Heavy Rain,46
+Route_ESP,18,6,Rain,21
+Route_A,10,1,Heavy Rain,34
+Route_B,13,0,Clear,23
+Route_A,6,3,Heavy Rain,32
+Route_A,21,1,Rain,18
+Route_A,6,0,Rain,20
+Route_B,19,4,Rain,31
+Route_ESP,18,6,Heavy Rain,34
+Route_ESP,14,0,Rain,13
+Route_ESP,20,3,Clear,11
+Route_ESP,20,6,Heavy Rain,23
+Route_ESP,8,3,Rain,24
+Route_A,20,6,Heavy Rain,25
+Route_ESP,11,5,Rain,13
+Route_A,10,5,Clear,13
+Route_B,6,0,Rain,26
+Route_B,22,5,Clear,23
+Route_B,9,4,Clear,34
+Route_ESP,13,5,Heavy Rain,22
+Route_B,7,2,Clear,25
+Route_B,11,2,Rain,26
+Route_B,11,5,Clear,26
+Route_B,20,2,Clear,27
+Route_A,17,1,Heavy Rain,40
+Route_A,21,2,Clear,17
+Route_A,10,6,Rain,15
+Route_A,6,0,Rain,20
+Route_ESP,10,5,Heavy Rain,21
+Route_A,21,0,Clear,18
+Route_B,15,3,Clear,26
+Route_ESP,20,6,Heavy Rain,23
+Route_B,19,6,Clear,19
+Route_A,13,1,Heavy Rain,35
+Route_ESP,10,2,Clear,8
+Route_B,19,1,Clear,24
+Route_ESP,6,1,Heavy Rain,21
+Route_B,14,5,Heavy Rain,38
+Route_ESP,8,6,Heavy Rain,33
+Route_B,12,2,Clear,26
+Route_ESP,8,0,Clear,25
+Route_A,17,3,Rain,25
+Route_ESP,21,1,Heavy Rain,20
+Route_A,7,2,Heavy Rain,26
+Route_B,19,0,Clear,27
+Route_B,14,4,Heavy Rain,36
+Route_B,8,6,Clear,32
+Route_ESP,7,4,Heavy Rain,28
+Route_A,9,2,Clear,25
+Route_ESP,13,3,Rain,14
+Route_A,18,1,Clear,18
+Route_B,8,2,Rain,33
+Route_ESP,22,1,Clear,11
+Route_ESP,6,4,Rain,18
+Route_B,15,0,Clear,24
+Route_ESP,16,2,Heavy Rain,22
+Route_ESP,9,6,Rain,25
+Route_A,6,3,Rain,20
+Route_B,6,0,Clear,28
+Route_B,13,5,Clear,26
+Route_B,15,5,Clear,22
+Route_ESP,6,2,Rain,16
+Route_A,9,6,Heavy Rain,39
+Route_B,21,5,Heavy Rain,35
+Route_ESP,6,6,Heavy Rain,28
+Route_ESP,8,6,Rain,29
+Route_A,17,5,Heavy Rain,32
+Route_A,8,4,Rain,30
+Route_A,14,0,Rain,18
+Route_ESP,21,1,Rain,15
+Route_A,6,2,Heavy Rain,30
+Route_ESP,19,3,Clear,10
+Route_A,16,5,Clear,16
+Route_ESP,16,1,Rain,15
+Route_ESP,9,0,Clear,18
+Route_ESP,8,1,Heavy Rain,30
+Route_ESP,18,4,Heavy Rain,33
+Route_ESP,15,6,Rain,15
+Route_B,9,6,Heavy Rain,53
+Route_B,10,4,Clear,25
+Route_A,22,4,Heavy Rain,35
+Route_B,7,3,Clear,27
+Route_ESP,12,2,Heavy Rain,27
+Route_A,16,1,Heavy Rain,34
+Route_ESP,7,3,Heavy Rain,19
+Route_A,21,3,Heavy Rain,28
+Route_B,12,1,Heavy Rain,43
+Route_ESP,7,1,Clear,11
+Route_ESP,15,2,Clear,9
+Route_A,16,2,Clear,13
+Route_B,9,5,Rain,31
+Route_A,17,6,Rain,26
+Route_B,7,1,Rain,29
+Route_B,13,1,Heavy Rain,39
+Route_ESP,11,0,Clear,8
+Route_A,7,3,Heavy Rain,26
+Route_ESP,8,4,Heavy Rain,35
+Route_B,22,1,Rain,31
+Route_A,16,5,Rain,16
+Route_B,18,0,Rain,46
+Route_A,21,3,Heavy Rain,36
+Route_ESP,10,1,Clear,10
+Route_A,9,1,Rain,24
+Route_A,22,2,Rain,20
+Route_B,13,3,Clear,28
+Route_A,6,1,Clear,17
+Route_B,21,6,Heavy Rain,39
+Route_A,18,6,Rain,25
+Route_ESP,10,4,Clear,12
+Route_A,22,0,Rain,16
+Route_B,17,4,Rain,38
+Route_ESP,20,3,Heavy Rain,31
+Route_ESP,6,4,Clear,10
+Route_A,6,0,Heavy Rain,37
+Route_B,13,1,Heavy Rain,44
+Route_B,20,2,Clear,26
+Route_A,19,3,Clear,16
+Route_ESP,17,2,Rain,25
+Route_A,20,6,Clear,14
+Route_A,11,3,Rain,15
+Route_A,7,6,Heavy Rain,26
+Route_B,7,5,Heavy Rain,36
+Route_A,21,4,Rain,17
+Route_ESP,20,5,Clear,8
+Route_ESP,8,0,Heavy Rain,38
+Route_B,12,1,Clear,24
+Route_B,11,1,Clear,25
+Route_B,13,4,Heavy Rain,43
+Route_ESP,21,5,Rain,13
+Route_B,16,4,Rain,29
+Route_B,18,4,Clear,39
+Route_A,9,3,Heavy Rain,45
+Route_A,18,4,Clear,28
+Route_B,14,4,Clear,25
+Route_A,11,2,Heavy Rain,36
+Route_ESP,17,3,Clear,16
+Route_B,12,4,Heavy Rain,36
+Route_B,9,4,Rain,44
+Route_ESP,13,4,Clear,8
+Route_A,9,5,Clear,26
+Route_A,6,5,Heavy Rain,29
+Route_ESP,20,1,Heavy Rain,25
+Route_ESP,9,2,Clear,23
+Route_A,16,4,Heavy Rain,35
+Route_ESP,22,2,Heavy Rain,28
+Route_A,7,1,Heavy Rain,31
+Route_A,19,5,Clear,10
+Route_ESP,17,4,Clear,14
+Route_A,15,4,Heavy Rain,26
+Route_A,7,2,Clear,17
+Route_ESP,16,3,Rain,16
+Route_ESP,19,1,Clear,9
+Route_ESP,7,2,Heavy Rain,20
+Route_B,22,1,Clear,26
+Route_B,9,4,Heavy Rain,51
+Route_ESP,18,5,Clear,19
+Route_B,11,4,Rain,28
+Route_A,17,5,Clear,24
+Route_B,13,5,Rain,21
+Route_B,12,2,Heavy Rain,38
+Route_B,13,1,Rain,29
+Route_A,20,3,Heavy Rain,38
+Route_A,9,6,Rain,20
+Route_ESP,6,3,Rain,13
+Route_B,12,4,Heavy Rain,41
+Route_B,13,5,Clear,22
+Route_B,8,2,Heavy Rain,48
+Route_ESP,16,6,Rain,14
+Route_B,21,4,Rain,25
+Route_ESP,18,3,Heavy Rain,37
+Route_B,9,5,Clear,31
+Route_ESP,17,5,Clear,23
+Route_A,20,2,Clear,13
+Route_B,21,2,Heavy Rain,47
+Route_ESP,15,1,Clear,10
+Route_B,13,5,Clear,24
+Route_B,14,4,Rain,28
+Route_A,7,6,Clear,11
+Route_B,20,4,Clear,27
+Route_ESP,15,4,Clear,10
+Route_A,21,4,Heavy Rain,26
+Route_ESP,15,0,Heavy Rain,27
+Route_A,19,2,Heavy Rain,29
+Route_B,13,2,Heavy Rain,42
+Route_ESP,21,2,Rain,11
+Route_A,10,3,Clear,14
+Route_A,22,3,Rain,18
+Route_B,22,5,Rain,30
+Route_ESP,10,4,Heavy Rain,21
+Route_ESP,21,3,Rain,16
+Route_ESP,6,6,Clear,10
+Route_A,11,6,Rain,12
+Route_B,19,4,Clear,26
+Route_A,18,4,Heavy Rain,43
+Route_ESP,11,0,Rain,15
+Route_ESP,21,2,Rain,13
+Route_B,12,2,Heavy Rain,44
+Route_ESP,22,1,Clear,8
+Route_A,19,1,Clear,17
+Route_A,21,4,Rain,20
+Route_B,9,0,Heavy Rain,50
+Route_A,8,3,Clear,28
+Route_A,19,4,Rain,21
+Route_A,14,1,Clear,14
+Route_ESP,8,2,Clear,20
+Route_A,10,2,Rain,15
+Route_A,18,5,Rain,27
+Route_B,6,4,Heavy Rain,46
+Route_ESP,17,6,Heavy Rain,31
+Route_ESP,22,3,Rain,15
+Route_B,8,3,Rain,38
+Route_ESP,10,5,Rain,11
+Route_B,17,1,Clear,35
+Route_ESP,13,5,Clear,8
+Route_ESP,10,0,Rain,13
+Route_B,14,2,Rain,26
+Route_ESP,13,4,Heavy Rain,26
+Route_ESP,16,2,Clear,11
+Route_B,15,0,Clear,25
+Route_B,10,0,Heavy Rain,44
+Route_B,18,1,Clear,35
+Route_B,20,2,Heavy Rain,42
+Route_ESP,9,0,Rain,24
+Route_B,15,1,Clear,26
+Route_ESP,15,1,Heavy Rain,26
+Route_A,12,2,Rain,15
+Route_A,8,3,Heavy Rain,32
+Route_B,7,5,Heavy Rain,32
+Route_ESP,8,6,Rain,21
+Route_A,6,2,Heavy Rain,34
+Route_ESP,15,1,Heavy Rain,31
+Route_B,7,2,Heavy Rain,44
+Route_A,18,4,Rain,30
+Route_A,12,5,Heavy Rain,32
+Route_B,18,2,Heavy Rain,46
+Route_A,19,3,Rain,15
+Route_A,19,5,Rain,16
+Route_ESP,12,1,Clear,8
+Route_B,15,2,Clear,28
+Route_ESP,8,3,Clear,22
+Route_A,12,2,Clear,17
+Route_B,13,1,Rain,26
+Route_A,16,6,Heavy Rain,35
+Route_ESP,15,3,Clear,11
+Route_B,21,5,Rain,32
+Route_B,13,1,Clear,26
+Route_ESP,22,2,Rain,16
+Route_A,10,1,Clear,18
+Route_A,8,5,Rain,25
+Route_B,21,0,Rain,25
+Route_ESP,15,2,Clear,8
+Route_A,11,2,Heavy Rain,27
+Route_A,18,6,Rain,19
+Route_B,17,4,Heavy Rain,52
+Route_ESP,6,6,Clear,9
+Route_ESP,17,0,Rain,19
+Route_B,19,3,Clear,26
+Route_B,6,2,Clear,27
+Route_A,20,0,Rain,16
+Route_B,9,2,Heavy Rain,61
+Route_ESP,7,4,Clear,11
+Route_A,7,1,Heavy Rain,34
+Route_A,19,0,Heavy Rain,31
+Route_ESP,14,6,Rain,10
+Route_B,16,1,Heavy Rain,35
+Route_ESP,10,6,Clear,11
+Route_A,11,3,Clear,13
+Route_B,17,5,Rain,37
+Route_A,18,3,Rain,36
+Route_B,18,5,Heavy Rain,43
+Route_ESP,14,0,Heavy Rain,25
+Route_ESP,11,4,Heavy Rain,19
+Route_B,18,4,Clear,37
+Route_B,13,3,Heavy Rain,39
+Route_ESP,8,6,Heavy Rain,30
+Route_B,12,6,Rain,22
+Route_B,6,4,Heavy Rain,36
+Route_ESP,16,5,Heavy Rain,19
+Route_ESP,21,1,Rain,14
+Route_A,7,5,Clear,9
+Route_B,13,3,Rain,29
+Route_ESP,11,4,Clear,11
+Route_ESP,20,3,Rain,16
+Route_A,17,4,Heavy Rain,37
+Route_A,6,1,Heavy Rain,28
+Route_B,22,6,Heavy Rain,42
+Route_B,17,6,Rain,35
+Route_A,14,0,Clear,13
+Route_B,6,5,Rain,23
+Route_A,8,4,Clear,21
+Route_ESP,11,0,Rain,13
+Route_B,7,5,Rain,27
+Route_B,8,1,Clear,37
+Route_ESP,14,4,Heavy Rain,22
+Route_B,14,2,Heavy Rain,38
+Route_B,10,0,Clear,26
+Route_A,6,3,Heavy Rain,37
+Route_B,12,3,Clear,28
+Route_A,9,5,Clear,25
+Route_ESP,6,5,Clear,5
+Route_B,17,4,Heavy Rain,58
+Route_B,20,1,Rain,30
+Route_A,20,3,Heavy Rain,34
+Route_A,22,3,Heavy Rain,25
+Route_A,15,2,Clear,17
+Route_A,19,0,Clear,18
+Route_B,22,2,Clear,23
+Route_B,17,0,Heavy Rain,61
+Route_ESP,19,6,Clear,6
+Route_ESP,13,3,Heavy Rain,23
+Route_ESP,20,3,Clear,11
+Route_A,13,2,Clear,16
+Route_A,10,5,Heavy Rain,27
+Route_A,21,0,Clear,18
+Route_ESP,8,3,Rain,26
+Route_B,22,3,Heavy Rain,39
+Route_A,15,5,Heavy Rain,27
+Route_A,19,3,Clear,15
+Route_ESP,10,3,Rain,14
+Route_A,6,6,Heavy Rain,25
+Route_B,19,3,Heavy Rain,38
+Route_A,12,0,Heavy Rain,31
+Route_ESP,11,5,Clear,5
+Route_B,8,2,Rain,35
+Route_B,6,5,Clear,22
+Route_ESP,11,5,Clear,7
+Route_ESP,19,2,Rain,14
+Route_A,16,6,Rain,17
+Route_A,21,4,Clear,14
+Route_ESP,12,6,Clear,9
+Route_B,7,6,Rain,29
+Route_B,15,2,Clear,28
+Route_A,9,4,Rain,29
+Route_B,13,5,Clear,23
+Route_B,11,3,Rain,27
+Route_ESP,13,0,Heavy Rain,24
+Route_ESP,20,4,Clear,13
+Route_B,11,2,Heavy Rain,38
+Route_B,15,4,Heavy Rain,45
+Route_ESP,9,0,Rain,25
+Route_ESP,17,1,Heavy Rain,28
+Route_A,20,0,Rain,20
+Route_A,15,1,Clear,15
+Route_ESP,13,3,Rain,13
+Route_ESP,18,6,Rain,25
+Route_A,14,4,Clear,14
+Route_ESP,11,2,Clear,13
+Route_B,14,3,Rain,28
+Route_ESP,8,5,Clear,19
+Route_ESP,14,1,Rain,12
+Route_B,13,2,Rain,32
+Route_B,12,6,Heavy Rain,41
+Route_B,17,5,Heavy Rain,47
+Route_ESP,17,2,Heavy Rain,38
+Route_ESP,19,4,Rain,13
+Route_B,6,1,Rain,27
+Route_A,14,0,Heavy Rain,31
+Route_A,9,6,Heavy Rain,43
+Route_B,7,6,Rain,29
+Route_ESP,6,6,Heavy Rain,20
+Route_A,18,4,Heavy Rain,38
+Route_ESP,18,4,Rain,26
+Route_B,22,1,Rain,25
+Route_A,13,6,Rain,19
+Route_ESP,14,0,Clear,10
+Route_B,14,1,Rain,27
+Route_A,16,2,Rain,17
+Route_A,17,6,Clear,26
+Route_ESP,8,4,Clear,14
+Route_A,11,0,Heavy Rain,26
+Route_B,16,5,Rain,28
+Route_A,7,3,Rain,16
+Route_ESP,6,4,Clear,10
+Route_B,22,5,Rain,26
+Route_ESP,7,6,Clear,8
+Route_ESP,18,4,Clear,13
+Route_ESP,15,2,Rain,16
+Route_A,14,0,Clear,14
+Route_ESP,9,4,Heavy Rain,34
+Route_ESP,22,0,Clear,8
+Route_B,18,1,Clear,36
+Route_A,10,5,Heavy Rain,28
+Route_A,19,6,Clear,14
+Route_A,7,6,Rain,14
+Route_B,13,4,Rain,30
+Route_A,21,0,Clear,16
+Route_A,19,0,Rain,21
+Route_A,19,6,Heavy Rain,27
+Route_ESP,21,6,Rain,13
+Route_ESP,15,1,Rain,16
+Route_A,7,4,Heavy Rain,35
+Route_B,13,4,Clear,23
+Route_A,11,4,Clear,17
+Route_B,21,4,Rain,26
+Route_A,19,3,Heavy Rain,27
+Route_B,11,4,Rain,28
+Route_A,22,0,Clear,16
+Route_B,19,4,Clear,27
+Route_ESP,8,4,Rain,23
+Route_B,9,0,Rain,41
+Route_B,19,2,Heavy Rain,42
+Route_ESP,7,6,Heavy Rain,22
+Route_B,8,3,Heavy Rain,52
+Route_ESP,15,1,Clear,8
+Route_A,12,5,Rain,18
+Route_ESP,15,5,Rain,13
+Route_A,16,4,Heavy Rain,30
+Route_A,15,0,Heavy Rain,31
+Route_A,14,4,Heavy Rain,28
+Route_B,20,0,Heavy Rain,41
+Route_A,6,6,Heavy Rain,28
+Route_A,10,5,Rain,18
+Route_A,22,5,Heavy Rain,34
+Route_ESP,6,2,Rain,13
+Route_B,8,3,Heavy Rain,55
+Route_A,10,5,Heavy Rain,28
+Route_ESP,14,2,Clear,9
+Route_A,9,5,Heavy Rain,35
+Route_ESP,10,2,Clear,13
+Route_B,12,6,Clear,25
+Route_ESP,13,2,Clear,12
+Route_B,15,6,Rain,22
+Route_A,11,3,Rain,18
+Route_ESP,19,2,Heavy Rain,29
+Route_B,15,5,Clear,21
+Route_ESP,22,5,Heavy Rain,17
+Route_A,11,1,Rain,21
+Route_B,10,6,Clear,22
+Route_ESP,10,2,Clear,12
+Route_B,8,2,Rain,36
+Route_B,6,6,Rain,25
+Route_A,21,2,Clear,15
+Route_ESP,11,6,Clear,10
+Route_ESP,16,3,Heavy Rain,25
+Route_A,13,6,Clear,13
+Route_A,11,1,Heavy Rain,30
+Route_ESP,10,6,Clear,10
+Route_B,6,0,Rain,30
+Route_B,10,6,Rain,21
+Route_B,17,2,Rain,39
+Route_B,15,2,Heavy Rain,42
+Route_A,19,0,Rain,20
+Route_B,10,5,Rain,23
+Route_A,22,6,Heavy Rain,29
+Route_A,12,2,Heavy Rain,30
+Route_B,11,0,Clear,27
+Route_B,20,3,Clear,28
+Route_A,7,1,Rain,21
+Route_ESP,18,4,Rain,21
+Route_A,11,6,Heavy Rain,22
+Route_ESP,13,1,Heavy Rain,28
+Route_B,9,5,Heavy Rain,59
+Route_B,14,0,Rain,28
+Route_ESP,12,2,Rain,16
+Route_ESP,8,4,Heavy Rain,34
+Route_ESP,9,2,Rain,27
+Route_ESP,10,0,Heavy Rain,25
+Route_B,9,0,Rain,35
+Route_A,15,1,Heavy Rain,28
+Route_B,6,3,Clear,27
+Route_B,13,6,Clear,21
+Route_B,14,2,Heavy Rain,44
+Route_B,7,5,Clear,27
+Route_B,13,2,Clear,27
+Route_B,6,3,Heavy Rain,40
+Route_A,13,5,Clear,10
+Route_ESP,19,0,Clear,12
+Route_B,14,1,Rain,30
+Route_ESP,16,2,Heavy Rain,30
+Route_ESP,8,4,Rain,23
+Route_B,21,5,Clear,21
+Route_ESP,8,6,Rain,28
+Route_ESP,15,3,Heavy Rain,26
+Route_ESP,18,4,Heavy Rain,29
+Route_A,6,2,Heavy Rain,29
+Route_B,19,0,Rain,31
+Route_B,6,5,Heavy Rain,32
+Route_B,21,1,Clear,25
+Route_ESP,6,6,Rain,9
+Route_ESP,18,5,Heavy Rain,30
+Route_A,18,2,Rain,35
+Route_ESP,14,2,Rain,15
+Route_ESP,12,3,Heavy Rain,27
+Route_B,21,5,Rain,22
+Route_ESP,15,5,Rain,12
+Route_ESP,18,6,Rain,16
+Route_A,20,0,Clear,17
+Route_ESP,12,0,Rain,15
+Route_ESP,15,4,Clear,11
+Route_B,11,3,Heavy Rain,46
+Route_ESP,22,2,Rain,15
+Route_ESP,8,3,Clear,24
+Route_ESP,14,4,Heavy Rain,21
+Route_ESP,7,3,Heavy Rain,29
+Route_A,10,2,Clear,16
+Route_ESP,21,2,Rain,16
+Route_A,21,1,Clear,17
+Route_A,12,2,Rain,17
+Route_B,17,0,Clear,35
+Route_A,14,0,Heavy Rain,28
+Route_A,8,3,Rain,26
+Route_B,6,6,Rain,23
+Route_A,17,4,Heavy Rain,39
+Route_A,6,0,Rain,20
+Route_ESP,15,5,Rain,12
+Route_B,13,0,Clear,24
+Route_B,11,1,Clear,27
+Route_A,21,4,Heavy Rain,32
+Route_ESP,6,5,Heavy Rain,22
+Route_ESP,7,6,Clear,8
+Route_A,21,0,Heavy Rain,37
+Route_B,7,6,Heavy Rain,34
+Route_A,21,1,Clear,17
+Route_B,16,2,Clear,28
+Route_B,17,3,Heavy Rain,47
+Route_ESP,14,4,Rain,18
+Route_B,17,1,Heavy Rain,43
+Route_B,16,6,Heavy Rain,36
+Route_A,12,5,Rain,17
+Route_B,21,1,Rain,29
+Route_A,19,4,Clear,18
+Route_A,21,2,Clear,16
+Route_ESP,11,3,Heavy Rain,20
+Route_A,13,0,Rain,17
+Route_B,13,1,Heavy Rain,40
+Route_ESP,19,2,Clear,13
+Route_A,12,1,Heavy Rain,26
+Route_A,12,5,Rain,16
+Route_B,18,4,Heavy Rain,52
+Route_ESP,20,0,Clear,12
+Route_B,20,2,Heavy Rain,35
+Route_ESP,7,0,Heavy Rain,20
+Route_A,15,1,Heavy Rain,28
+Route_ESP,13,2,Clear,13
+Route_ESP,20,1,Heavy Rain,27
+Route_A,8,6,Heavy Rain,40
+Route_A,20,5,Clear,15
+Route_A,20,1,Clear,14
+Route_ESP,21,6,Clear,7
+Route_B,16,2,Rain,30
+Route_ESP,16,3,Clear,9
+Route_A,18,3,Clear,28
+Route_B,21,1,Heavy Rain,42
+Route_A,11,6,Rain,14
+Route_A,11,5,Clear,15
+Route_B,10,2,Rain,30
+Route_ESP,11,5,Rain,10
+Route_B,7,3,Rain,26
+Route_ESP,10,2,Rain,16
+Route_B,17,0,Clear,42
+Route_ESP,11,1,Clear,11
+Route_A,6,2,Rain,18
+Route_A,17,1,Heavy Rain,32
+Route_B,9,4,Rain,31
+Route_B,15,1,Rain,33
+Route_B,6,4,Heavy Rain,38
+Route_ESP,11,1,Heavy Rain,18
+Route_A,15,4,Heavy Rain,34
+Route_B,19,1,Rain,28
+Route_B,9,1,Rain,36
+Route_ESP,19,4,Rain,16
+Route_ESP,10,3,Clear,11
+Route_A,16,5,Heavy Rain,31
+Route_ESP,9,3,Rain,28
+Route_A,18,2,Rain,26
+Route_B,20,1,Clear,26
+Route_ESP,13,4,Clear,8
+Route_ESP,12,0,Heavy Rain,21
+Route_B,17,3,Heavy Rain,55
+Route_ESP,12,3,Heavy Rain,32
+Route_A,7,4,Heavy Rain,33
+Route_B,12,5,Heavy Rain,37
+Route_ESP,18,4,Clear,23
+Route_B,16,0,Heavy Rain,40
+Route_B,8,1,Heavy Rain,47
+Route_B,18,4,Rain,37
+Route_B,14,2,Rain,31
+Route_B,21,5,Heavy Rain,34
+Route_A,21,3,Heavy Rain,26
+Route_A,6,5,Heavy Rain,28
+Route_ESP,14,0,Rain,12
+Route_ESP,19,4,Rain,16
+Route_A,20,4,Heavy Rain,38
+Route_B,8,6,Heavy Rain,55
+Route_B,12,0,Rain,31
+Route_B,16,5,Clear,19
+Route_B,11,5,Clear,26
+Route_ESP,15,1,Heavy Rain,25
+Route_B,20,5,Clear,25
+Route_A,16,6,Rain,10
+Route_A,7,4,Rain,16
+Route_A,6,3,Rain,18
+Route_B,13,2,Clear,24
+Route_A,14,2,Clear,18
+Route_ESP,13,2,Heavy Rain,20
+Route_A,10,2,Rain,18
+Route_B,8,5,Clear,34
+Route_A,6,0,Rain,17
+Route_A,7,2,Clear,16
+Route_A,6,6,Clear,10
+Route_A,18,1,Rain,28
+Route_B,11,3,Clear,27
+Route_A,22,5,Rain,18
+Route_A,17,1,Clear,21
+Route_B,15,2,Clear,26
+Route_A,9,6,Heavy Rain,34
+Route_B,19,3,Clear,27
+Route_ESP,6,0,Rain,17
+Route_ESP,18,0,Clear,16
+Route_B,19,6,Rain,23
+Route_ESP,12,6,Rain,14
+Route_ESP,7,1,Clear,8
+Route_B,20,6,Rain,23
+Route_B,13,5,Clear,23
+Route_ESP,22,1,Heavy Rain,23
+Route_A,21,1,Clear,16
+Route_B,17,1,Heavy Rain,57
+Route_B,10,4,Heavy Rain,43
+Route_ESP,22,2,Rain,11
+Route_A,10,5,Heavy Rain,27
+Route_B,8,6,Clear,29
+Route_A,18,2,Heavy Rain,35
+Route_ESP,10,0,Rain,16
+Route_A,22,2,Clear,14
+Route_ESP,8,6,Heavy Rain,28
+Route_A,9,3,Rain,34
+Route_B,17,0,Rain,43
+Route_ESP,13,2,Clear,10
+Route_ESP,14,4,Clear,9
+Route_ESP,16,0,Heavy Rain,29
+Route_ESP,12,2,Rain,14
+Route_A,17,2,Heavy Rain,43
+Route_A,13,2,Clear,13
+Route_A,22,3,Clear,14
+Route_B,18,0,Rain,42
+Route_A,14,0,Rain,20
+Route_ESP,9,5,Rain,24
+Route_ESP,12,0,Clear,10
+Route_B,6,3,Clear,28
+Route_A,10,0,Rain,18
+Route_ESP,7,4,Heavy Rain,24
+Route_A,15,2,Heavy Rain,33
+Route_ESP,13,5,Rain,15
+Route_ESP,22,4,Clear,11
+Route_ESP,19,6,Clear,9
+Route_B,19,3,Rain,29
+Route_A,12,2,Clear,17
+Route_ESP,9,4,Clear,15
+Route_ESP,18,0,Rain,22
+Route_A,17,3,Rain,26
+Route_ESP,20,1,Rain,15
+Route_ESP,16,0,Rain,14
+Route_ESP,8,0,Clear,25
+Route_A,13,5,Rain,20
+Route_ESP,12,6,Rain,7
+Route_B,15,1,Rain,27
+Route_A,22,4,Rain,17
+Route_B,17,2,Clear,37
+Route_A,7,0,Rain,17
+Route_ESP,10,5,Rain,13
+Route_ESP,11,3,Heavy Rain,27
+Route_A,10,1,Heavy Rain,33
+Route_A,8,6,Rain,23
+Route_ESP,8,3,Rain,24
+Route_A,22,1,Rain,19
+Route_A,20,5,Clear,17
+Route_A,19,0,Clear,16
+Route_ESP,19,3,Clear,13
+Route_A,13,1,Heavy Rain,36
+Route_B,13,2,Rain,27
+Route_ESP,20,3,Clear,9
+Route_ESP,18,6,Rain,18
+Route_ESP,20,5,Clear,4
+Route_ESP,18,1,Heavy Rain,34
+Route_A,8,5,Clear,22
+Route_B,22,2,Rain,30
+Route_A,6,6,Rain,20
+Route_A,12,3,Heavy Rain,30
+Route_ESP,17,0,Clear,16
+Route_A,19,1,Rain,20
+Route_B,7,3,Rain,31
+Route_A,17,4,Heavy Rain,47
+Route_B,11,2,Clear,23
+Route_ESP,19,3,Heavy Rain,21
+Route_B,8,2,Clear,33
+Route_ESP,6,1,Heavy Rain,32
+Route_B,7,2,Rain,28
+Route_B,21,3,Rain,32
+Route_ESP,20,1,Heavy Rain,30
+Route_A,6,6,Clear,13
+Route_B,20,6,Rain,25
+Route_B,8,0,Clear,37
+Route_A,18,5,Rain,22
+Route_ESP,14,0,Rain,13
+Route_ESP,20,3,Clear,8
+Route_ESP,19,6,Clear,9
+Route_ESP,11,4,Rain,17
+Route_A,11,6,Heavy Rain,24
+Route_ESP,17,2,Rain,28
+Route_ESP,14,4,Heavy Rain,28
+Route_B,14,1,Clear,25
+Route_B,11,5,Clear,21
+Route_B,12,3,Heavy Rain,46
+Route_ESP,16,2,Rain,15
+Route_A,21,1,Rain,19
+Route_B,22,3,Heavy Rain,36
+Route_B,10,3,Heavy Rain,40
+Route_A,22,6,Rain,13
+Route_B,12,3,Rain,28
+Route_ESP,15,4,Clear,9
+Route_ESP,19,6,Rain,10
+Route_ESP,19,0,Heavy Rain,28
+Route_B,6,5,Rain,26
+Route_ESP,15,4,Heavy Rain,25
+Route_ESP,9,0,Heavy Rain,32
+Route_A,11,6,Rain,16
+Route_ESP,18,0,Clear,24
+Route_B,21,1,Clear,24
+Route_A,8,5,Heavy Rain,37
+Route_A,19,5,Clear,14
+Route_ESP,13,2,Rain,15
+Route_B,10,5,Clear,24
+Route_A,16,4,Heavy Rain,25
+Route_ESP,14,3,Heavy Rain,22
+Route_ESP,18,2,Rain,19
+Route_B,10,1,Heavy Rain,38
+Route_ESP,14,2,Heavy Rain,24
+Route_ESP,20,2,Heavy Rain,28
+Route_B,18,2,Heavy Rain,46
+Route_B,16,4,Rain,27
+Route_A,19,0,Rain,23
+Route_A,13,0,Rain,22
+Route_A,16,1,Heavy Rain,34
+Route_A,16,4,Rain,22
+Route_ESP,10,5,Heavy Rain,25
+Route_A,10,1,Clear,15
+Route_B,20,4,Clear,26
+Route_A,8,6,Rain,18
+Route_ESP,15,0,Heavy Rain,25
+Route_ESP,12,4,Heavy Rain,32
+Route_B,8,1,Rain,43
+Route_B,11,0,Heavy Rain,38
+Route_B,9,1,Rain,39
+Route_ESP,21,0,Heavy Rain,21
+Route_A,8,0,Rain,31
+Route_B,16,0,Clear,28
+Route_A,20,4,Heavy Rain,33
+Route_B,12,4,Clear,28
+Route_ESP,20,6,Clear,7
+Route_ESP,7,1,Heavy Rain,22
+Route_A,18,2,Clear,30
+Route_A,13,2,Clear,18
+Route_ESP,12,0,Heavy Rain,29
+Route_B,18,4,Heavy Rain,49
+Route_ESP,16,3,Heavy Rain,27
+Route_ESP,22,4,Heavy Rain,23
+Route_A,11,4,Heavy Rain,34
+Route_A,17,5,Clear,28
+Route_B,10,5,Heavy Rain,40
+Route_A,19,3,Heavy Rain,37
+Route_B,8,5,Heavy Rain,40
+Route_ESP,9,2,Heavy Rain,36
+Route_ESP,17,5,Rain,22
+Route_ESP,14,3,Clear,10
+Route_A,17,4,Clear,22
+Route_ESP,17,3,Rain,23
+Route_B,8,3,Clear,39
+Route_ESP,7,6,Clear,5
+Route_ESP,8,1,Rain,25
+Route_B,15,6,Clear,26
+Route_A,20,3,Clear,14
+Route_ESP,13,6,Clear,7
+Route_B,15,5,Heavy Rain,38
+Route_ESP,9,2,Rain,21
+Route_A,20,6,Rain,11
+Route_ESP,12,1,Clear,11
+Route_ESP,15,6,Clear,5
+Route_ESP,20,6,Heavy Rain,16
+Route_A,6,4,Heavy Rain,24
+Route_ESP,9,6,Rain,25
+Route_A,6,5,Rain,17
+Route_ESP,7,5,Clear,8
+Route_ESP,7,3,Clear,9
+Route_ESP,17,5,Clear,15
+Route_B,21,4,Rain,30
+Route_A,14,4,Clear,17
+Route_ESP,7,5,Rain,7
+Route_ESP,11,6,Heavy Rain,21
+Route_ESP,20,4,Rain,14
+Route_B,10,5,Clear,28
+Route_B,20,1,Clear,26
+Route_ESP,16,3,Clear,13
+Route_B,9,1,Clear,30
+Route_ESP,15,4,Rain,18
+Route_B,21,2,Rain,30
+Route_B,7,6,Rain,27
+Route_A,7,5,Clear,11
+Route_A,9,5,Rain,20
+Route_B,16,2,Rain,33
+Route_ESP,9,6,Clear,16
+Route_ESP,6,1,Clear,9
+Route_B,19,5,Rain,25
+Route_ESP,12,6,Heavy Rain,27
+Route_B,19,2,Rain,33
+Route_A,22,4,Heavy Rain,27
+Route_A,20,1,Clear,17
+Route_B,19,3,Clear,28
+Route_A,18,1,Rain,32
+Route_A,11,4,Clear,13
+Route_B,14,2,Heavy Rain,38
+Route_ESP,15,4,Rain,12
+Route_ESP,7,4,Clear,11
+Route_B,16,4,Clear,23
+Route_A,12,4,Rain,16
+Route_ESP,14,0,Clear,10
+Route_ESP,20,1,Rain,17
+Route_A,7,0,Clear,15
+Route_A,22,0,Clear,16
+Route_A,16,0,Clear,18
+Route_B,7,6,Rain,25
+Route_B,15,0,Rain,30
+Route_A,9,3,Clear,24
+Route_B,18,3,Heavy Rain,49
+Route_A,11,5,Clear,16
+Route_ESP,14,4,Clear,8
+Route_B,17,1,Heavy Rain,50
+Route_ESP,6,5,Heavy Rain,26
+Route_A,8,2,Heavy Rain,40
+Route_ESP,11,2,Heavy Rain,25
+Route_A,22,0,Clear,14
+Route_B,12,6,Clear,25
+Route_A,6,5,Heavy Rain,33
+Route_ESP,6,0,Rain,15
+Route_B,15,0,Rain,27
+Route_A,15,1,Heavy Rain,30
+Route_ESP,21,1,Rain,15
+Route_ESP,12,3,Clear,13
+Route_B,6,0,Clear,23
+Route_B,7,3,Rain,26
+Route_B,12,0,Heavy Rain,36
+Route_ESP,13,3,Clear,13
+Route_A,10,1,Heavy Rain,28
+Route_ESP,21,5,Heavy Rain,21
+Route_B,21,5,Rain,23
+Route_B,6,4,Rain,30
+Route_A,9,6,Rain,26
+Route_ESP,6,3,Clear,10
+Route_ESP,20,4,Rain,14
+Route_A,6,1,Heavy Rain,30
+Route_ESP,13,6,Clear,6
+Route_ESP,16,4,Heavy Rain,21
+Route_B,14,2,Heavy Rain,37
+Route_B,14,5,Clear,20
+Route_A,7,5,Rain,18
+Route_A,6,5,Heavy Rain,29
+Route_B,9,3,Clear,32
+Route_ESP,17,4,Heavy Rain,34
+Route_ESP,20,1,Heavy Rain,23
+Route_ESP,20,6,Clear,4
+Route_B,15,5,Clear,23
+Route_ESP,19,1,Rain,12
+Route_B,15,2,Rain,28
+Route_B,11,2,Heavy Rain,35
+Route_B,10,4,Heavy Rain,43
+Route_A,18,0,Heavy Rain,45
+Route_A,13,6,Rain,13
+Route_ESP,20,3,Rain,12
+Route_A,12,6,Rain,19
+Route_B,15,0,Clear,26
+Route_ESP,15,1,Rain,12
+Route_ESP,20,1,Heavy Rain,27
+Route_ESP,22,0,Rain,14
+Route_ESP,12,4,Rain,12
+Route_B,18,1,Heavy Rain,58
+Route_ESP,12,3,Clear,8
+Route_B,22,4,Rain,27
+Route_ESP,18,1,Rain,27
+Route_A,22,0,Rain,18
+Route_A,15,4,Clear,15
+Route_A,14,0,Heavy Rain,32
+Route_A,20,5,Rain,18
+Route_ESP,8,3,Rain,18
+Route_B,22,5,Clear,21
+Route_ESP,13,0,Clear,11
+Route_ESP,19,3,Clear,12
+Route_ESP,7,1,Heavy Rain,19
+Route_ESP,17,0,Heavy Rain,35
+Route_A,22,6,Heavy Rain,28
+Route_B,9,3,Heavy Rain,57
+Route_A,18,4,Clear,25
+Route_ESP,7,4,Rain,13
+Route_A,14,0,Clear,15
+Route_A,21,0,Clear,18
+Route_ESP,12,4,Clear,13
+Route_B,16,4,Clear,24
+Route_ESP,6,2,Heavy Rain,24
+Route_A,8,6,Clear,24
+Route_ESP,22,2,Clear,12
+Route_A,19,3,Heavy Rain,27
+Route_A,21,1,Rain,21
+Route_B,15,0,Rain,31
+Route_ESP,15,0,Clear,8
+Route_B,13,3,Rain,26
+Route_B,10,3,Heavy Rain,46
+Route_B,21,3,Clear,27
+Route_A,8,5,Clear,22
+Route_B,8,3,Heavy Rain,50
+Route_B,19,6,Heavy Rain,37
+Route_A,16,3,Clear,15
+Route_A,7,2,Heavy Rain,29
+Route_ESP,20,5,Rain,13
+Route_B,18,6,Clear,39
+Route_B,16,4,Heavy Rain,47
+Route_B,10,0,Heavy Rain,42
+Route_B,21,2,Heavy Rain,37
+Route_A,8,2,Rain,24
+Route_ESP,17,1,Heavy Rain,34
+Route_ESP,21,0,Heavy Rain,20
+Route_ESP,15,4,Heavy Rain,23
+Route_ESP,15,0,Rain,13
+Route_B,13,4,Heavy Rain,45
+Route_ESP,13,0,Rain,16
+Route_ESP,8,2,Clear,20
+Route_ESP,16,0,Clear,10
+Route_B,14,2,Heavy Rain,45
+Route_A,11,0,Heavy Rain,25
+Route_B,20,4,Heavy Rain,44
+Route_ESP,10,4,Clear,12
+Route_A,16,3,Clear,15
+Route_A,9,5,Clear,22
+Route_ESP,14,3,Heavy Rain,23
+Route_A,17,6,Rain,30
+Route_B,17,6,Clear,41
+Route_B,15,1,Clear,25
+Route_B,15,3,Rain,33
+Route_ESP,8,4,Rain,16
+Route_B,19,0,Rain,29
+Route_ESP,19,4,Rain,14
+Route_B,12,3,Clear,27
+Route_ESP,21,2,Rain,14
+Route_B,13,0,Heavy Rain,38
+Route_ESP,13,1,Heavy Rain,24
+Route_B,9,0,Heavy Rain,50
+Route_B,7,0,Clear,23
+Route_B,18,1,Heavy Rain,56
+Route_A,15,5,Rain,16
+Route_ESP,22,0,Heavy Rain,31
+Route_B,12,5,Clear,26
+Route_ESP,22,5,Rain,15
+Route_B,21,5,Clear,22
+Route_A,12,1,Clear,15
+Route_B,18,3,Rain,38
+Route_ESP,9,5,Rain,23
+Route_A,14,3,Heavy Rain,24
+Route_B,13,6,Clear,25
+Route_ESP,20,4,Rain,14
+Route_ESP,14,1,Rain,15
+Route_ESP,12,1,Clear,13
+Route_ESP,16,1,Heavy Rain,19
+Route_ESP,8,0,Rain,22
+Route_B,10,1,Rain,29
+Route_ESP,15,1,Heavy Rain,24
+Route_A,8,3,Rain,30
+Route_A,8,2,Heavy Rain,44
+Route_A,11,0,Heavy Rain,32
+Route_B,6,2,Rain,28
+Route_ESP,6,6,Heavy Rain,26
+Route_A,17,0,Clear,29
+Route_A,16,1,Rain,21
+Route_A,17,4,Heavy Rain,38
+Route_B,12,4,Clear,26
+Route_ESP,12,3,Clear,9
+Route_B,19,0,Heavy Rain,42
+Route_B,14,6,Rain,26
+Route_B,16,1,Clear,27
+Route_B,12,1,Clear,24
+Route_A,10,0,Clear,13
+Route_ESP,6,5,Rain,13
+Route_B,22,2,Rain,29
+Route_ESP,20,5,Clear,9
+Route_B,7,4,Rain,31
+Route_B,16,3,Clear,28
+Route_ESP,21,0,Clear,9
+Route_B,20,0,Rain,28
+Route_B,18,4,Clear,39
+Route_ESP,7,0,Rain,13
+Route_A,21,1,Clear,14
+Route_ESP,14,3,Heavy Rain,27
+Route_B,14,3,Rain,29
+Route_ESP,20,0,Rain,14
+Route_B,6,0,Heavy Rain,44
+Route_A,17,4,Heavy Rain,38
+Route_A,8,4,Clear,26
+Route_ESP,7,3,Rain,12
+Route_B,16,0,Clear,25
+Route_A,10,5,Rain,18
+Route_B,14,0,Rain,28
+Route_B,21,5,Clear,23
+Route_ESP,11,0,Heavy Rain,29
+Route_ESP,18,4,Rain,22
+Route_A,15,3,Clear,17
+Route_A,8,0,Clear,32
+Route_ESP,15,4,Rain,18
+Route_ESP,17,4,Clear,24
+Route_A,20,1,Clear,15
+Route_ESP,9,2,Rain,25
+Route_ESP,18,2,Heavy Rain,33
+Route_B,13,1,Clear,28
+Route_A,15,5,Clear,9
+Route_ESP,15,1,Clear,9
+Route_ESP,8,0,Heavy Rain,42
+Route_ESP,7,2,Clear,9
+Route_B,17,5,Clear,36
+Route_B,18,2,Rain,39
+Route_ESP,6,1,Heavy Rain,26
+Route_B,12,1,Rain,28
+Route_B,9,1,Heavy Rain,52
+Route_ESP,7,1,Heavy Rain,27
+Route_A,22,4,Rain,18
+Route_ESP,8,3,Heavy Rain,37
+Route_A,17,2,Heavy Rain,50
+Route_ESP,22,5,Heavy Rain,20
+Route_B,21,4,Clear,24
+Route_B,6,2,Heavy Rain,47
+Route_ESP,8,6,Rain,23
+Route_A,21,6,Heavy Rain,18
+Route_B,6,5,Clear,27
+Route_B,14,1,Rain,29
+Route_ESP,7,3,Rain,11
+Route_B,22,2,Clear,27
+Route_B,12,3,Clear,28
+Route_B,7,4,Rain,31
+Route_B,11,3,Rain,30
+Route_ESP,14,1,Heavy Rain,31
+Route_A,7,5,Rain,14
+Route_A,13,2,Clear,17
+Route_ESP,16,6,Clear,9
+Route_A,8,4,Heavy Rain,42
+Route_A,7,4,Rain,16
+Route_A,18,6,Rain,20
+Route_B,13,2,Heavy Rain,42
+Route_B,19,4,Clear,25
+Route_ESP,17,6,Clear,21
+Route_A,12,5,Rain,14
+Route_A,7,1,Clear,17
+Route_A,14,4,Rain,23
+Route_B,11,4,Rain,25
+Route_B,21,0,Clear,25
+Route_B,21,3,Clear,28
+Route_A,11,3,Rain,19
+Route_ESP,7,5,Clear,7
+Route_ESP,18,5,Heavy Rain,28
+Route_B,16,2,Rain,28
+Route_A,16,1,Heavy Rain,33
+Route_B,13,0,Clear,23
+Route_B,17,1,Clear,33
+Route_ESP,19,6,Rain,9
+Route_A,7,2,Clear,18
+Route_B,8,6,Heavy Rain,48
+Route_ESP,17,6,Rain,18
+Route_A,12,5,Heavy Rain,29
+Route_ESP,22,5,Heavy Rain,18
+Route_ESP,21,4,Clear,13
+Route_B,21,0,Rain,26
+Route_B,19,0,Heavy Rain,43
+Route_B,13,6,Heavy Rain,33
+Route_A,17,0,Heavy Rain,39
+Route_ESP,7,4,Clear,9
+Route_B,20,6,Heavy Rain,33
+Route_ESP,18,4,Heavy Rain,47
+Route_ESP,13,6,Rain,9
+Route_ESP,22,3,Heavy Rain,32
+Route_ESP,19,0,Clear,11
+Route_B,17,4,Clear,37
+Route_B,11,2,Clear,27
+Route_B,13,4,Heavy Rain,36
+Route_ESP,7,5,Clear,10
+Route_B,22,0,Rain,31
+Route_ESP,18,5,Clear,14
+Route_ESP,13,5,Heavy Rain,20
+Route_A,17,0,Rain,33
+Route_A,9,3,Heavy Rain,38
+Route_A,11,6,Heavy Rain,28
+Route_A,6,5,Heavy Rain,27
+Route_ESP,12,0,Rain,16
+Route_A,11,2,Clear,14
+Route_A,10,1,Rain,21
+Route_A,9,3,Clear,28
+Route_ESP,21,0,Rain,13
+Route_B,14,4,Rain,31
+Route_B,14,0,Heavy Rain,44
+Route_ESP,18,1,Clear,24
+Route_ESP,10,4,Clear,13
+Route_ESP,22,0,Clear,13
+Route_B,19,5,Rain,27
+Route_A,7,4,Heavy Rain,26
+Route_A,10,2,Heavy Rain,31
+Route_A,22,4,Heavy Rain,32
+Route_B,15,5,Heavy Rain,34
+Route_ESP,15,5,Rain,16
+Route_A,12,0,Clear,16
+Route_B,15,3,Rain,26
+Route_ESP,8,2,Heavy Rain,32
+Route_ESP,9,3,Clear,19
+Route_ESP,11,1,Heavy Rain,31
+Route_B,6,1,Clear,24
+Route_B,11,1,Heavy Rain,42
+Route_B,14,4,Heavy Rain,44
+Route_B,11,3,Rain,32
+Route_A,17,1,Rain,34
+Route_A,18,6,Rain,26
+Route_B,8,1,Clear,35
+Route_A,11,5,Clear,15
+Route_ESP,12,5,Heavy Rain,19
+Route_A,11,3,Heavy Rain,34
+Route_B,16,6,Clear,23
+Route_ESP,14,6,Clear,11
+Route_ESP,14,4,Rain,18
+Route_ESP,10,5,Heavy Rain,22
+Route_ESP,10,6,Clear,6
+Route_A,14,5,Clear,13
+Route_ESP,7,0,Heavy Rain,23
+Route_A,18,6,Rain,22
+Route_A,8,3,Heavy Rain,44
+Route_A,22,2,Clear,13
+Route_ESP,14,5,Rain,9
+Route_ESP,22,3,Clear,10
+Route_A,21,0,Clear,16
+Route_B,12,2,Rain,27
+Route_ESP,10,2,Heavy Rain,26
+Route_ESP,20,4,Rain,12
+Route_A,12,1,Heavy Rain,29
+Route_A,9,2,Clear,28
+Route_B,16,1,Clear,28
+Route_A,22,5,Rain,13
+Route_B,7,6,Clear,21
+Route_B,22,3,Rain,29
+Route_ESP,8,3,Clear,18
+Route_A,8,1,Clear,22
+Route_B,6,4,Clear,24
+Route_B,14,3,Rain,27
+Route_B,22,2,Clear,24
+Route_B,7,6,Rain,26
+Route_A,14,1,Rain,18
+Route_B,9,4,Heavy Rain,61
+Route_A,7,6,Clear,11
+Route_ESP,20,2,Rain,13
+Route_B,7,2,Rain,26
+Route_B,13,3,Clear,23
+Route_B,22,2,Heavy Rain,36
+Route_A,10,0,Rain,20
+Route_ESP,12,1,Rain,12
+Route_ESP,11,4,Clear,9
+Route_A,11,2,Heavy Rain,35
+Route_B,13,0,Heavy Rain,34
+Route_ESP,20,4,Heavy Rain,19
+Route_B,11,2,Clear,28
+Route_A,10,1,Heavy Rain,28
+Route_ESP,18,6,Rain,19
+Route_B,19,3,Heavy Rain,42
+Route_B,9,4,Rain,38
+Route_A,17,2,Clear,23
+Route_ESP,13,3,Rain,14
+Route_B,10,1,Heavy Rain,38
+Route_ESP,6,0,Heavy Rain,30
+Route_ESP,13,4,Rain,11
+Route_A,12,4,Heavy Rain,33
+Route_ESP,11,6,Clear,9
+Route_B,12,2,Heavy Rain,45
+Route_B,12,1,Clear,23
+Route_B,12,3,Clear,28
+Route_A,14,6,Heavy Rain,30
+Route_A,22,5,Clear,17
+Route_B,14,2,Heavy Rain,41
+Route_ESP,16,2,Clear,10
+Route_B,8,0,Heavy Rain,59
+Route_ESP,14,5,Rain,11
+Route_A,18,1,Clear,18
+Route_ESP,17,2,Heavy Rain,35
+Route_B,6,2,Clear,24
+Route_B,20,4,Clear,24
+Route_ESP,17,1,Clear,16
+Route_A,12,0,Clear,14
+Route_ESP,21,0,Heavy Rain,28
+Route_B,6,3,Rain,27
+Route_A,15,6,Heavy Rain,28
+Route_A,7,2,Clear,14
+Route_ESP,13,1,Rain,11
+Route_B,16,3,Clear,25
+Route_B,22,2,Rain,32
+Route_A,8,0,Heavy Rain,43
+Route_B,22,2,Heavy Rain,41
+Route_ESP,9,0,Clear,21
+Route_B,14,3,Heavy Rain,36
+Route_A,7,2,Clear,14
+Route_ESP,6,1,Rain,13
+Route_A,7,3,Heavy Rain,32
+Route_A,22,0,Heavy Rain,36
+Route_ESP,19,0,Clear,11
+Route_B,10,4,Rain,28
+Route_A,9,4,Heavy Rain,36
+Route_B,18,5,Heavy Rain,44
+Route_A,15,0,Clear,18
+Route_A,10,3,Heavy Rain,26
+Route_A,6,6,Clear,11
+Route_ESP,11,3,Rain,12
+Route_B,8,6,Clear,33
+Route_ESP,13,6,Clear,8
+Route_A,6,3,Clear,14
+Route_A,14,2,Heavy Rain,32
+Route_ESP,20,2,Rain,13
+Route_A,15,2,Rain,19
+Route_ESP,11,5,Heavy Rain,16
+Route_A,16,6,Clear,9
+Route_B,16,0,Clear,23
+Route_B,9,4,Clear,29
+Route_ESP,9,5,Heavy Rain,41
+Route_B,8,4,Heavy Rain,50
+Route_ESP,10,2,Rain,11
+Route_ESP,20,4,Rain,15
+Route_B,17,0,Rain,34
+Route_B,15,0,Clear,26
+Route_A,17,6,Rain,28
+Route_A,21,4,Clear,18
+Route_B,20,1,Rain,26
+Route_ESP,6,6,Heavy Rain,20
+Route_A,22,3,Rain,23
+Route_ESP,17,5,Clear,21
+Route_A,10,1,Heavy Rain,37
+Route_ESP,20,0,Rain,14
+Route_A,7,2,Heavy Rain,23
+Route_ESP,14,4,Clear,9
+Route_B,21,3,Clear,28
+Route_B,9,3,Clear,35
+Route_B,12,2,Clear,23
+Route_B,7,6,Clear,24
+Route_A,16,5,Heavy Rain,32
+Route_B,13,0,Heavy Rain,45
+Route_ESP,10,5,Rain,12
+Route_B,14,3,Clear,27
+Route_B,9,1,Clear,37
+Route_ESP,10,6,Heavy Rain,26
+Route_B,6,6,Rain,24
+Route_A,22,6,Clear,9
+Route_A,20,1,Clear,13
+Route_B,13,0,Rain,32
+Route_A,21,0,Rain,18
+Route_ESP,8,5,Rain,23
+Route_A,12,4,Rain,20
+Route_ESP,22,1,Rain,15
+Route_A,17,4,Clear,27
+Route_ESP,16,2,Heavy Rain,23
+Route_A,6,2,Heavy Rain,34
+Route_B,11,0,Heavy Rain,40
+Route_ESP,18,1,Clear,17
+Route_ESP,11,5,Rain,13
+Route_A,18,3,Rain,24
+Route_A,8,6,Clear,15
+Route_A,6,5,Rain,13
+Route_ESP,16,3,Heavy Rain,33
+Route_B,21,3,Clear,26
+Route_ESP,14,6,Rain,11
+Route_ESP,9,5,Rain,23
+Route_B,19,6,Rain,26
+Route_ESP,16,5,Clear,4
+Route_A,18,6,Clear,21
+Route_A,8,3,Clear,29
+Route_B,8,3,Clear,35
+Route_B,7,1,Heavy Rain,48
+Route_A,12,2,Rain,21
+Route_B,8,4,Clear,38
+Route_A,12,1,Rain,21
+Route_ESP,6,3,Heavy Rain,23
+Route_B,8,4,Clear,42
+Route_A,12,4,Clear,13
+Route_ESP,6,1,Heavy Rain,23
+Route_B,13,3,Rain,32
+Route_A,11,6,Rain,17
+Route_A,9,4,Clear,25
+Route_ESP,19,1,Heavy Rain,24
+Route_ESP,16,1,Clear,10
+Route_B,6,5,Clear,25
+Route_B,15,2,Rain,27
+Route_A,19,6,Clear,11
+Route_A,12,1,Heavy Rain,34
+Route_B,13,2,Heavy Rain,43
+Route_ESP,11,4,Clear,8
+Route_B,16,1,Rain,28
+Route_A,12,4,Heavy Rain,27
+Route_A,11,5,Clear,9
+Route_B,11,2,Rain,25
+Route_A,13,2,Rain,18
+Route_ESP,20,2,Heavy Rain,30
+Route_B,17,1,Clear,34
+Route_ESP,18,6,Heavy Rain,31
+Route_A,14,0,Heavy Rain,33
+Route_A,19,6,Heavy Rain,23
+Route_ESP,21,6,Rain,14
+Route_ESP,6,3,Clear,11
+Route_ESP,21,0,Rain,13
+Route_A,21,2,Heavy Rain,36
+Route_A,15,6,Rain,20
+Route_A,7,6,Heavy Rain,23
+Route_B,21,0,Heavy Rain,45
+Route_B,14,0,Rain,29
+Route_B,12,6,Rain,26
+Route_A,11,6,Clear,13
+Route_ESP,19,4,Clear,12
+Route_A,10,2,Heavy Rain,37
+Route_B,11,4,Heavy Rain,47
+Route_B,9,4,Heavy Rain,50
+Route_A,12,0,Rain,23
+Route_ESP,12,5,Heavy Rain,29
+Route_ESP,20,3,Heavy Rain,25
+Route_B,20,1,Rain,30
+Route_ESP,9,6,Clear,16
+Route_A,19,2,Clear,16
+Route_A,9,2,Rain,26
+Route_ESP,22,5,Rain,14
+Route_ESP,15,2,Clear,12
+Route_ESP,9,2,Clear,22
+Route_B,8,0,Rain,33
+Route_B,18,4,Clear,35
+Route_A,22,6,Clear,11
+Route_A,18,6,Heavy Rain,42
+Route_ESP,18,2,Clear,16
+Route_B,18,2,Clear,35
+Route_B,17,3,Clear,35
+Route_B,21,4,Clear,24
+Route_ESP,8,6,Heavy Rain,26
+Route_A,17,5,Rain,26
+Route_ESP,21,1,Rain,16
+Route_ESP,10,5,Rain,9
+Route_ESP,13,0,Clear,10
+Route_B,6,1,Rain,30
+Route_A,21,0,Rain,17
+Route_B,14,4,Heavy Rain,36
+Route_ESP,12,5,Clear,5
+Route_A,8,3,Rain,31
+Route_ESP,12,1,Heavy Rain,21
+Route_ESP,7,1,Clear,9
+Route_B,12,2,Clear,27
+Route_B,10,5,Heavy Rain,41
+Route_A,21,0,Heavy Rain,29
+Route_B,7,6,Rain,25
+Route_A,9,4,Clear,24
+Route_ESP,9,3,Heavy Rain,31
+Route_A,15,5,Heavy Rain,24
+Route_A,8,2,Heavy Rain,46
+Route_A,21,3,Rain,17
+Route_B,12,4,Clear,24
+Route_B,7,2,Rain,28
+Route_ESP,19,6,Heavy Rain,20
+Route_ESP,12,6,Rain,13
+Route_ESP,16,2,Rain,13
+Route_ESP,11,6,Rain,13
+Route_ESP,12,4,Heavy Rain,21
+Route_B,18,1,Rain,48
+Route_ESP,8,6,Rain,24
+Route_ESP,16,2,Heavy Rain,30
+Route_ESP,10,6,Clear,8
+Route_A,12,0,Clear,15
+Route_B,8,4,Heavy Rain,48
+Route_ESP,17,4,Rain,19
+Route_A,15,0,Heavy Rain,32
+Route_ESP,10,5,Rain,6
+Route_B,17,5,Clear,33
+Route_ESP,9,1,Heavy Rain,36
+Route_A,6,4,Clear,15
+Route_B,17,0,Rain,43
+Route_B,8,4,Rain,38
+Route_A,15,4,Heavy Rain,31
+Route_B,13,5,Heavy Rain,40
+Route_B,10,2,Clear,26
+Route_A,20,6,Rain,18
+Route_A,21,5,Clear,13
+Route_ESP,22,2,Rain,10
+Route_A,17,2,Rain,27
+Route_ESP,18,2,Clear,23
+Route_ESP,19,2,Rain,13
+Route_A,22,3,Heavy Rain,28
+Route_ESP,15,6,Rain,11
+Route_B,19,6,Rain,27
+Route_B,17,6,Rain,29
+Route_A,6,3,Clear,18
+Route_ESP,12,4,Heavy Rain,23
+Route_ESP,13,1,Clear,13
+Route_B,19,0,Heavy Rain,45
+Route_B,7,2,Clear,25
+Route_A,16,3,Heavy Rain,27
+Route_ESP,15,2,Rain,14
+Route_ESP,12,3,Clear,12
+Route_ESP,15,4,Rain,15
+Route_A,12,1,Heavy Rain,32
+Route_B,20,2,Heavy Rain,34
+Route_A,9,4,Heavy Rain,45
+Route_A,9,4,Heavy Rain,45
+Route_A,15,0,Clear,16
+Route_B,18,4,Heavy Rain,47
+Route_ESP,17,4,Heavy Rain,39
+Route_ESP,9,1,Rain,21
+Route_A,11,0,Heavy Rain,31
+Route_ESP,13,6,Heavy Rain,24
+Route_ESP,8,4,Heavy Rain,37
+Route_B,14,3,Heavy Rain,47
+Route_B,16,0,Heavy Rain,37
+Route_A,15,0,Clear,17
+Route_A,11,3,Clear,15
+Route_ESP,9,6,Heavy Rain,40
+Route_A,21,4,Rain,17
+Route_A,17,3,Heavy Rain,41
+Route_B,8,1,Heavy Rain,48
+Route_A,15,1,Clear,16
+Route_B,16,5,Clear,26
+Route_A,21,6,Rain,16
+Route_B,8,3,Clear,38
+Route_A,8,3,Heavy Rain,36
+Route_B,7,6,Clear,27
+Route_B,11,0,Rain,29
+Route_ESP,16,0,Clear,11
+Route_ESP,22,4,Heavy Rain,26
+Route_B,13,2,Clear,24
+Route_B,21,0,Heavy Rain,38
+Route_B,21,6,Heavy Rain,41
+Route_A,22,4,Rain,22
+Route_B,14,0,Rain,29
+Route_ESP,17,4,Heavy Rain,33
+Route_ESP,21,3,Heavy Rain,26
+Route_ESP,7,0,Heavy Rain,21
+Route_B,11,2,Clear,24
+Route_ESP,12,6,Clear,10
+Route_B,7,4,Clear,26
+Route_B,11,3,Rain,29
+Route_ESP,8,6,Clear,19
+Route_ESP,12,4,Rain,13
+Route_B,9,6,Clear,34
+Route_B,6,5,Rain,25
+Route_A,13,2,Heavy Rain,33
+Route_A,21,1,Rain,20
+Route_A,20,2,Heavy Rain,33
+Route_A,6,2,Heavy Rain,25
+Route_B,16,6,Rain,27
+Route_A,20,3,Clear,15
+Route_B,11,5,Clear,21
+Route_A,20,0,Rain,18
+Route_ESP,18,6,Heavy Rain,41
+Route_ESP,22,5,Clear,5
+Route_A,14,0,Clear,18
+Route_ESP,13,0,Clear,13
+Route_ESP,14,3,Rain,14
+Route_B,11,5,Rain,27
+Route_B,21,6,Heavy Rain,38
+Route_A,19,6,Rain,17
+Route_B,14,6,Rain,27
+Route_ESP,20,6,Clear,5
+Route_A,13,0,Clear,13
+Route_ESP,14,1,Heavy Rain,24
+Route_A,14,6,Heavy Rain,31
+Route_A,12,0,Rain,15
+Route_ESP,18,5,Heavy Rain,37
+Route_B,17,2,Clear,34
+Route_A,22,6,Clear,11
+Route_A,14,4,Heavy Rain,33
+Route_A,22,5,Rain,21
+Route_ESP,13,4,Rain,10
+Route_A,15,0,Heavy Rain,30
+Route_A,22,6,Clear,10
+Route_ESP,21,4,Clear,9
+Route_A,12,0,Clear,16
+Route_ESP,17,1,Heavy Rain,37
+Route_A,18,2,Clear,28
+Route_A,6,1,Clear,16
+Route_B,14,0,Clear,27
+Route_A,6,1,Heavy Rain,36
+Route_A,11,0,Rain,18
+Route_A,12,3,Rain,19
+Route_A,21,3,Heavy Rain,29
+Route_ESP,11,5,Clear,7
+Route_B,18,5,Clear,33
+Route_B,22,3,Heavy Rain,43
+Route_A,16,4,Clear,14
+Route_A,8,2,Rain,27
+Route_ESP,19,1,Rain,14
+Route_A,7,5,Rain,19
+Route_B,10,0,Heavy Rain,34
+Route_A,20,4,Clear,13
+Route_A,17,2,Heavy Rain,41
+Route_B,21,1,Heavy Rain,36
+Route_A,14,6,Heavy Rain,20
+Route_A,7,1,Clear,13
+Route_B,20,1,Rain,30
+Route_A,19,5,Rain,15
+Route_A,6,3,Rain,20
+Route_ESP,11,4,Clear,8
+Route_B,20,5,Heavy Rain,31
+Route_ESP,11,3,Heavy Rain,29
+Route_ESP,9,6,Clear,20
+Route_A,9,2,Heavy Rain,39
+Route_B,9,6,Rain,39
+Route_ESP,21,6,Rain,13
+Route_B,10,0,Heavy Rain,39
+Route_A,15,6,Clear,12
+Route_B,8,1,Clear,33
+Route_A,11,3,Clear,17
+Route_A,11,2,Rain,19
+Route_A,22,0,Heavy Rain,25
+Route_B,22,3,Heavy Rain,41
+Route_B,7,6,Clear,20
+Route_A,16,6,Clear,15
+Route_B,7,1,Rain,31
+Route_A,21,0,Rain,17
+Route_B,22,1,Rain,30
+Route_A,17,0,Clear,23
+Route_B,6,5,Heavy Rain,31
+Route_ESP,17,3,Rain,21
+Route_ESP,7,3,Heavy Rain,22
+Route_ESP,19,3,Clear,10
+Route_ESP,16,5,Heavy Rain,22
+Route_ESP,19,6,Rain,11
+Route_ESP,8,5,Rain,25
+Route_ESP,6,0,Clear,9
+Route_ESP,15,0,Clear,10
+Route_A,13,1,Heavy Rain,34
+Route_ESP,17,1,Heavy Rain,43
+Route_B,19,0,Clear,24
+Route_ESP,12,2,Heavy Rain,28
+Route_A,21,0,Rain,22
+Route_B,7,5,Clear,23
+Route_A,15,4,Heavy Rain,31
+Route_B,22,1,Rain,31
+Route_ESP,11,1,Heavy Rain,28
+Route_ESP,21,3,Rain,14
+Route_ESP,15,3,Rain,13
+Route_ESP,13,2,Rain,12
+Route_ESP,18,3,Rain,26
+Route_B,9,2,Rain,46
+Route_B,13,5,Heavy Rain,40
+Route_A,14,0,Heavy Rain,36
+Route_ESP,7,4,Heavy Rain,29
+Route_A,12,0,Heavy Rain,34
+Route_ESP,9,3,Heavy Rain,42
+Route_A,8,6,Rain,23
+Route_A,7,2,Rain,17
+Route_B,6,6,Rain,30

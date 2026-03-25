@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TransitPulse | Admin Command Center</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-icon">TP</div>
+      <h1>TransitPulse <small style="font-size:0.5em;color:#94a3b8;vertical-align:middle;">ADMIN</small></h1>
+    </div>
+
+    <div class="system-status">
+      <h2>System Overview</h2>
+      <div class="stats-grid" id="stats-container">
+      <div class="stat-card full-width">
+        <div class="stat-value" id="stat-active">0 <small>Buses</small></div>
+        <div class="stat-label">Active Fleet</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="stat-speed">0 <small>km/h</small></div>
+        <div class="stat-label">Avg Speed</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value"><span style="color:var(--success)">●</span></div>
+        <div class="stat-label">System Health</div>
+      </div>
+    </div>
+
+    <!-- Live Analytics Charts -->
+    <div class="analytics-card" style="margin-top:20px; background:rgba(255,255,255,0.03); padding:16px; border-radius:12px; border:1px solid rgba(255,255,255,0.05);">
+      <h3 style="font-size:0.85rem; text-transform:uppercase; letter-spacing:1px; color:var(--text-muted); margin-bottom:12px; text-align:center;">Real-time Fleet Status</h3>
+      <div style="height: 150px; width: 100%; display: flex; justify-content: center;">
+        <canvas id="statusChart"></canvas>
+      </div>
+    </div>
+    
+    <div class="analytics-card" style="margin-top:10px; margin-bottom: 20px; background:rgba(255,255,255,0.03); padding:16px; border-radius:12px; border:1px solid rgba(255,255,255,0.05);">
+      <h3 style="font-size:0.85rem; text-transform:uppercase; letter-spacing:1px; color:var(--text-muted); margin-bottom:12px; text-align:center;">Average Occupancy by Route</h3>
+      <div style="height: 150px; width: 100%;">
+        <canvas id="occupancyChart"></canvas>
+      </div>
+    </div>
+
+    <div class="route-filters">
+      <h2>Active Routes</h2>
+      <div id="route-buttons-container" class="filter-col">
+        <p class="loading-text">Loading routes...</p>
+      </div>
+
+      <button id="ml-toggle" class="ml-btn" onclick="toggleML()">
+        <span class="ml-icon">✨</span> Enable AI Prediction Engine
+      </button>
+    </div>
+
+    <div class="event-feed">
+      <h2>Live Telemetry Alerts</h2>
+      <div id="alerts-container" class="alerts-scroller">
+         <p class="loading-text">Monitoring live stream...</p>
+      </div>
+    </div>
+    
+    <div style="margin-top: 20px; text-align:center;">
+       <a href="index.html" style="color:var(--text-muted);font-size:0.8rem;text-decoration:none;">&larr; Sign Out</a>
+    </div>
+  </aside>
+
+  <main class="map-container">
+    <div id="map"></div>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+  <!-- Chart.js for Live Analytics -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>
